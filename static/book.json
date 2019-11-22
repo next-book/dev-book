@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"title": "Walden",
+		"author": "Henry David Thoreau",
+		"published": 1854,
+		"keywords": ["Authors, American", "19th century", "Biography", "Thoreau, Henry David, 1817-1862", "Homes and haunts", "Massachusetts", "Walden Woods", "Solitude", "Social life and customs"]
+	},
+	"chapters": [
+		"economy.html",
+		"where-i-lived-and-what-i-lived-for.html",
+		"reading.html",
+		"sounds.html",
+		"solitude.html",
+		"visitors.html",
+		"the-bean-field.html",
+		"the-village.html",
+		"the-ponds.html",
+		"baker-farm.html",
+		"higher-laws.html",
+		"brute-neighbors.html",
+		"house-warming.html",
+		"former-inhabitants-and-winter-visitors.html",
+		"winter-animals.html",
+		"the-pond-in-winter.html",
+		"spring.html",
+		"conclusion.html"
+	],
+	"static": ["style", "scripts", "fonts", "images"]
+}
+
+
+
+
+
