@@ -1,0 +1,478 @@
+{
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "published": 1854,
+  "keywords": [
+    "Authors, American",
+    "19th century",
+    "Biography",
+    "Thoreau, Henry David, 1817-1862",
+    "Homes and haunts",
+    "Massachusetts",
+    "Walden Woods",
+    "Solitude",
+    "Social life and customs"
+  ],
+  "slug": "thoreau-walden-1854-57d88a",
+  "revision": "935096e",
+  "generatedAt": {
+    "date": "Fri Nov 22 2019 22:49:33 GMT+0100 (Central European Standard Time)",
+    "unix": 1574459373745
+  },
+  "documents": [
+    {
+      "title": "Baker Farm",
+      "file": "baker-farm.html",
+      "words": 2553,
+      "chars": 13819,
+      "isChapter": true,
+      "order": 9,
+      "prev": "the-ponds.html",
+      "next": "higher-laws.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Baker Farm",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Brute Neighbors",
+      "file": "brute-neighbors.html",
+      "words": 4797,
+      "chars": 25474,
+      "isChapter": true,
+      "order": 11,
+      "prev": "higher-laws.html",
+      "next": "house-warming.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Brute Neighbors",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Colophon",
+      "file": "colophon.html",
+      "words": 144,
+      "chars": 883,
+      "isChapter": false,
+      "order": null,
+      "next": "economy.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Colophon",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "file": "conclusion.html",
+      "words": 4626,
+      "chars": 24898,
+      "isChapter": true,
+      "order": 17,
+      "prev": "spring.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Conclusion",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Economy",
+      "file": "economy.html",
+      "words": 25330,
+      "chars": 137010,
+      "isChapter": true,
+      "order": 0,
+      "prev": null,
+      "next": "where-i-lived-and-what-i-lived-for.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Economy",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Former Inhabitants and Winter Visitors",
+      "file": "former-inhabitants-and-winter-visitors.html",
+      "words": 4677,
+      "chars": 25807,
+      "isChapter": true,
+      "order": 13,
+      "prev": "house-warming.html",
+      "next": "winter-animals.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Former Inhabitants and Winter Visitors",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Higher Laws",
+      "file": "higher-laws.html",
+      "words": 4196,
+      "chars": 22753,
+      "isChapter": true,
+      "order": 10,
+      "prev": "baker-farm.html",
+      "next": "brute-neighbors.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Higher Laws",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "House-Warming",
+      "file": "house-warming.html",
+      "words": 5715,
+      "chars": 30587,
+      "isChapter": true,
+      "order": 12,
+      "prev": "brute-neighbors.html",
+      "next": "former-inhabitants-and-winter-visitors.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "House-Warming",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Imprint",
+      "file": "imprint.html",
+      "words": 142,
+      "chars": 887,
+      "isChapter": false,
+      "order": null,
+      "next": "economy.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Imprint",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Walden",
+      "file": "index.html",
+      "words": 765,
+      "chars": 4760,
+      "isChapter": false,
+      "order": null,
+      "next": "economy.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Walden",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Imprint",
+              "id": "chunk3",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Standard Ebooks Imprint",
+                  "id": "chunk7",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Standard Ebooks Colophon",
+              "id": "chunk12",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Uncopyright",
+              "id": "chunk18",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reading",
+      "file": "reading.html",
+      "words": 3759,
+      "chars": 20885,
+      "isChapter": true,
+      "order": 2,
+      "prev": "where-i-lived-and-what-i-lived-for.html",
+      "next": "sounds.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Reading",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Solitude",
+      "file": "solitude.html",
+      "words": 3431,
+      "chars": 18236,
+      "isChapter": true,
+      "order": 4,
+      "prev": "sounds.html",
+      "next": "visitors.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Solitude",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sounds",
+      "file": "sounds.html",
+      "words": 5692,
+      "chars": 31422,
+      "isChapter": true,
+      "order": 3,
+      "prev": "reading.html",
+      "next": "solitude.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sounds",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Spring",
+      "file": "spring.html",
+      "words": 6628,
+      "chars": 36163,
+      "isChapter": true,
+      "order": 16,
+      "prev": "the-pond-in-winter.html",
+      "next": "conclusion.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Spring",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "The Bean-Field",
+      "file": "the-bean-field.html",
+      "words": 3786,
+      "chars": 20637,
+      "isChapter": true,
+      "order": 6,
+      "prev": "visitors.html",
+      "next": "the-village.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "The Bean-Field",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "The Pond in Winter",
+      "file": "the-pond-in-winter.html",
+      "words": 5196,
+      "chars": 28059,
+      "isChapter": true,
+      "order": 15,
+      "prev": "winter-animals.html",
+      "next": "spring.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "The Pond in Winter",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "The Ponds",
+      "file": "the-ponds.html",
+      "words": 9152,
+      "chars": 49148,
+      "isChapter": true,
+      "order": 8,
+      "prev": "the-village.html",
+      "next": "baker-farm.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "The Ponds",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "The Village",
+      "file": "the-village.html",
+      "words": 2016,
+      "chars": 10791,
+      "isChapter": true,
+      "order": 7,
+      "prev": "the-bean-field.html",
+      "next": "the-ponds.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "The Village",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Uncopyright",
+      "file": "uncopyright.html",
+      "words": 378,
+      "chars": 2333,
+      "isChapter": false,
+      "order": null,
+      "next": "economy.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Uncopyright",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Visitors",
+      "file": "visitors.html",
+      "words": 4738,
+      "chars": 25550,
+      "isChapter": true,
+      "order": 5,
+      "prev": "solitude.html",
+      "next": "the-bean-field.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Visitors",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Where I Lived, and What I Lived For",
+      "file": "where-i-lived-and-what-i-lived-for.html",
+      "words": 6081,
+      "chars": 32360,
+      "isChapter": true,
+      "order": 1,
+      "prev": "economy.html",
+      "next": "reading.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Where I Lived, and What I Lived For",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Winter Animals",
+      "file": "winter-animals.html",
+      "words": 3636,
+      "chars": 19593,
+      "isChapter": true,
+      "order": 14,
+      "prev": "former-inhabitants-and-winter-visitors.html",
+      "next": "the-pond-in-winter.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Winter Animals",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 107438,
+      "chars": 582055
+    },
+    "chapters": {
+      "words": 106009,
+      "chars": 573192
+    }
+  }
+}
