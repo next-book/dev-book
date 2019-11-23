@@ -25,7 +25,7 @@
 		"spring.html",
 		"conclusion.html"
 	],
-	"static": ["style", "scripts", "fonts", "images"]
+	"static": ["style", "scripts", "fonts", "images", "favicon.png"]
 }
 
 
