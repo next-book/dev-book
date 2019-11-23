@@ -53789,7 +53789,8 @@ function (_React$Component) {
         actions: {
           showToc: this.showToc
         }
-      }), this.isChapter && _react["default"].createElement(_react["default"].Fragment, null, _react["default"].createElement(NavBar, {
+      }), chapter && _react["default"].createElement(_react["default"].Fragment, null, _react["default"].createElement(NavBar, {
+        isChapter: this.isChapter,
         readingOrder: ro,
         chapter: chapter,
         scrollRatio: this.props.scrollRatio,
@@ -53894,11 +53895,12 @@ function (_React$Component2) {
   }, {
     key: "render",
     value: function render() {
-      return _react["default"].createElement("div", {
+      var content = this.props.idea === null ? this.firstTime() : this.nthTime();
+      return content && _react["default"].createElement("div", {
         className: "seq-return-wrapper"
       }, _react["default"].createElement("div", {
         className: "seq-return"
-      }, this.props.idea === null ? this.firstTime() : this.nthTime()));
+      }, content));
     }
   }]);
 
@@ -53908,10 +53910,10 @@ function (_React$Component2) {
 SeqReturn.propTypes = {
   idea: _propTypes["default"].number,
   targetChapter: _propTypes["default"].object,
+  sequential: _propTypes["default"].bool,
   thisChapter: _propTypes["default"].bool.isRequired,
   isChapter: _propTypes["default"].bool.isRequired,
   setPosition: _propTypes["default"].func.isRequired,
-  sequential: _propTypes["default"].bool,
   startLink: _propTypes["default"].string.isRequired
 };
 
@@ -53955,7 +53957,7 @@ CatchWord.propTypes = {
 function NavBar(props) {
   return _react["default"].createElement("ul", {
     className: "nav-bar"
-  }, _react["default"].createElement(Pointer, {
+  }, props.isChapter && _react["default"].createElement(Pointer, {
     scrollRatio: props.scrollRatio,
     chapter: props.chapter,
     totalWords: props.totalWords
@@ -53970,6 +53972,7 @@ function NavBar(props) {
 
 NavBar.propTypes = {
   scrollRatio: _propTypes["default"].number.isRequired,
+  isChapter: _propTypes["default"].bool.isRequired,
   chapter: _propTypes["default"].object.isRequired,
   totalWords: _propTypes["default"].number.isRequired,
   readingOrder: _propTypes["default"].array.isRequired
