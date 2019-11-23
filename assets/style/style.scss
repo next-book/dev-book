@@ -92,6 +92,10 @@ body, html {
 	}
 }
 
+[epub\:type="frontmatter"] .nb-navigation nav .top-bar {
+	display: none;
+}
+
 hr {
 	margin: 4rem 25vw 4rem 0;
 	border: 0.5rem solid rgba(#255537, 0.2);

@@ -13,7 +13,7 @@
 		{{ $styleHash:= $style | resources.Fingerprint }}
 		<link rel="stylesheet" href="{{ $style.Permalink }}" media="screen" integrity="$styleHash">
   </head>
-  <body {{ with .Params.class }}class="{{ . }}"{{ end }}>
+  <body {{ with .Params.class }}class="{{ . }}"{{ end }} epub:type="{{ with .Params.type }}{{ . }}{{ else }}chapter{{ end }}">
     {{ block "content" . }}{{ end }}
 
 		{{ $scripts := resources.Get "scripts/bundle.js" }}

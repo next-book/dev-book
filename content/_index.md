@@ -1,13 +1,14 @@
 ---
 title: Walden
+type: frontmatter
 ---
-<article epub:type="backmatter">
+<article>
 	<section id="imprint" epub:type="imprint">
 		<header>
 			<h2 epub:type="title">Imprint</h2>
 		</header>
 
-		<p>This ebook is a prototype of a web-based publication, published with <a href="https://next-book.info">next-book</a> open platform. It is based on the code produced by <a href="https://alexcabal.com">Alex Cabal</a> for <a href="https://standardebooks.org">Standard Ebooks project</a> and provided under the same license (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal Public Domain Dedication</a>).</p>
+		<p>This ebook is a prototype of a web-based publication, published with <a href="https://next-book.info">next-book</a> open platform. It is based on the code produced by <a href="https://alexcabal.com">Alex Cabal</a> for <a href="https://standardebooks.org">Standard Ebooks project</a>, and provided under the same license (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal Public Domain Dedication</a>).</p>
 
 		<p>This edition is (as of November 2019) a work in progress — visual design is crude and advanced functionality, such as configuration (font size, colors…), annotations, reader’s data syncing etc. will be added over coming weeks and months.</p>
 

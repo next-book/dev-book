@@ -4,12 +4,12 @@
   "description": "walden",
   "main": "",
   "scripts": {
-    "build": "npm run build:js && hugo -d html && nb-mapper --src html --out book",
+    "build": "npm run build:js && hugo -d html && node filters.js && nb-mapper --src html --out book",
     "build:fromhtml": "nb-mapper --src html --out book",
     "build:js": "browserify assets/scripts/index.js -o assets/scripts/bundle.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nesehnutí",
+  "author": "Jan Martinek",
   "devDependencies": {
     "nb-mapper": "^0.2.9"
   },
