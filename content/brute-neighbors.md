@@ -1,11 +1,10 @@
 ---
 title: Brute Neighbors
-type: chapter
 ---
 <p>Sometimes I had a companion in my fishing, who came through the village to my house from the other side of the town, and the catching of the dinner was as much a social exercise as the eating of it.</p>
 <p><i>Hermit.</i> I wonder what the world is doing now.
 I have not heard so much as a locust over the sweet-fern these three hours.
-The pigeons are all asleep upon their roosts⁠—no flutter from them.
+The pigeons are all asleep upon their roosts—no flutter from them.
 Was that a farmer’s noon horn which sounded from beyond the woods just now?
 The hands are coming in to boiled salt beef and cider and Indian bread.
 Why will men worry themselves so?
@@ -17,14 +16,14 @@ Better not keep a house.
 Say, some hollow tree; and then for morning calls and dinner-parties!
 Only a woodpecker tapping.
 Oh, they swarm; the sun is too warm there; they are born too far into life for me.
-I have water from the spring, and a loaf of brown bread on the shelf.⁠—Hark!
+I have water from the spring, and a loaf of brown bread on the shelf.—Hark!
 I hear a rustling of the leaves.
 Is it some ill-fed village hound yielding to the instinct of the chase? or the lost pig which is said to be in these woods, whose tracks I saw after the rain?
-It comes on apace; my sumachs and sweetbriers tremble.⁠—Eh, <abbr>Mr.</abbr> Poet, is it you?
+It comes on apace; my sumachs and sweetbriers tremble.—Eh, <abbr>Mr.</abbr> Poet, is it you?
 How do you like the world today?</p>
 <p><i>Poet.</i> See those clouds; how they hang!
 That’s the greatest thing I have seen today.
-There’s nothing like it in old paintings, nothing like it in foreign lands⁠—unless when we were off the coast of Spain.
+There’s nothing like it in old paintings, nothing like it in foreign lands—unless when we were off the coast of Spain.
 That’s a true Mediterranean sky.
 I thought, as I have my living to get, and have not eaten today, that I might go a-fishing.
 That’s the true industry for poets.
@@ -114,7 +113,7 @@ Neither manifested the least disposition to retreat.
 It was evident that their battle-cry was “Conquer or die.”
 In the meanwhile there came along a single red ant on the hillside of this valley, evidently full of excitement, who either had despatched his foe, or had not yet taken part in the battle; probably the latter, for he had lost none of his limbs; whose mother had charged him to return with his shield or upon it.
 Or perchance he was some Achilles, who had nourished his wrath apart, and had now come to avenge or rescue his Patroclus.
-He saw this unequal combat from afar⁠—for the blacks were nearly twice the size of the red⁠—he drew near with rapid pace till he stood on his guard within half an inch of the combatants; then, watching his opportunity, he sprang upon the black warrior, and commenced his operations near the root of his right fore leg, leaving the foe to select among his own members; and so there were three united for life, as if a new kind of attraction had been invented which put all other locks and cements to shame.
+He saw this unequal combat from afar—for the blacks were nearly twice the size of the red—he drew near with rapid pace till he stood on his guard within half an inch of the combatants; then, watching his opportunity, he sprang upon the black warrior, and commenced his operations near the root of his right fore leg, leaving the foe to select among his own members; and so there were three united for life, as if a new kind of attraction had been invented which put all other locks and cements to shame.
 I should not have wondered by this time to find that they had their respective musical bands stationed on some eminent chip, and playing their national airs the while, to excite the slow and cheer the dying combatants.
 I was myself excited somewhat even as if they had been men.
 The more you think of it, the less the difference.
@@ -122,7 +121,7 @@ And certainly there is not the fight recorded in Concord history, at least, if i
 For numbers and for carnage it was an Austerlitz or Dresden.
 Concord Fight!
 Two killed on the patriots’ side, and Luther Blanchard wounded!
-Why here every ant was a Buttrick⁠—“Fire! for God’s sake fire!”⁠—and thousands shared the fate of Davis and Hosmer.
+Why here every ant was a Buttrick—“Fire! for God’s sake fire!”—and thousands shared the fate of Davis and Hosmer.
 There was not one hireling there.
 I have no doubt that it was a principle they fought for, as much as our ancestors, and not to avoid a threepenny tax on their tea; and the results of this battle will be as important and memorable to those whom it concerns as those of the battle of Bunker Hill, at least.</p>
 <p>I took up the chip on which the three I have particularly described were struggling, carried it into my house, and placed it under a tumbler on my windowsill, in order to see the issue.
@@ -136,7 +135,7 @@ I never learned which party was victorious, nor the cause of the war; but I felt
 A similar engagement between great and small ants is recorded by Olaus Magnus, in which the small ones, being victorious, are said to have buried the bodies of their own soldiers, but left those of their giant enemies a prey to the birds.
 This event happened previous to the expulsion of the tyrant Christiern the Second from Sweden.
 The battle which I witnessed took place in the Presidency of Polk, five years before the passage of Webster’s Fugitive-Slave Bill.</p>
-<p>Many a village Bose, fit only to course a mud-turtle in a victualling cellar, sported his heavy quarters in the woods, without the knowledge of his master, and ineffectually smelled at old fox burrows and woodchucks’ holes; led perchance by some slight cur which nimbly threaded the wood, and might still inspire a natural terror in its denizens;⁠—now far behind his guide, barking like a canine bull toward some small squirrel which had treed itself for scrutiny, then, cantering off, bending the bushes with his weight, imagining that he is on the track of some stray member of the jerbilla family.
+<p>Many a village Bose, fit only to course a mud-turtle in a victualling cellar, sported his heavy quarters in the woods, without the knowledge of his master, and ineffectually smelled at old fox burrows and woodchucks’ holes; led perchance by some slight cur which nimbly threaded the wood, and might still inspire a natural terror in its denizens;—now far behind his guide, barking like a canine bull toward some small squirrel which had treed itself for scrutiny, then, cantering off, bending the bushes with his weight, imagining that he is on the track of some stray member of the jerbilla family.
 Once I was surprised to see a cat walking along the stony shore of the pond, for they rarely wander so far from home.
 The surprise was mutual.
 Nevertheless the most domestic cat, which has lain on a rug all her days, appears quite at home in the woods, and, by her sly and stealthy behavior, proves herself more native there than the regular inhabitants.
@@ -170,7 +169,7 @@ It was a pretty game, played on the smooth surface of the pond, a man against a 
 Suddenly your adversary’s checker disappears beneath the board, and the problem is to place yours nearest to where his will appear again.
 Sometimes he would come up unexpectedly on the opposite side of me, having apparently passed directly under the boat.
 So long-winded was he and so unweariable, that when he had swum farthest he would immediately plunge again, nevertheless; and then no wit could divine where in the deep pond, beneath the smooth surface, he might be speeding his way like a fish, for he had time and ability to visit the bottom of the pond in its deepest part.
-It is said that loons have been caught in the New York lakes eighty feet beneath the surface, with hooks set for trout⁠—though Walden is deeper than that.
+It is said that loons have been caught in the New York lakes eighty feet beneath the surface, with hooks set for trout—though Walden is deeper than that.
 How surprised must the fishes be to see this ungainly visitor from another sphere speeding his way amid their schools!
 Yet he appeared to know his course as surely under water as on the surface, and swam much faster there.
 Once or twice I saw a ripple where he approached the surface, just put his head out to reconnoitre, and instantly dived again.
@@ -182,7 +181,7 @@ I could commonly hear the splash of the water when he came up, and so also detec
 But after an hour he seemed as fresh as ever, dived as willingly, and swam yet farther than at first.
 It was surprising to see how serenely he sailed off with unruffled breast when he came to the surface, doing all the work with his webbed feet beneath.
 His usual note was this demoniac laughter, yet somewhat like that of a waterfowl; but occasionally, when he had balked me most successfully and come up a long way off, he uttered a long-drawn unearthly howl, probably more like that of a wolf than any bird; as when a beast puts his muzzle to the ground and deliberately howls.
-This was his looning⁠—perhaps the wildest sound that is ever heard here, making the woods ring far and wide.
+This was his looning—perhaps the wildest sound that is ever heard here, making the woods ring far and wide.
 I concluded that he laughed in derision of my efforts, confident of his own resources.
 Though the sky was by this time overcast, the pond was so smooth that I could see where he broke the surface when I did not hear him.
 His white breast, the stillness of the air, and the smoothness of the water were all against him.

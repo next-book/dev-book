@@ -1,6 +1,5 @@
 ---
 title: Sounds
-type: chapter
 ---
 <p>But while we are confined to books, though the most select and classic, and read only particular written languages, which are themselves but dialects and provincial, we are in danger of forgetting the language which all things and events speak without metaphor, which alone is copious and standard.
 Much is published, but little printed.
@@ -36,7 +35,7 @@ They seemed glad to get out themselves, and as if unwilling to be brought in.
 I was sometimes tempted to stretch an awning over them and take my seat there.
 It was worth the while to see the sun shine on these things, and hear the free wind blow on them; so much more interesting most familiar objects look out of doors than in the house.
 A bird sits on the next bough, life-everlasting grows under the table, and blackberry vines run round its legs; pine cones, chestnut burs, and strawberry leaves are strewn about.
-It looked as if this was the way these forms came to be transferred to our furniture, to tables, chairs, and bedsteads⁠—because they once stood in their midst.</p>
+It looked as if this was the way these forms came to be transferred to our furniture, to tables, chairs, and bedsteads—because they once stood in their midst.</p>
 <p>My house was on the side of a hill, immediately on the edge of the larger wood, in the midst of a young forest of pitch pines and hickories, and half a dozen rods from the pond, to which a narrow footpath led down the hill.
 In my front yard grew the strawberry, blackberry, and life-everlasting, johnswort and goldenrod, shrub oaks and sand cherry, blueberry and groundnut.
 Near the end of May, the sand cherry (<i epub:type="z3998:taxonomy">Cerasus pumila</i>) adorned the sides of the path with its delicate flowers arranged in umbels cylindrically about its short stems, which last, in the fall, weighed down with good-sized and handsome cherries, fell over in wreaths like rays on every side.
@@ -49,14 +48,14 @@ In August, the large masses of berries, which, when in flower, had attracted man
 <p>As I sit at my window this summer afternoon, hawks are circling about my clearing; the tantivy of wild pigeons, flying by two and threes athwart my view, or perching restless on the white pine boughs behind my house, gives a voice to the air; a fish hawk dimples the glassy surface of the pond and brings up a fish; a mink steals out of the marsh before my door and seizes a frog by the shore; the sedge is bending under the weight of the reedbirds flitting hither and thither; and for the last half-hour I have heard the rattle of railroad cars, now dying away and then reviving like the beat of a partridge, conveying travellers from Boston to the country.
 For I did not live so out of the world as that boy who, as I hear, was put out to a farmer in the east part of the town, but ere long ran away and came home again, quite down at the heel and homesick.
 He had never seen such a dull and out-of-the-way place; the folks were all gone off; why, you couldn’t even hear the whistle!
-I doubt if there is such a place in Massachusetts now:⁠—</p>
+I doubt if there is such a place in Massachusetts now:—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>“In truth, our village has become a butt</span>
 		<br/>
 		<span>For one of those fleet railroad shafts, and o’er</span>
 		<br/>
-		<span>Our peaceful plain its soothing sound is⁠—Concord.”</span>
+		<span>Our peaceful plain its soothing sound is—Concord.”</span>
 	</p>
 </blockquote>
 <p>The Fitchburg Railroad touches the pond about a hundred rods south of where I dwell.
@@ -71,7 +70,7 @@ And here’s your pay for them! screams the countryman’s whistle; timber like 
 With such huge and lumbering civility the country hands a chair to the city.
 All the Indian huckleberry hills are stripped, all the cranberry meadows are raked into the city.
 Up comes the cotton, down goes the woven cloth; up comes the silk, down goes the woollen; up come the books, but down goes the wit that writes them.</p>
-<p>When I meet the engine with its train of cars moving off with planetary motion⁠—or, rather, like a comet, for the beholder knows not if with that velocity and with that direction it will ever revisit this system, since its orbit does not look like a returning curve⁠—with its steam cloud like a banner streaming behind in golden and silver wreaths, like many a downy cloud which I have seen, high in the heavens, unfolding its masses to the light⁠—as if this traveling demigod, this cloud-compeller, would ere long take the sunset sky for the livery of his train; when I hear the iron horse make the hills echo with his snort like thunder, shaking the earth with his feet, and breathing fire and smoke from his nostrils (what kind of winged horse or fiery dragon they will put into the new Mythology I don’t know), it seems as if the earth had got a race now worthy to inhabit it.
+<p>When I meet the engine with its train of cars moving off with planetary motion—or, rather, like a comet, for the beholder knows not if with that velocity and with that direction it will ever revisit this system, since its orbit does not look like a returning curve—with its steam cloud like a banner streaming behind in golden and silver wreaths, like many a downy cloud which I have seen, high in the heavens, unfolding its masses to the light—as if this traveling demigod, this cloud-compeller, would ere long take the sunset sky for the livery of his train; when I hear the iron horse make the hills echo with his snort like thunder, shaking the earth with his feet, and breathing fire and smoke from his nostrils (what kind of winged horse or fiery dragon they will put into the new Mythology I don’t know), it seems as if the earth had got a race now worthy to inhabit it.
 If all were as it seems, and men made the elements their servants for noble ends!
 If the cloud that hangs over the engine were the perspiration of heroic deeds, or as beneficent as that which floats over the farmer’s fields, then the elements and Nature herself would cheerfully accompany men on their errands and be their escort.</p>
 <p>I watch the passage of the morning cars with the same feeling that I do the rising of the sun, which is hardly more regular.
@@ -110,12 +109,12 @@ I feel more like a citizen of the world at the sight of the palm-leaf which will
 This carload of torn sails is more legible and interesting now than if they should be wrought into paper and printed books.
 Who can write so graphically the history of the storms they have weathered as these rents have done?
 They are proof-sheets which need no correction.
-Here goes lumber from the Maine woods, which did not go out to sea in the last freshet, risen four dollars on the thousand because of what did go out or was split up; pine, spruce, cedar⁠—first, second, third, and fourth qualities, so lately all of one quality, to wave over the bear, and moose, and caribou.
+Here goes lumber from the Maine woods, which did not go out to sea in the last freshet, risen four dollars on the thousand because of what did go out or was split up; pine, spruce, cedar—first, second, third, and fourth qualities, so lately all of one quality, to wave over the bear, and moose, and caribou.
 Next rolls Thomaston lime, a prime lot, which will get far among the hills before it gets slacked.
-These rags in bales, of all hues and qualities, the lowest condition to which cotton and linen descend, the final result of dress⁠—of patterns which are now no longer cried up, unless it be in Milwaukee, as those splendid articles, English, French, or American prints, ginghams, muslins, <abbr>etc.</abbr>, gathered from all quarters both of fashion and poverty, going to become paper of one color or a few shades only, on which, forsooth, will be written tales of real life, high and low, and founded on fact!
+These rags in bales, of all hues and qualities, the lowest condition to which cotton and linen descend, the final result of dress—of patterns which are now no longer cried up, unless it be in Milwaukee, as those splendid articles, English, French, or American prints, ginghams, muslins, <abbr>etc.</abbr>, gathered from all quarters both of fashion and poverty, going to become paper of one color or a few shades only, on which, forsooth, will be written tales of real life, high and low, and founded on fact!
 This closed car smells of salt fish, the strong New England and commercial scent, reminding me of the Grand Banks and the fisheries.
-Who has not seen a salt fish, thoroughly cured for this world, so that nothing can spoil it, and putting the perseverance of the saints to the blush? with which you may sweep or pave the streets, and split your kindlings, and the teamster shelter himself and his lading against sun, wind, and rain behind it⁠—and the trader, as a Concord trader once did, hang it up by his door for a sign when he commences business, until at last his oldest customer cannot tell surely whether it be animal, vegetable, or mineral, and yet it shall be as pure as a snowflake, and if it be put into a pot and boiled, will come out an excellent dun-fish for a Saturday’s dinner.
-Next Spanish hides, with the tails still preserving their twist and the angle of elevation they had when the oxen that wore them were careering over the pampas of the Spanish Main⁠—a type of all obstinacy, and evincing how almost hopeless and incurable are all constitutional vices.
+Who has not seen a salt fish, thoroughly cured for this world, so that nothing can spoil it, and putting the perseverance of the saints to the blush? with which you may sweep or pave the streets, and split your kindlings, and the teamster shelter himself and his lading against sun, wind, and rain behind it—and the trader, as a Concord trader once did, hang it up by his door for a sign when he commences business, until at last his oldest customer cannot tell surely whether it be animal, vegetable, or mineral, and yet it shall be as pure as a snowflake, and if it be put into a pot and boiled, will come out an excellent dun-fish for a Saturday’s dinner.
+Next Spanish hides, with the tails still preserving their twist and the angle of elevation they had when the oxen that wore them were careering over the pampas of the Spanish Main—a type of all obstinacy, and evincing how almost hopeless and incurable are all constitutional vices.
 I confess, that practically speaking, when I have learned a man’s real disposition, I have no hopes of changing it for the better or worse in this state of existence.
 As the Orientals say, “A cur’s tail may be warmed, and pressed, and bound round with ligatures, and after a twelve years’ labor bestowed upon it, still it will retain its natural form.”
 The only effectual cure for such inveteracies as these tails exhibit is to make glue of them, which I believe is what is usually done with them, and then they will stay put and stick.
@@ -142,7 +141,7 @@ Their vocation, too, is gone.
 Their fidelity and sagacity are below par now.
 They will slink back to their kennels in disgrace, or perchance run wild and strike a league with the wolf and the fox.
 So is your pastoral life whirled past and away.
-But the bell rings, and I must get off the track and let the cars go by;⁠—</p>
+But the bell rings, and I must get off the track and let the cars go by;—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>What’s the railroad to me?</span>
@@ -186,23 +185,23 @@ It is no honest and blunt <i>tu-whit tu-who</i> of the poets, but, without jesti
 Yet I love to hear their wailing, their doleful responses, trilled along the woodside; reminding me sometimes of music and singing birds; as if it were the dark and tearful side of music, the regrets and sighs that would fain be sung.
 They are the spirits, the low spirits and melancholy forebodings, of fallen souls that once in human shape night-walked the earth and did the deeds of darkness, now expiating their sins with their wailing hymns or threnodies in the scenery of their transgressions.
 They give me a new sense of the variety and capacity of that nature which is our common dwelling. <i>Oh-o-o-o-o that I never had been bor-r-r-r-n!</i> sighs one on this side of the pond, and circles with the restlessness of despair to some new perch on the gray oaks.
-Then⁠—<i>that I never had been bor-r-r-r-n</i>! echoes another on the farther side with tremulous sincerity, and⁠—<i>bor-r-r-r-n!</i> comes faintly from far in the Lincoln woods.</p>
+Then—<i>that I never had been bor-r-r-r-n</i>! echoes another on the farther side with tremulous sincerity, and—<i>bor-r-r-r-n!</i> comes faintly from far in the Lincoln woods.</p>
 <p>I was also serenaded by a hooting owl.
-Near at hand you could fancy it the most melancholy sound in Nature, as if she meant by this to stereotype and make permanent in her choir the dying moans of a human being⁠—some poor weak relic of mortality who has left hope behind, and howls like an animal, yet with human sobs, on entering the dark valley, made more awful by a certain gurgling melodiousness⁠—I find myself beginning with the letters <i>gl</i> when I try to imitate it⁠—expressive of a mind which has reached the gelatinous, mildewy stage in the mortification of all healthy and courageous thought.
+Near at hand you could fancy it the most melancholy sound in Nature, as if she meant by this to stereotype and make permanent in her choir the dying moans of a human being—some poor weak relic of mortality who has left hope behind, and howls like an animal, yet with human sobs, on entering the dark valley, made more awful by a certain gurgling melodiousness—I find myself beginning with the letters <i>gl</i> when I try to imitate it—expressive of a mind which has reached the gelatinous, mildewy stage in the mortification of all healthy and courageous thought.
 It reminded me of ghouls and idiots and insane howlings.
-But now one answers from far woods in a strain made really melodious by distance⁠—<i>Hoo hoo hoo, hoorer hoo</i>; and indeed for the most part it suggested only pleasing associations, whether heard by day or night, summer or winter.</p>
+But now one answers from far woods in a strain made really melodious by distance—<i>Hoo hoo hoo, hoorer hoo</i>; and indeed for the most part it suggested only pleasing associations, whether heard by day or night, summer or winter.</p>
 <p>I rejoice that there are owls.
 Let them do the idiotic and maniacal hooting for men.
 It is a sound admirably suited to swamps and twilight woods which no day illustrates, suggesting a vast and undeveloped nature which men have not recognized.
 They represent the stark twilight and unsatisfied thoughts which all have.
 All day the sun has shone on the surface of some savage swamp, where the single spruce stands hung with usnea lichens, and small hawks circulate above, and the chickadee lisps amid the evergreens, and the partridge and rabbit skulk beneath; but now a more dismal and fitting day dawns, and a different race of creatures awakes to express the meaning of Nature there.</p>
-<p>Late in the evening I heard the distant rumbling of wagons over bridges⁠—a sound heard farther than almost any other at night⁠—the baying of dogs, and sometimes again the lowing of some disconsolate cow in a distant barnyard.
-In the meanwhile all the shore rang with the trump of bullfrogs, the sturdy spirits of ancient wine-bibbers and wassailers, still unrepentant, trying to sing a catch in their Stygian lake⁠—if the Walden nymphs will pardon the comparison, for though there are almost no weeds, there are frogs there⁠—who would fain keep up the hilarious rules of their old festal tables, though their voices have waxed hoarse and solemnly grave, mocking at mirth, and the wine has lost its flavor, and become only liquor to distend their paunches, and sweet intoxication never comes to drown the memory of the past, but mere saturation and waterloggedness and distention.
-The most aldermanic, with his chin upon a heart-leaf, which serves for a napkin to his drooling chaps, under this northern shore quaffs a deep draught of the once scorned water, and passes round the cup with the ejaculation <i>tr-r-r-oonk, tr-r-r⁠—oonk, tr-r-r-oonk!</i> and straightway comes over the water from some distant cove the same password repeated, where the next in seniority and girth has gulped down to his mark; and when this observance has made the circuit of the shores, then ejaculates the master of ceremonies, with satisfaction, <i>tr-r-r-oonk</i>! and each in his turn repeats the same down to the least distended, leakiest, and flabbiest paunched, that there be no mistake; and then the howl goes round again and again, until the sun disperses the morning mist, and only the patriarch is not under the pond, but vainly bellowing <i>troonk</i> from time to time, and pausing for a reply.</p>
+<p>Late in the evening I heard the distant rumbling of wagons over bridges—a sound heard farther than almost any other at night—the baying of dogs, and sometimes again the lowing of some disconsolate cow in a distant barnyard.
+In the meanwhile all the shore rang with the trump of bullfrogs, the sturdy spirits of ancient wine-bibbers and wassailers, still unrepentant, trying to sing a catch in their Stygian lake—if the Walden nymphs will pardon the comparison, for though there are almost no weeds, there are frogs there—who would fain keep up the hilarious rules of their old festal tables, though their voices have waxed hoarse and solemnly grave, mocking at mirth, and the wine has lost its flavor, and become only liquor to distend their paunches, and sweet intoxication never comes to drown the memory of the past, but mere saturation and waterloggedness and distention.
+The most aldermanic, with his chin upon a heart-leaf, which serves for a napkin to his drooling chaps, under this northern shore quaffs a deep draught of the once scorned water, and passes round the cup with the ejaculation <i>tr-r-r-oonk, tr-r-r—oonk, tr-r-r-oonk!</i> and straightway comes over the water from some distant cove the same password repeated, where the next in seniority and girth has gulped down to his mark; and when this observance has made the circuit of the shores, then ejaculates the master of ceremonies, with satisfaction, <i>tr-r-r-oonk</i>! and each in his turn repeats the same down to the least distended, leakiest, and flabbiest paunched, that there be no mistake; and then the howl goes round again and again, until the sun disperses the morning mist, and only the patriarch is not under the pond, but vainly bellowing <i>troonk</i> from time to time, and pausing for a reply.</p>
 <p>I am not sure that I ever heard the sound of cock-crowing from my clearing, and I thought that it might be worth the while to keep a cockerel for his music merely, as a singing bird.
 The note of this once wild Indian pheasant is certainly the most remarkable of any bird’s, and if they could be naturalized without being domesticated, it would soon become the most famous sound in our woods, surpassing the clangor of the goose and the hooting of the owl; and then imagine the cackling of the hens to fill the pauses when their lords’ clarions rested!
-No wonder that man added this bird to his tame stock⁠—to say nothing of the eggs and drumsticks.
-To walk in a winter morning in a wood where these birds abounded, their native woods, and hear the wild cockerels crow on the trees, clear and shrill for miles over the resounding earth, drowning the feebler notes of other birds⁠—think of it!
+No wonder that man added this bird to his tame stock—to say nothing of the eggs and drumsticks.
+To walk in a winter morning in a wood where these birds abounded, their native woods, and hear the wild cockerels crow on the trees, clear and shrill for miles over the resounding earth, drowning the feebler notes of other birds—think of it!
 It would put nations on the alert.
 Who would not be early to rise, and rise earlier and earlier every successive day of his life, till he became unspeakably healthy, wealthy, and wise?
 This foreign bird’s note is celebrated by the poets of all countries along with the notes of their native songsters.
@@ -212,10 +211,10 @@ His health is ever good, his lungs are sound, his spirits never flag.
 Even the sailor on the Atlantic and Pacific is awakened by his voice; but its shrill sound never roused me from my slumbers.
 I kept neither dog, cat, cow, pig, nor hens, so that you would have said there was a deficiency of domestic sounds; neither the churn, nor the spinning-wheel, nor even the singing of the kettle, nor the hissing of the urn, nor children crying, to comfort one.
 An old-fashioned man would have lost his senses or died of ennui before this.
-Not even rats in the wall, for they were starved out, or rather were never baited in⁠—only squirrels on the roof and under the floor, a whip-poor-will on the ridgepole, a blue jay screaming beneath the window, a hare or woodchuck under the house, a screech owl or a cat owl behind it, a flock of wild geese or a laughing loon on the pond, and a fox to bark in the night.
+Not even rats in the wall, for they were starved out, or rather were never baited in—only squirrels on the roof and under the floor, a whip-poor-will on the ridgepole, a blue jay screaming beneath the window, a hare or woodchuck under the house, a screech owl or a cat owl behind it, a flock of wild geese or a laughing loon on the pond, and a fox to bark in the night.
 Not even a lark or an oriole, those mild plantation birds, ever visited my clearing.
 No cockerels to crow nor hens to cackle in the yard.
 No yard! but unfenced nature reaching up to your very sills.
 A young forest growing up under your meadows, and wild sumachs and blackberry vines breaking through into your cellar; sturdy pitch pines rubbing and creaking against the shingles for want of room, their roots reaching quite under the house.
-Instead of a scuttle or a blind blown off in the gale⁠—a pine tree snapped off or torn up by the roots behind your house for fuel.
-Instead of no path to the front-yard gate in the Great Snow⁠—no gate⁠—no front-yard⁠—and no path to the civilized world.</p>
+Instead of a scuttle or a blind blown off in the gale—a pine tree snapped off or torn up by the roots behind your house for fuel.
+Instead of no path to the front-yard gate in the Great Snow—no gate—no front-yard—and no path to the civilized world.</p>

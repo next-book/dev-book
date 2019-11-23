@@ -1,6 +1,5 @@
 ---
 title: Reading
-type: chapter
 ---
 <p>With a little more deliberation in the choice of their pursuits, all men would perhaps become essentially students and observers, for certainly their nature and destiny are interesting to all alike.
 In accumulating property for ourselves or our posterity, in founding a family or a state, or acquiring fame even, we are mortal; but in dealing with truth we are immortal, and need fear no change nor accident.
@@ -43,7 +42,7 @@ The orator yields to the inspiration of a transient occasion, and speaks to the 
 A written word is the choicest of relics.
 It is something at once more intimate with us and more universal than any other work of art.
 It is the work of art nearest to life itself.
-It may be translated into every language, and not only be read but actually breathed from all human lips;⁠—not be represented on canvas or in marble only, but be carved out of the breath of life itself.
+It may be translated into every language, and not only be read but actually breathed from all human lips;—not be represented on canvas or in marble only, but be carved out of the breath of life itself.
 The symbol of an ancient man’s thought becomes a modern man’s speech.
 Two thousand summers have imparted to the monuments of Grecian literature, as to her marbles, only a maturer golden and autumnal tint, for they have carried their own serene and celestial atmosphere into all lands to protect them against the corrosion of time.
 Books are the treasured wealth of the world and the fit inheritance of generations and nations.
@@ -52,7 +51,7 @@ They have no cause of their own to plead, but while they enlighten and sustain t
 Their authors are a natural and irresistible aristocracy in every society, and, more than kings or emperors, exert an influence on mankind.
 When the illiterate and perhaps scornful trader has earned by enterprise and industry his coveted leisure and independence, and is admitted to the circles of wealth and fashion, he turns inevitably at last to those still higher but yet inaccessible circles of intellect and genius, and is sensible only of the imperfection of his culture and the vanity and insufficiency of all his riches, and further proves his good sense by the pains which he takes to secure for his children that intellectual culture whose want he so keenly feels; and thus it is that he becomes the founder of a family.</p>
 <p>Those who have not learned to read the ancient classics in the language in which they were written must have a very imperfect knowledge of the history of the human race; for it is remarkable that no transcript of them has ever been made into any modern tongue, unless our civilization itself may be regarded as such a transcript.
-Homer has never yet been printed in English, nor Aeschylus, nor Virgil even⁠—works as refined, as solidly done, and as beautiful almost as the morning itself; for later writers, say what we will of their genius, have rarely, if ever, equalled the elaborate beauty and finish and the lifelong and heroic literary labors of the ancients.
+Homer has never yet been printed in English, nor Aeschylus, nor Virgil even—works as refined, as solidly done, and as beautiful almost as the morning itself; for later writers, say what we will of their genius, have rarely, if ever, equalled the elaborate beauty and finish and the lifelong and heroic literary labors of the ancients.
 They only talk of forgetting them who never knew them.
 It will be soon enough to forget them when we have the learning and the genius which will enable us to attend to and appreciate them.
 That age will be rich indeed when those relics which we call Classics, and the still older and more than classic but even less known Scriptures of the nations, shall have still further accumulated, when the Vaticans shall be filled with Vedas and Zendavestas and Bibles, with Homers and Dantes and Shakespeares, and all the centuries to come shall have successively deposited their trophies in the forum of the world.
@@ -65,11 +64,11 @@ Most men are satisfied if they read or hear read, and perchance have been convic
 There is a work in several volumes in our Circulating Library entitled <i epub:type="se:name.publication.book">Little Reading</i>, which I thought referred to a town of that name which I had not been to.
 There are those who, like cormorants and ostriches, can digest all sorts of this, even after the fullest dinner of meats and vegetables, for they suffer nothing to be wasted.
 If others are the machines to provide this provender, they are the machines to read it.
-They read the nine thousandth tale about Zebulon and Sophronia, and how they loved as none had ever loved before, and neither did the course of their true love run smooth⁠—at any rate, how it did run and stumble, and get up again and go on! how some poor unfortunate got up on to a steeple, who had better never have gone up as far as the belfry; and then, having needlessly got him up there, the happy novelist rings the bell for all the world to come together and hear, O dear! how he did get down again!
+They read the nine thousandth tale about Zebulon and Sophronia, and how they loved as none had ever loved before, and neither did the course of their true love run smooth—at any rate, how it did run and stumble, and get up again and go on! how some poor unfortunate got up on to a steeple, who had better never have gone up as far as the belfry; and then, having needlessly got him up there, the happy novelist rings the bell for all the world to come together and hear, O dear! how he did get down again!
 For my part, I think that they had better metamorphose all such aspiring heroes of universal noveldom into man weathercocks, as they used to put heroes among the constellations, and let them swing round there till they are rusty, and not come down at all to bother honest men with their pranks.
 The next time the novelist rings the bell I will not stir though the meetinghouse burn down.
 “The Skip of the TipToe-Hop, a Romance of the Middle Ages, by the celebrated author of ‘Tittle-Tol-Tan,’ to appear in monthly parts; a great rush; don’t all come together.”
-All this they read with saucer eyes, and erect and primitive curiosity, and with unwearied gizzard, whose corrugations even yet need no sharpening, just as some little four-year-old bencher his two-cent gilt-covered edition of <i epub:type="se:name.publication.book">Cinderella</i>⁠—without any improvement, that I can see, in the pronunciation, or accent, or emphasis, or any more skill in extracting or inserting the moral.
+All this they read with saucer eyes, and erect and primitive curiosity, and with unwearied gizzard, whose corrugations even yet need no sharpening, just as some little four-year-old bencher his two-cent gilt-covered edition of <i epub:type="se:name.publication.book">Cinderella</i>—without any improvement, that I can see, in the pronunciation, or accent, or emphasis, or any more skill in extracting or inserting the moral.
 The result is dullness of sight, a stagnation of the vital circulations, and a general deliquium and sloughing off of all the intellectual faculties.
 This sort of gingerbread is baked daily and more sedulously than pure wheat or rye-and-Indian in almost every oven, and finds a surer market.</p>
 <p>The best books are not read even by those who are called good readers.
@@ -82,10 +81,10 @@ One who has just come from reading perhaps one of the best English books will fi
 Or suppose he comes from reading a Greek or Latin classic in the original, whose praises are familiar even to the so-called illiterate; he will find nobody at all to speak to, but must keep silence about it.
 Indeed, there is hardly the professor in our colleges, who, if he has mastered the difficulties of the language, has proportionally mastered the difficulties of the wit and poetry of a Greek poet, and has any sympathy to impart to the alert and heroic reader; and as for the sacred Scriptures, or Bibles of mankind, who in this town can tell me even their titles?
 Most men do not know that any nation but the Hebrews have had a scripture.
-A man, any man, will go considerably out of his way to pick up a silver dollar; but here are golden words, which the wisest men of antiquity have uttered, and whose worth the wise of every succeeding age have assured us of;⁠—and yet we learn to read only as far as Easy Reading, the primers and class-books, and when we leave school, the <i epub:type="se:name.publication.book">Little Reading</i>, and storybooks, which are for boys and beginners; and our reading, our conversation and thinking, are all on a very low level, worthy only of pygmies and manikins.</p>
+A man, any man, will go considerably out of his way to pick up a silver dollar; but here are golden words, which the wisest men of antiquity have uttered, and whose worth the wise of every succeeding age have assured us of;—and yet we learn to read only as far as Easy Reading, the primers and class-books, and when we leave school, the <i epub:type="se:name.publication.book">Little Reading</i>, and storybooks, which are for boys and beginners; and our reading, our conversation and thinking, are all on a very low level, worthy only of pygmies and manikins.</p>
 <p>I aspire to be acquainted with wiser men than this our Concord soil has produced, whose names are hardly known here.
 Or shall I hear the name of Plato and never read his book?
-As if Plato were my townsman and I never saw him⁠—my next neighbor and I never heard him speak or attended to the wisdom of his words.
+As if Plato were my townsman and I never saw him—my next neighbor and I never heard him speak or attended to the wisdom of his words.
 But how actually is it?
 His <i epub:type="se:name.publication.book">Dialogues</i>, which contain what was immortal in him, lie on the next shelf, and yet I never read them.
 We are underbred and low-lived and illiterate; and in this respect I confess I do not make any very broad distinction between the illiterateness of my townsman who cannot read at all and the illiterateness of him who has learned to read only what is for children and feeble intellects.
@@ -103,11 +102,11 @@ Let him humbly commune with Zoroaster then, and through the liberalizing influen
 <p>We boast that we belong to the Nineteenth Century and are making the most rapid strides of any nation.
 But consider how little this village does for its own culture.
 I do not wish to flatter my townsmen, nor to be flattered by them, for that will not advance either of us.
-We need to be provoked⁠—goaded like oxen, as we are, into a trot.
+We need to be provoked—goaded like oxen, as we are, into a trot.
 We have a comparatively decent system of common schools, schools for infants only; but excepting the half-starved Lyceum in the winter, and latterly the puny beginning of a library suggested by the State, no school for ourselves.
 We spend more on almost any article of bodily aliment or ailment than on our mental aliment.
 It is time that we had uncommon schools, that we did not leave off our education when we begin to be men and women.
-It is time that villages were universities, and their elder inhabitants the fellows of universities, with leisure⁠—if they are, indeed, so well off⁠—to pursue liberal studies the rest of their lives.
+It is time that villages were universities, and their elder inhabitants the fellows of universities, with leisure—if they are, indeed, so well off—to pursue liberal studies the rest of their lives.
 Shall the world be confined to one Paris or one Oxford forever?
 Cannot students be boarded here and get a liberal education under the skies of Concord?
 Can we not hire some Abelard to lecture to us?
@@ -121,10 +120,10 @@ This town has spent seventeen thousand dollars on a townhouse, thank fortune or 
 The one hundred and twenty-five dollars annually subscribed for a Lyceum in the winter is better spent than any other equal sum raised in the town.
 If we live in the Nineteenth Century, why should we not enjoy the advantages which the Nineteenth Century offers?
 Why should our life be in any respect provincial?
-If we will read newspapers, why not skip the gossip of Boston and take the best newspaper in the world at once?⁠—not be sucking the pap of “neutral family” papers, or browsing “Olive Branches” here in New England.
+If we will read newspapers, why not skip the gossip of Boston and take the best newspaper in the world at once?—not be sucking the pap of “neutral family” papers, or browsing “Olive Branches” here in New England.
 Let the reports of all the learned societies come to us, and we will see if they know anything.
 Why should we leave it to Harper &amp; Brothers and Redding &amp; <abbr>Co.</abbr> to select our reading?
-As the nobleman of cultivated taste surrounds himself with whatever conduces to his culture⁠—genius⁠—learning⁠—wit⁠—books⁠—paintings⁠—statuary⁠—music⁠—philosophical instruments, and the like; so let the village do⁠—not stop short at a pedagogue, a parson, a sexton, a parish library, and three selectmen, because our Pilgrim forefathers got through a cold winter once on a bleak rock with these.
+As the nobleman of cultivated taste surrounds himself with whatever conduces to his culture—genius—learning—wit—books—paintings—statuary—music—philosophical instruments, and the like; so let the village do—not stop short at a pedagogue, a parson, a sexton, a parish library, and three selectmen, because our Pilgrim forefathers got through a cold winter once on a bleak rock with these.
 To act collectively is according to the spirit of our institutions; and I am confident that, as our circumstances are more flourishing, our means are greater than the nobleman’s.
 New England can hire all the wise men in the world to come and teach her, and board them round the while, and not be provincial at all.
 That is the <em>uncommon</em> school we want.

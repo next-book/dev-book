@@ -1,11 +1,10 @@
 ---
 title: Spring
-type: chapter
 ---
 <p>The opening of large tracts by the ice-cutters commonly causes a pond to break up earlier; for the water, agitated by the wind, even in cold weather, wears away the surrounding ice.
 But such was not the effect on Walden that year, for she had soon got a thick new garment to take the place of the old.
 This pond never breaks up so soon as the others in this neighborhood, on account both of its greater depth and its having no stream passing through it to melt or wear away the ice.
-I never knew it to open in the course of a winter, not excepting that of ’52⁠–⁠3, which gave the ponds so severe a trial.
+I never knew it to open in the course of a winter, not excepting that of ’52–3, which gave the ponds so severe a trial.
 It commonly opens about the first of April, a week or ten days later than Flint’s Pond and Fair Haven, beginning to melt on the north side and in the shallower parts where it began to freeze.
 It indicates better than any water hereabouts the absolute progress of the season, being least affected by transient changes of temperature.
 A severe cold of a few days’ duration in March may very much retard the opening of the former ponds, while the temperature of Walden increases almost uninterruptedly.
@@ -47,12 +46,12 @@ In 1845 Walden was first completely open on the 1st of April; in ’46, the 25th
 <p>Every incident connected with the breaking up of the rivers and ponds and the settling of the weather is particularly interesting to us who live in a climate of so great extremes.
 When the warmer days come, they who dwell near the river hear the ice crack at night with a startling whoop as loud as artillery, as if its icy fetters were rent from end to end, and within a few days see it rapidly going out.
 So the alligator comes out of the mud with quakings of the earth.
-One old man, who has been a close observer of Nature, and seems as thoroughly wise in regard to all her operations as if she had been put upon the stocks when he was a boy, and he had helped to lay her keel⁠—who has come to his growth, and can hardly acquire more of natural lore if he should live to the age of Methuselah⁠—told me⁠—and I was surprised to hear him express wonder at any of Nature’s operations, for I thought that there were no secrets between them⁠—that one spring day he took his gun and boat, and thought that he would have a little sport with the ducks.
+One old man, who has been a close observer of Nature, and seems as thoroughly wise in regard to all her operations as if she had been put upon the stocks when he was a boy, and he had helped to lay her keel—who has come to his growth, and can hardly acquire more of natural lore if he should live to the age of Methuselah—told me—and I was surprised to hear him express wonder at any of Nature’s operations, for I thought that there were no secrets between them—that one spring day he took his gun and boat, and thought that he would have a little sport with the ducks.
 There was ice still on the meadows, but it was all gone out of the river, and he dropped down without obstruction from Sudbury, where he lived, to Fair Haven Pond, which he found, unexpectedly, covered for the most part with a firm field of ice.
 It was a warm day, and he was surprised to see so great a body of ice remaining.
 Not seeing any ducks, he hid his boat on the north or back side of an island in the pond, and then concealed himself in the bushes on the south side, to await them.
 The ice was melted for three or four rods from the shore, and there was a smooth and warm sheet of water, with a muddy bottom, such as the ducks love, within, and he thought it likely that some would be along pretty soon.
-After he had lain still there about an hour he heard a low and seemingly very distant sound, but singularly grand and impressive, unlike anything he had ever heard, gradually swelling and increasing as if it would have a universal and memorable ending, a sullen rush and roar, which seemed to him all at once like the sound of a vast body of fowl coming in to settle there, and, seizing his gun, he started up in haste and excited; but he found, to his surprise, that the whole body of the ice had started while he lay there, and drifted in to the shore, and the sound he had heard was made by its edge grating on the shore⁠—at first gently nibbled and crumbled off, but at length heaving up and scattering its wrecks along the island to a considerable height before it came to a standstill.</p>
+After he had lain still there about an hour he heard a low and seemingly very distant sound, but singularly grand and impressive, unlike anything he had ever heard, gradually swelling and increasing as if it would have a universal and memorable ending, a sullen rush and roar, which seemed to him all at once like the sound of a vast body of fowl coming in to settle there, and, seizing his gun, he started up in haste and excited; but he found, to his surprise, that the whole body of the ice had started while he lay there, and drifted in to the shore, and the sound he had heard was made by its edge grating on the shore—at first gently nibbled and crumbled off, but at length heaving up and scattering its wrecks along the island to a considerable height before it came to a standstill.</p>
 <p>At length the sun’s rays have attained the right angle, and warm winds blow up mist and rain and melt the snowbanks, and the sun, dispersing the mist, smiles on a checkered landscape of russet and white smoking with incense, through which the traveller picks his way from islet to islet, cheered by the music of a thousand tinkling rills and rivulets whose veins are filled with the blood of winter which they are bearing off.</p>
 <p>Few phenomena gave me more delight than to observe the forms which thawing sand and clay assume in flowing down the sides of a deep cut on the railroad through which I passed on my way to the village, a phenomenon not very common on so large a scale, though the number of freshly exposed banks of the right material must have been greatly multiplied since railroads were invented.
 The material was sand of every degree of fineness and of various rich colors, commonly mixed with a little clay.
@@ -65,7 +64,7 @@ The various shades of the sand are singularly rich and agreeable, embracing the 
 When the flowing mass reaches the drain at the foot of the bank it spreads out flatter into <em>strands</em>, the separate streams losing their semi-cylindrical form and gradually becoming more flat and broad, running together as they are more moist, till they form an almost flat <em>sand</em>, still variously and beautifully shaded, but in which you can trace the original forms of vegetation; till at length, in the water itself, they are converted into <em>banks</em>, like those formed off the mouths of rivers, and the forms of vegetation are lost in the ripple marks on the bottom.</p>
 <p>The whole bank, which is from twenty to forty feet high, is sometimes overlaid with a mass of this kind of foliage, or sandy rupture, for a quarter of a mile on one or both sides, the produce of one spring day.
 What makes this sand foliage remarkable is its springing into existence thus suddenly.
-When I see on the one side the inert bank⁠—for the sun acts on one side first⁠—and on the other this luxuriant foliage, the creation of an hour, I am affected as if in a peculiar sense I stood in the laboratory of the Artist who made the world and me⁠—had come to where he was still at work, sporting on this bank, and with excess of energy strewing his fresh designs about.
+When I see on the one side the inert bank—for the sun acts on one side first—and on the other this luxuriant foliage, the creation of an hour, I am affected as if in a peculiar sense I stood in the laboratory of the Artist who made the world and me—had come to where he was still at work, sporting on this bank, and with excess of energy strewing his fresh designs about.
 I feel as if I were nearer to the vitals of the globe, for this sandy overflow is something such a foliaceous mass as the vitals of the animal body.
 You find thus in the very sands an anticipation of the vegetable leaf.
 No wonder that the earth expresses itself outwardly in leaves, it so labors with the idea inwardly.
@@ -90,7 +89,7 @@ The fingers and toes flow to their extent from the thawing mass of the body.
 Who knows what the human body would expand and flow out to under a more genial heaven?
 Is not the hand a spreading <em>palm</em> leaf with its lobes and veins?
 The ear may be regarded, fancifully, as a lichen, <i epub:type="z3998:taxonomy">Umbilicaria</i>, on the side of the head, with its lobe or drop.
-The lip⁠—<i xml:lang="la">labium</i>, from <i>labor</i> (?)⁠—laps or lapses from the sides of the cavernous mouth.
+The lip—<i xml:lang="la">labium</i>, from <i>labor</i> (?)—laps or lapses from the sides of the cavernous mouth.
 The nose is a manifest congealed drop or stalactite.
 The chin is a still larger drop, the confluent dripping of the face.
 The cheeks are a slide from the brows into the valley of the face, opposed and diffused by the cheek bones.
@@ -107,7 +106,7 @@ It convinces me that Earth is still in her swaddling-clothes, and stretches fort
 Fresh curls spring from the baldest brow.
 There is nothing inorganic.
 These foliaceous heaps lie along the bank like the slag of a furnace, showing that Nature is “in full blast” within.
-The earth is not a mere fragment of dead history, stratum upon stratum like the leaves of a book, to be studied by geologists and antiquaries chiefly, but living poetry like the leaves of a tree, which precede flowers and fruit⁠—not a fossil earth, but a living earth; compared with whose great central life all animal and vegetable life is merely parasitic.
+The earth is not a mere fragment of dead history, stratum upon stratum like the leaves of a book, to be studied by geologists and antiquaries chiefly, but living poetry like the leaves of a tree, which precede flowers and fruit—not a fossil earth, but a living earth; compared with whose great central life all animal and vegetable life is merely parasitic.
 Its throes will heave our <i xml:lang="la">exuviœ</i> from their graves.
 You may melt your metals and cast them into the most beautiful moulds you can; they will never excite me like the forms which this molten earth flows out into.
 And not only it, but the institutions upon it are plastic like clay in the hands of the potter.</p>
@@ -115,13 +114,13 @@ And not only it, but the institutions upon it are plastic like clay in the hands
 <p>Ere long, not only on these banks, but on every hill and plain and in every hollow, the frost comes out of the ground like a dormant quadruped from its burrow, and seeks the sea with music, or migrates to other climes in clouds.
 Thaw with his gentle persuasion is more powerful than Thor with his hammer.
 The one melts, the other but breaks in pieces.</p>
-<p>When the ground was partially bare of snow, and a few warm days had dried its surface somewhat, it was pleasant to compare the first tender signs of the infant year just peeping forth with the stately beauty of the withered vegetation which had withstood the winter⁠—life-everlasting, goldenrods, pinweeds, and graceful wild grasses, more obvious and interesting frequently than in summer even, as if their beauty was not ripe till then; even cotton-grass, cattails, mulleins, johnswort, hardhack, meadowsweet, and other strong-stemmed plants, those unexhausted granaries which entertain the earliest birds⁠—decent weeds, at least, which widowed Nature wears.
+<p>When the ground was partially bare of snow, and a few warm days had dried its surface somewhat, it was pleasant to compare the first tender signs of the infant year just peeping forth with the stately beauty of the withered vegetation which had withstood the winter—life-everlasting, goldenrods, pinweeds, and graceful wild grasses, more obvious and interesting frequently than in summer even, as if their beauty was not ripe till then; even cotton-grass, cattails, mulleins, johnswort, hardhack, meadowsweet, and other strong-stemmed plants, those unexhausted granaries which entertain the earliest birds—decent weeds, at least, which widowed Nature wears.
 I am particularly attracted by the arching and sheaf-like top of the wool-grass; it brings back the summer to our winter memories, and is among the forms which art loves to copy, and which, in the vegetable kingdom, have the same relation to types already in the mind of man that astronomy has.
 It is an antique style, older than Greek or Egyptian.
 Many of the phenomena of Winter are suggestive of an inexpressible tenderness and fragile delicacy.
 We are accustomed to hear this king described as a rude and boisterous tyrant; but with the gentleness of a lover he adorns the tresses of Summer.</p>
 <p>At the approach of spring the red squirrels got under my house, two at a time, directly under my feet as I sat reading or writing, and kept up the queerest chuckling and chirruping and vocal pirouetting and gurgling sounds that ever were heard; and when I stamped they only chirruped the louder, as if past all fear and respect in their mad pranks, defying humanity to stop them.
-No, you don’t⁠—chickaree⁠—chickaree.
+No, you don’t—chickaree—chickaree.
 They were wholly deaf to my arguments, or failed to perceive their force, and fell into a strain of invective that was irresistible.</p>
 <p>The first sparrow of spring!
 The year beginning with younger hope than ever!
@@ -130,19 +129,19 @@ What at such a time are histories, chronologies, traditions, and all written rev
 The brooks sing carols and glees to the spring.
 The marsh hawk, sailing low over the meadow, is already seeking the first slimy life that awakes.
 The sinking sound of melting snow is heard in all dells, and the ice dissolves apace in the ponds.
-The grass flames up on the hillsides like a spring fire⁠—“<i xml:lang="la">et primitus oritur herba imbribus primoribus evocata</i>”⁠—as if the earth sent forth an inward heat to greet the returning sun; not yellow but green is the color of its flame;⁠—the symbol of perpetual youth, the grass-blade, like a long green ribbon, streams from the sod into the summer, checked indeed by the frost, but anon pushing on again, lifting its spear of last year’s hay with the fresh life below.
+The grass flames up on the hillsides like a spring fire—“<i xml:lang="la">et primitus oritur herba imbribus primoribus evocata</i>”—as if the earth sent forth an inward heat to greet the returning sun; not yellow but green is the color of its flame;—the symbol of perpetual youth, the grass-blade, like a long green ribbon, streams from the sod into the summer, checked indeed by the frost, but anon pushing on again, lifting its spear of last year’s hay with the fresh life below.
 It grows as steadily as the rill oozes out of the ground.
 It is almost identical with that, for in the growing days of June, when the rills are dry, the grass-blades are their channels, and from year to year the herds drink at this perennial green stream, and the mower draws from it betimes their winter supply.
 So our human life but dies down to its root, and still puts forth its green blade to eternity.</p>
 <p>Walden is melting apace.
 There is a canal two rods wide along the northerly and westerly sides, and wider still at the east end.
 A great field of ice has cracked off from the main body.
-I hear a song sparrow singing from the bushes on the shore⁠—<i>olit</i>, <i>olit</i>, <i>olit</i>⁠—<i>chip</i>, <i>chip</i>, <i>chip</i>, <i>che char</i>⁠—<i>che wiss</i>, <i>wiss</i>, <i>wiss</i>.
+I hear a song sparrow singing from the bushes on the shore—<i>olit</i>, <i>olit</i>, <i>olit</i>—<i>chip</i>, <i>chip</i>, <i>chip</i>, <i>che char</i>—<i>che wiss</i>, <i>wiss</i>, <i>wiss</i>.
 He too is helping to crack it.
 How handsome the great sweeping curves in the edge of the ice, answering somewhat to those of the shore, but more regular!
 It is unusually hard, owing to the recent severe but transient cold, and all watered or waved like a palace floor.
 But the wind slides eastward over its opaque surface in vain, till it reaches the living surface beyond.
-It is glorious to behold this ribbon of water sparkling in the sun, the bare face of the pond full of glee and youth, as if it spoke the joy of the fishes within it, and of the sands on its shore⁠—a silvery sheen as from the scales of a leuciscus, as it were all one active fish.
+It is glorious to behold this ribbon of water sparkling in the sun, the bare face of the pond full of glee and youth, as if it spoke the joy of the fishes within it, and of the sands on its shore—a silvery sheen as from the scales of a leuciscus, as it were all one active fish.
 Such is the contrast between winter and spring.
 Walden was dead and is alive again.
 But this spring it broke up more steadily, as I have said.</p>
@@ -150,7 +149,7 @@ But this spring it broke up more steadily, as I have said.</p>
 It is seemingly instantaneous at last.
 Suddenly an influx of light filled my house, though the evening was at hand, and the clouds of winter still overhung it, and the eaves were dripping with sleety rain.
 I looked out the window, and lo! where yesterday was cold gray ice there lay the transparent pond already calm and full of hope as in a summer evening, reflecting a summer evening sky in its bosom, though none was visible overhead, as if it had intelligence with some remote horizon.
-I heard a robin in the distance, the first I had heard for many a thousand years, methought, whose note I shall not forget for many a thousand more⁠—the same sweet and powerful song as of yore.
+I heard a robin in the distance, the first I had heard for many a thousand years, methought, whose note I shall not forget for many a thousand more—the same sweet and powerful song as of yore.
 O the evening robin, at the end of a New England summer day!
 If I could ever find the twig he sits upon!
 I mean <em>he</em>; I mean the <em>twig</em>.
@@ -167,7 +166,7 @@ A “plump” of ducks rose at the same time and took the route to the north in 
 <p>For a week I heard the circling, groping clangor of some solitary goose in the foggy mornings, seeking its companion, and still peopling the woods with the sound of a larger life than they could sustain.
 In April the pigeons were seen again flying express in small flocks, and in due time I heard the martins twittering over my clearing, though it had not seemed that the township contained so many that it could afford me any, and I fancied that they were peculiarly of the ancient race that dwelt in hollow trees ere white men came.
 In almost all climes the tortoise and the frog are among the precursors and heralds of this season, and birds fly with song and glancing plumage, and plants spring and bloom, and winds blow, to correct this slight oscillation of the poles and preserve the equilibrium of nature.</p>
-<p>As every season seems best to us in its turn, so the coming in of spring is like the creation of Cosmos out of Chaos and the realization of the Golden Age.⁠—</p>
+<p>As every season seems best to us in its turn, so the coming in of spring is like the creation of Cosmos out of Chaos and the realization of the Golden Age.—</p>
 <blockquote epub:type="z3998:verse">
 	<p xml:lang="la">
 		<span>“<i>Eurus ad Auroram Nabathaeaque regna recessit,</i></span>
@@ -202,7 +201,7 @@ You may have known your neighbor yesterday for a thief, a drunkard, or a sensual
 There is not only an atmosphere of good will about him, but even a savor of holiness groping for expression, blindly and ineffectually perhaps, like a newborn instinct, and for a short hour the south hillside echoes to no vulgar jest.
 You see some innocent fair shoots preparing to burst from his gnarled rind and try another year’s life, tender and fresh as the youngest plant.
 Even he has entered into the joy of his Lord.
-Why the jailer does not leave open his prison doors⁠—why the judge does not dismis his case⁠—why the preacher does not dismiss his congregation!
+Why the jailer does not leave open his prison doors—why the judge does not dismis his case—why the preacher does not dismiss his congregation!
 It is because they do not obey the hint which God gives them, nor accept the pardon which he freely offers to all.</p>
 <p>“A return to goodness produced each day in the tranquil and beneficent breath of the morning, causes that in respect to the love of virtue and the hatred of vice, one approaches a little the primitive nature of man, as the sprouts of the forest which has been felled.
 In like manner the evil which one does in the interval of a day prevents the germs of virtues which began to spring up again from developing themselves and destroys them.</p>
@@ -240,10 +239,10 @@ This sight reminded me of falconry and what nobleness and poetry are associated 
 The Merlin it seemed to me it might be called: but I care not for its name.
 It was the most ethereal flight I had ever witnessed.
 It did not simply flutter like a butterfly, nor soar like the larger hawks, but it sported with proud reliance in the fields of air; mounting again and again with its strange chuckle, it repeated its free and beautiful fall, turning over and over like a kite, and then recovering from its lofty tumbling, as if it had never set its foot on terra firma.
-It appeared to have no companion in the universe⁠—sporting there alone⁠—and to need none but the morning and the ether with which it played.
+It appeared to have no companion in the universe—sporting there alone—and to need none but the morning and the ether with which it played.
 It was not lonely, but made all the earth lonely beneath it.
 Where was the parent which hatched it, its kindred, and its father in the heavens?
-The tenant of the air, it seemed related to the earth but by an egg hatched some time in the crevice of a crag;⁠—or was its native nest made in the angle of a cloud, woven of the rainbow’s trimmings and the sunset sky, and lined with some soft midsummer haze caught up from earth?
+The tenant of the air, it seemed related to the earth but by an egg hatched some time in the crevice of a crag;—or was its native nest made in the angle of a cloud, woven of the rainbow’s trimmings and the sunset sky, and lined with some soft midsummer haze caught up from earth?
 Its eyry now some cliffy cloud.</p>
 <p>Beside this I got a rare mess of golden and silver and bright cupreous fishes, which looked like a string of jewels.
 Ah!
@@ -253,14 +252,14 @@ All things must live in such a light.
 O Death, where was thy sting?
 O Grave, where was thy victory, then?</p>
 <p>Our village life would stagnate if it were not for the unexplored forests and meadows which surround it.
-We need the tonic of wildness⁠—to wade sometimes in marshes where the bittern and the meadow-hen lurk, and hear the booming of the snipe; to smell the whispering sedge where only some wilder and more solitary fowl builds her nest, and the mink crawls with its belly close to the ground.
+We need the tonic of wildness—to wade sometimes in marshes where the bittern and the meadow-hen lurk, and hear the booming of the snipe; to smell the whispering sedge where only some wilder and more solitary fowl builds her nest, and the mink crawls with its belly close to the ground.
 At the same time that we are earnest to explore and learn all things, we require that all things be mysterious and unexplorable, that land and sea be infinitely wild, unsurveyed and unfathomed by us because unfathomable.
 We can never have enough of nature.
 We must be refreshed by the sight of inexhaustible vigor, vast and titanic features, the seacoast with its wrecks, the wilderness with its living and its decaying trees, the thundercloud, and the rain which lasts three weeks and produces freshets.
 We need to witness our own limits transgressed, and some life pasturing freely where we never wander.
 We are cheered when we observe the vulture feeding on the carrion which disgusts and disheartens us, and deriving health and strength from the repast.
 There was a dead horse in the hollow by the path to my house, which compelled me sometimes to go out of my way, especially in the night when the air was heavy, but the assurance it gave me of the strong appetite and inviolable health of Nature was my compensation for this.
-I love to see that Nature is so rife with life that myriads can be afforded to be sacrificed and suffered to prey on one another; that tender organizations can be so serenely squashed out of existence like pulp⁠—tadpoles which herons gobble up, and tortoises and toads run over in the road; and that sometimes it has rained flesh and blood!
+I love to see that Nature is so rife with life that myriads can be afforded to be sacrificed and suffered to prey on one another; that tender organizations can be so serenely squashed out of existence like pulp—tadpoles which herons gobble up, and tortoises and toads run over in the road; and that sometimes it has rained flesh and blood!
 With the liability to accident, we must see how little account is to be made of it.
 The impression made on a wise man is that of universal innocence.
 Poison is not poisonous after all, nor are any wounds fatal.

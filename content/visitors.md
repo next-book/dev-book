@@ -1,6 +1,5 @@
 ---
 title: Visitors
-type: chapter
 ---
 <p>I think that I love society as much as most, and am ready enough to fasten myself like a bloodsucker for the time to any full-blooded man that comes in my way.
 I am naturally no hermit, but might possibly sit out the sturdiest frequenter of the barroom, if my business called me thither.</p>
@@ -17,7 +16,7 @@ The bullet of your thought must have overcome its lateral and ricochet motion an
 Also, our sentences wanted room to unfold and form their columns in the interval.
 Individuals, like nations, must have suitable broad and natural boundaries, even a considerable neutral ground, between them.
 I have found it a singular luxury to talk across the pond to a companion on the opposite side.
-In my house we were so near that we could not begin to hear⁠—we could not speak low enough to be heard; as when you throw two stones into calm water so near that they break each other’s undulations.
+In my house we were so near that we could not begin to hear—we could not speak low enough to be heard; as when you throw two stones into calm water so near that they break each other’s undulations.
 If we are merely loquacious and loud talkers, then we can afford to stand very near together, cheek by jowl, and feel each other’s breath; but if we speak reservedly and thoughtfully, we want to be farther apart, that all animal heat and moisture may have a chance to evaporate.
 If we would enjoy the most intimate society with that in each of us which is without, or above, being spoken to, we must not only be silent, but commonly so far apart bodily that we cannot possibly hear each other’s voice in any case.
 Referred to this standard, speech is for the convenience of those who are hard of hearing; but there are many fine things which we cannot say if we have to shout.
@@ -32,7 +31,7 @@ So easy is it, though many housekeepers doubt it, to establish new and better cu
 You need not rest your reputation on the dinners you give.
 For my own part, I was never so effectually deterred from frequenting a man’s house, by any kind of Cerberus whatever, as by the parade one made about dining me, which I took to be a very polite and roundabout hint never to trouble him so again.
 I think I shall never revisit those scenes.
-I should be proud to have for the motto of my cabin those lines of Spenser which one of my visitors inscribed on a yellow walnut leaf for a card:⁠—</p>
+I should be proud to have for the motto of my cabin those lines of Spenser which one of my visitors inscribed on a yellow walnut leaf for a card:—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>“Arrivèd there, the little house they fill,</span>
@@ -45,7 +44,7 @@ I should be proud to have for the motto of my cabin those lines of Spenser which
 	</p>
 </blockquote>
 <p>When Winslow, afterward governor of the Plymouth Colony, went with a companion on a visit of ceremony to Massasoit on foot through the woods, and arrived tired and hungry at his lodge, they were well received by the king, but nothing was said about eating that day.
-When the night arrived, to quote their own words⁠—“He laid us on the bed with himself and his wife, they at the one end and we at the other, it being only planks laid a foot from the ground and a thin mat upon them.
+When the night arrived, to quote their own words—“He laid us on the bed with himself and his wife, they at the one end and we at the other, it being only planks laid a foot from the ground and a thin mat upon them.
 Two more of his chief men, for want of room, pressed by and upon us; so that we were worse weary of our lodging than of our journey.”
 At one o’clock the next day Massasoit “brought two fishes that he had shot,” about thrice as big as a bream.
 “These being boiled, there were at least forty looked for a share in them; the most eat of them.
@@ -61,9 +60,9 @@ But fewer came to see me on trivial business.
 In this respect, my company was winnowed by my mere distance from town.
 I had withdrawn so far within the great ocean of solitude, into which the rivers of society empty, that for the most part, so far as my needs were concerned, only the finest sediment was deposited around me.
 Beside, there were wafted to me evidences of unexplored and uncultivated continents on the other side.</p>
-<p>Who should come to my lodge this morning but a true Homeric or Paphlagonian man⁠—he had so suitable and poetic a name that I am sorry I cannot print it here⁠—a Canadian, a woodchopper and post-maker, who can hole fifty posts in a day, who made his last supper on a woodchuck which his dog caught.
+<p>Who should come to my lodge this morning but a true Homeric or Paphlagonian man—he had so suitable and poetic a name that I am sorry I cannot print it here—a Canadian, a woodchopper and post-maker, who can hole fifty posts in a day, who made his last supper on a woodchuck which his dog caught.
 He, too, has heard of Homer, and, “if it were not for books,” would “not know what to do rainy days,” though perhaps he has not read one wholly through for many rainy seasons.
-Some priest who could pronounce the Greek itself taught him to read his verse in the Testament in his native parish far away; and now I must translate to him, while he holds the book, Achilles’ reproof to Patroclus for his sad countenance.⁠—“Why are you in tears, Patroclus, like a young girl?”⁠—</p>
+Some priest who could pronounce the Greek itself taught him to read his verse in the Testament in his native parish far away; and now I must translate to him, while he holds the book, Achilles’ reproof to Patroclus for his sad countenance.—“Why are you in tears, Patroclus, like a young girl?”—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>“Or have you alone heard some news from Phthia?</span>
@@ -84,13 +83,13 @@ Vice and disease, which cast such a sombre moral hue over the world, seemed to h
 He was about twenty-eight years old, and had left Canada and his father’s house a dozen years before to work in the States, and earn money to buy a farm with at last, perhaps in his native country.
 He was cast in the coarsest mould; a stout but sluggish body, yet gracefully carried, with a thick sunburnt neck, dark bushy hair, and dull sleepy blue eyes, which were occasionally lit up with expression.
 He wore a flat gray cloth cap, a dingy wool-colored greatcoat, and cowhide boots.
-He was a great consumer of meat, usually carrying his dinner to his work a couple of miles past my house⁠—for he chopped all summer⁠—in a tin pail; cold meats, often cold woodchucks, and coffee in a stone bottle which dangled by a string from his belt; and sometimes he offered me a drink.
+He was a great consumer of meat, usually carrying his dinner to his work a couple of miles past my house—for he chopped all summer—in a tin pail; cold meats, often cold woodchucks, and coffee in a stone bottle which dangled by a string from his belt; and sometimes he offered me a drink.
 He came along early, crossing my bean-field, though without anxiety or haste to get to his work, such as Yankees exhibit.
 He wasn’t a-going to hurt himself.
 He didn’t care if he only earned his board.
-Frequently he would leave his dinner in the bushes, when his dog had caught a woodchuck by the way, and go back a mile and a half to dress it and leave it in the cellar of the house where he boarded, after deliberating first for half an hour whether he could not sink it in the pond safely till nightfall⁠—loving to dwell long upon these themes.
+Frequently he would leave his dinner in the bushes, when his dog had caught a woodchuck by the way, and go back a mile and a half to dress it and leave it in the cellar of the house where he boarded, after deliberating first for half an hour whether he could not sink it in the pond safely till nightfall—loving to dwell long upon these themes.
 He would say, as he went by in the morning, “How thick the pigeons are!
-If working every day were not my trade, I could get all the meat I should want by hunting-pigeons, woodchucks, rabbits, partridges⁠—by gosh!
+If working every day were not my trade, I could get all the meat I should want by hunting-pigeons, woodchucks, rabbits, partridges—by gosh!
 I could get all I should want for a week in one day.”</p>
 <p>He was a skilful chopper, and indulged in some flourishes and ornaments in his art.
 He cut his trees level and close to the ground, that the sprouts which came up afterward might be more vigorous and a sled might slide over the stumps; and instead of leaving a whole tree to support his corded wood, he would pare it away to a slender stake or splinter which you could break off with your hand at last.</p>
@@ -99,7 +98,7 @@ His mirth was without alloy.
 Sometimes I saw him at his work in the woods, felling trees, and he would greet me with a laugh of inexpressible satisfaction, and a salutation in Canadian French, though he spoke English as well.
 When I approached him he would suspend his work, and with half-suppressed mirth lie along the trunk of a pine which he had felled, and, peeling off the inner bark, roll it up into a ball and chew it while he laughed and talked.
 Such an exuberance of animal spirits had he that he sometimes tumbled down and rolled on the ground with laughter at anything which made him think and tickled him.
-Looking round upon the trees he would exclaim⁠—“By George!
+Looking round upon the trees he would exclaim—“By George!
 I can enjoy myself well enough here chopping; I want no better sport.”
 Sometimes, when at leisure, he amused himself all day in the woods with a pocket pistol, firing salutes to himself at regular intervals as he walked.
 In the winter he had a fire by which at noon he warmed his coffee in a kettle; and as he sat on a log to eat his dinner the chickadees would sometimes come round and alight on his arm and peck at the potato in his fingers; and he said that he “liked to have the little fellers about him.”</p>
@@ -113,7 +112,7 @@ He was so genuine and unsophisticated that no introduction would serve to introd
 He had got to find him out as you did.
 He would not play any part.
 Men paid him wages for work, and so helped to feed and clothe him; but he never exchanged opinions with them.
-He was so simply and naturally humble⁠—if he can be called humble who never aspires⁠—that humility was no distinct quality in him, nor could he conceive of it.
+He was so simply and naturally humble—if he can be called humble who never aspires—that humility was no distinct quality in him, nor could he conceive of it.
 Wiser men were demigods to him.
 If you told him that such a one was coming, he did as if he thought that anything so grand would expect nothing of himself, but take all the responsibility on itself, and let him be forgotten still.
 He never heard the sound of praise.
@@ -122,7 +121,7 @@ Their performances were miracles.
 When I told him that I wrote considerably, he thought for a long time that it was merely the handwriting which I meant, for he could write a remarkably good hand himself.
 I sometimes found the name of his native parish handsomely written in the snow by the highway, with the proper French accent, and knew that he had passed.
 I asked him if he ever wished to write his thoughts.
-He said that he had read and written letters for those who could not, but he never tried to write thoughts⁠—no, he could not, he could not tell what to put first, it would kill him, and then there was spelling to be attended to at the same time!</p>
+He said that he had read and written letters for those who could not, but he never tried to write thoughts—no, he could not, he could not tell what to put first, it would kill him, and then there was spelling to be attended to at the same time!</p>
 <p>I heard that a distinguished wise man and reformer asked him if he did not want the world to be changed; but he answered with a chuckle of surprise in his Canadian accent, not knowing that the question had ever been entertained before, “No, I like it well enough.”
 It would have suggested many things to a philosopher to have dealings with him.
 To a stranger he appeared to know nothing of things in general; yet I sometimes saw in him a man whom I had not seen before, and I did not know whether he was as wise as Shakespeare or as simply ignorant as a child, whether to suspect him of a fine poetic consciousness or of stupidity.
@@ -140,11 +139,11 @@ He had soaked hemlock leaves in water and drank it, and thought that was better 
 When I asked him if he could do without money, he showed the convenience of money in such a way as to suggest and coincide with the most philosophical accounts of the origin of this institution, and the very derivation of the word <i xml:lang="la">pecunia</i>.
 If an ox were his property, and he wished to get needles and thread at the store, he thought it would be inconvenient and impossible soon to go on mortgaging some portion of the creature each time to that amount.
 He could defend many institutions better than any philosopher, because, in describing them as they concerned him, he gave the true reason for their prevalence, and speculation had not suggested to him any other.
-At another time, hearing Plato’s definition of a man⁠—a biped without feathers⁠—and that one exhibited a cock plucked and called it Plato’s man, he thought it an important difference that the <em>knees</em> bent the wrong way.
+At another time, hearing Plato’s definition of a man—a biped without feathers—and that one exhibited a cock plucked and called it Plato’s man, he thought it an important difference that the <em>knees</em> bent the wrong way.
 He would sometimes exclaim, “How I love to talk!
 By George, I could talk all day!”
 I asked him once, when I had not seen him for many months, if he had got a new idea this summer.
-“Good Lord”⁠—said he, “a man that has to work as I do, if he does not forget the ideas he has had, he will do well.
+“Good Lord”—said he, “a man that has to work as I do, if he does not forget the ideas he has had, he will do well.
 May be the man you hoe with is inclined to race; then, by gorry, your mind must be there; you think of weeds.”
 He would sometimes ask me first on such occasions, if I had made any improvement.
 One winter day I asked him if he was always satisfied with himself, wishing to suggest a substitute within him for the priest without, and some higher motive for living.
@@ -172,7 +171,7 @@ The Lord had made him so, yet he supposed the Lord cared as much for him as for 
 It was the Lord’s will, I suppose.”
 And there he was to prove the truth of his words.
 He was a metaphysical puzzle to me.
-I have rarely met a fellow man on such promising ground⁠—it was so simple and sincere and so true all that he said.
+I have rarely met a fellow man on such promising ground—it was so simple and sincere and so true all that he said.
 And, true enough, in proportion as he appeared to humble himself was he exalted.
 I did not know at first but it was the result of a wise policy.
 It seemed that from such a basis of truth and frankness as the poor weak-headed pauper had laid, our intercourse might go forward to something better than the intercourse of sages.</p>
@@ -181,27 +180,27 @@ I require of a visitor that he be not actually starving, though he may have the 
 Objects of charity are not guests.
 Men who did not know when their visit had terminated, though I went about my business again, answering them from greater and greater remoteness.
 Men of almost every degree of wit called on me in the migrating season.
-Some who had more wits than they knew what to do with; runaway slaves with plantation manners, who listened from time to time, like the fox in the fable, as if they heard the hounds a-baying on their track, and looked at me beseechingly, as much as to say⁠—</p>
+Some who had more wits than they knew what to do with; runaway slaves with plantation manners, who listened from time to time, like the fox in the fable, as if they heard the hounds a-baying on their track, and looked at me beseechingly, as much as to say—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>“O Christian, will you send me back?”</span>
 	</p>
 </blockquote>
 <p>One real runaway slave, among the rest, whom I helped to forward toward the north star.
-Men of one idea, like a hen with one chicken, and that a duckling; men of a thousand ideas, and unkempt heads, like those hens which are made to take charge of a hundred chickens, all in pursuit of one bug, a score of them lost in every morning’s dew⁠—and become frizzled and mangy in consequence; men of ideas instead of legs, a sort of intellectual centipede that made you crawl all over.
+Men of one idea, like a hen with one chicken, and that a duckling; men of a thousand ideas, and unkempt heads, like those hens which are made to take charge of a hundred chickens, all in pursuit of one bug, a score of them lost in every morning’s dew—and become frizzled and mangy in consequence; men of ideas instead of legs, a sort of intellectual centipede that made you crawl all over.
 One man proposed a book in which visitors should write their names, as at the White Mountains; but, alas!
 I have too good a memory to make that necessary.</p>
 <p>I could not but notice some of the peculiarities of my visitors.
 Girls and boys and young women generally seemed glad to be in the woods.
 They looked in the pond and at the flowers, and improved their time.
 Men of business, even farmers, thought only of solitude and employment, and of the great distance at which I dwelt from something or other; and though they said that they loved a ramble in the woods occasionally, it was obvious that they did not.
-Restless committed men, whose time was an taken up in getting a living or keeping it; ministers who spoke of God as if they enjoyed a monopoly of the subject, who could not bear all kinds of opinions; doctors, lawyers, uneasy housekeepers who pried into my cupboard and bed when I was out⁠—how came <abbr>Mrs.</abbr>⁠—to know that my sheets were not as clean as hers?⁠—young men who had ceased to be young, and had concluded that it was safest to follow the beaten track of the professions⁠—all these generally said that it was not possible to do so much good in my position.
+Restless committed men, whose time was an taken up in getting a living or keeping it; ministers who spoke of God as if they enjoyed a monopoly of the subject, who could not bear all kinds of opinions; doctors, lawyers, uneasy housekeepers who pried into my cupboard and bed when I was out—how came <abbr>Mrs.</abbr>—to know that my sheets were not as clean as hers?—young men who had ceased to be young, and had concluded that it was safest to follow the beaten track of the professions—all these generally said that it was not possible to do so much good in my position.
 Ay! there was the rub.
-The old and infirm and the timid, of whatever age or sex, thought most of sickness, and sudden accident and death; to them life seemed full of danger⁠—what danger is there if you don’t think of any?⁠—and they thought that a prudent man would carefully select the safest position, where <abbr>Dr.</abbr> <abbr class="name">B.</abbr> might be on hand at a moment’s warning.
+The old and infirm and the timid, of whatever age or sex, thought most of sickness, and sudden accident and death; to them life seemed full of danger—what danger is there if you don’t think of any?—and they thought that a prudent man would carefully select the safest position, where <abbr>Dr.</abbr> <abbr class="name">B.</abbr> might be on hand at a moment’s warning.
 To them the village was literally a <em>community</em>, a league for mutual defence, and you would suppose that they would not go a-huckleberrying without a medicine chest.
 The amount of it is, if a man is alive, there is always danger that he may die, though the danger must be allowed to be less in proportion as he is dead-and-alive to begin with.
 A man sits as many risks as he runs.
-Finally, there were the self-styled reformers, the greatest bores of all, who thought that I was forever singing⁠—</p>
+Finally, there were the self-styled reformers, the greatest bores of all, who thought that I was forever singing—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>This is the house that I built;</span>
@@ -219,4 +218,4 @@ Finally, there were the self-styled reformers, the greatest bores of all, who th
 </blockquote>
 <p>I did not fear the hen-harriers, for I kept no chickens; but I feared the men-harriers rather.</p>
 <p>I had more cheering visitors than the last.
-Children come a-berrying, railroad men taking a Sunday morning walk in clean shirts, fishermen and hunters, poets and philosophers; in short, all honest pilgrims, who came out to the woods for freedom’s sake, and really left the village behind, I was ready to greet with⁠—“Welcome, Englishmen! welcome, Englishmen!” for I had had communication with that race.</p>
+Children come a-berrying, railroad men taking a Sunday morning walk in clean shirts, fishermen and hunters, poets and philosophers; in short, all honest pilgrims, who came out to the woods for freedom’s sake, and really left the village behind, I was ready to greet with—“Welcome, Englishmen! welcome, Englishmen!” for I had had communication with that race.</p>

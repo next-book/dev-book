@@ -1,6 +1,5 @@
 ---
 title: Conclusion
-type: chapter
 ---
 <p>To the sick the doctors wisely recommend a change of air and scenery.
 Thank Heaven, here is not all the world.
@@ -15,7 +14,7 @@ The other side of the globe is but the home of our correspondent.
 Our voyaging is only great-circle sailing, and the doctors prescribe for diseases of the skin merely.
 One hastens to southern Africa to chase the giraffe; but surely that is not the game he would be after.
 How long, pray, would a man hunt giraffes if he could?
-Snipes and woodcocks also may afford rare sport; but I trust it would be nobler game to shoot one’s self.⁠—</p>
+Snipes and woodcocks also may afford rare sport; but I trust it would be nobler game to shoot one’s self.—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>“Direct your eye right inward, and you’ll find</span>
@@ -28,13 +27,13 @@ Travel them, and be</span>
 		<span>Expert in home-cosmography.”</span>
 	</p>
 </blockquote>
-<p>What does Africa⁠—what does the West stand for?
+<p>What does Africa—what does the West stand for?
 Is not our own interior white on the chart? black though it may prove, like the coast, when discovered.
 Is it the source of the Nile, or the Niger, or the Mississippi, or a Northwest Passage around this continent, that we would find?
 Are these the problems which most concern mankind?
 Is Franklin the only man who is lost, that his wife should be so earnest to find him?
 Does <abbr>Mr.</abbr> Grinnell know where he himself is?
-Be rather the Mungo Park, the Lewis and Clark and Frobisher, of your own streams and oceans; explore your own higher latitudes⁠—with shiploads of preserved meats to support you, if they be necessary; and pile the empty cans sky-high for a sign.
+Be rather the Mungo Park, the Lewis and Clark and Frobisher, of your own streams and oceans; explore your own higher latitudes—with shiploads of preserved meats to support you, if they be necessary; and pile the empty cans sky-high for a sign.
 Were preserved meats invented to preserve meat merely?
 Nay, be a Columbus to whole new continents and worlds within you, opening new channels, not of trade, but of thought.
 Every man is the lord of a realm beside which the earthly empire of the Czar is but a petty state, a hummock left by the ice.
@@ -62,7 +61,7 @@ Herein are demanded the eye and the nerve.
 Only the defeated and deserters go to the wars, cowards that run away and enlist.
 Start now on that farthest western way, which does not pause at the Mississippi or the Pacific, nor conduct toward a worn-out China or Japan, but leads on direct, a tangent to this sphere, summer and winter, day and night, sun down, moon down, and at last earth down too.</p>
 <p>It is said that Mirabeau took to highway robbery “to ascertain what degree of resolution was necessary in order to place one’s self in formal opposition to the most sacred laws of society.”
-He declared that “a soldier who fights in the ranks does not require half so much courage as a footpad”⁠—“that honor and religion have never stood in the way of a well-considered and a firm resolve.”
+He declared that “a soldier who fights in the ranks does not require half so much courage as a footpad”—“that honor and religion have never stood in the way of a well-considered and a firm resolve.”
 This was manly, as the world goes; and yet it was idle, if not desperate.
 A saner man would have found himself often enough “in formal opposition” to what are deemed “the most sacred laws of society,” through obedience to yet more sacred laws, and so have tested his resolution without going out of his way.
 It is not for a man to put himself in such an attitude to society, but to maintain himself in whatever attitude he find himself through obedience to the laws of his being, which will never be one of opposition to a just government, if he should chance to meet with such.</p>
@@ -175,11 +174,11 @@ It is the noise of my contemporaries.
 My neighbors tell me of their adventures with famous gentlemen and ladies, what notabilities they met at the dinner-table; but I am no more interested in such things than in the contents of the <i epub:type="se:name.publication.newspaper">Daily Times</i>.
 The interest and the conversation are about costume and manners chiefly; but a goose is a goose still, dress it as you will.
 They tell me of California and Texas, of England and the Indies, of the <abbr>Hon.</abbr> <abbr>Mr.</abbr> of Georgia or of Massachusetts, all transient and fleeting phenomena, till I am ready to leap from their courtyard like the Mameluke bey.
-I delight to come to my bearings⁠—not walk in procession with pomp and parade, in a conspicuous place, but to walk even with the Builder of the universe, if I may⁠—not to live in this restless, nervous, bustling, trivial Nineteenth Century, but stand or sit thoughtfully while it goes by.
+I delight to come to my bearings—not walk in procession with pomp and parade, in a conspicuous place, but to walk even with the Builder of the universe, if I may—not to live in this restless, nervous, bustling, trivial Nineteenth Century, but stand or sit thoughtfully while it goes by.
 What are men celebrating?
 They are all on a committee of arrangements, and hourly expect a speech from somebody.
 God is only the president of the day, and Webster is his orator.
-I love to weigh, to settle, to gravitate toward that which most strongly and rightfully attracts me⁠—not hang by the beam of the scale and try to weigh less⁠—not suppose a case, but take the case that is; to travel the only path I can, and that on which no power can resist me.
+I love to weigh, to settle, to gravitate toward that which most strongly and rightfully attracts me—not hang by the beam of the scale and try to weigh less—not suppose a case, but take the case that is; to travel the only path I can, and that on which no power can resist me.
 It affords me no satisfaction to commerce to spring an arch before I have got a solid foundation.
 Let us not play at kittly-benders.
 There is a solid bottom everywhere.
@@ -192,7 +191,7 @@ Only what is thought, said, or done at a certain rare coincidence is good.
 I would not be one of those who will foolishly drive a nail into mere lath and plastering; such a deed would keep me awake nights.
 Give me a hammer, and let me feel for the furring.
 Do not depend on the putty.
-Drive a nail home and clinch it so faithfully that you can wake up in the night and think of your work with satisfaction⁠—a work at which you would not be ashamed to invoke the Muse.
+Drive a nail home and clinch it so faithfully that you can wake up in the night and think of your work with satisfaction—a work at which you would not be ashamed to invoke the Muse.
 So will help you God, and so only.
 Every nail driven should be as another rivet in the machine of the universe, you carrying on the work.</p>
 <p>Rather than love, than money, than fame, give me truth.
@@ -211,8 +210,8 @@ Consider the China pride and stagnant self-complacency of mankind.
 This generation inclines a little to congratulate itself on being the last of an illustrious line; and in Boston and London and Paris and Rome, thinking of its long descent, it speaks of its progress in art and science and literature with satisfaction.
 There are the Records of the Philosophical Societies, and the public Eulogies of Great Men!
 It is the good Adam contemplating his own virtue.
-“Yes, we have done great deeds, and sung divine songs, which shall never die”⁠—that is, as long as we can remember them.
-The learned societies and great men of Assyria⁠—where are they?
+“Yes, we have done great deeds, and sung divine songs, which shall never die”—that is, as long as we can remember them.
+The learned societies and great men of Assyria—where are they?
 What youthful philosophers and experimentalists we are!
 There is not one of my readers who has yet lived a whole human life.
 These may be but the spring months in the life of the race.
@@ -236,9 +235,9 @@ The government of the world I live in was not framed, like that of Britain, in a
 It may rise this year higher than man has ever known it, and flood the parched uplands; even this may be the eventful year, which will drown out all our muskrats.
 It was not always dry land where we dwell.
 I see far inland the banks which the stream anciently washed, before science began to record its freshets.
-Everyone has heard the story which has gone the rounds of New England, of a strong and beautiful bug which came out of the dry leaf of an old table of apple-tree wood, which had stood in a farmer’s kitchen for sixty years, first in Connecticut, and afterward in Massachusetts⁠—from an egg deposited in the living tree many years earlier still, as appeared by counting the annual layers beyond it; which was heard gnawing out for several weeks, hatched perchance by the heat of an urn.
+Everyone has heard the story which has gone the rounds of New England, of a strong and beautiful bug which came out of the dry leaf of an old table of apple-tree wood, which had stood in a farmer’s kitchen for sixty years, first in Connecticut, and afterward in Massachusetts—from an egg deposited in the living tree many years earlier still, as appeared by counting the annual layers beyond it; which was heard gnawing out for several weeks, hatched perchance by the heat of an urn.
 Who does not feel his faith in a resurrection and immortality strengthened by hearing of this?
-Who knows what beautiful and winged life, whose egg has been buried for ages under many concentric layers of woodenness in the dead dry life of society, deposited at first in the alburnum of the green and living tree, which has been gradually converted into the semblance of its well-seasoned tomb⁠—heard perchance gnawing out now for years by the astonished family of man, as they sat round the festive board⁠—may unexpectedly come forth from amidst society’s most trivial and handselled furniture, to enjoy its perfect summer life at last!</p>
+Who knows what beautiful and winged life, whose egg has been buried for ages under many concentric layers of woodenness in the dead dry life of society, deposited at first in the alburnum of the green and living tree, which has been gradually converted into the semblance of its well-seasoned tomb—heard perchance gnawing out now for years by the astonished family of man, as they sat round the festive board—may unexpectedly come forth from amidst society’s most trivial and handselled furniture, to enjoy its perfect summer life at last!</p>
 <p>I do not say that John or Jonathan will realize all this; but such is the character of that morrow which mere lapse of time can never make to dawn.
 The light which puts out our eyes is darkness to us.
 Only that day dawns to which we are awake.

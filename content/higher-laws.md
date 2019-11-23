@@ -1,6 +1,5 @@
 ---
 title: Higher Laws
-type: chapter
 ---
 <p>As I came home through the woods with my string of fish, trailing my pole, it being now quite dark, I caught a glimpse of a woodchuck stealing across my path, and felt a strange thrill of savage delight, and was strongly tempted to seize and devour him raw; not that I was hungry then, except for that wildness which he represented.
 Once or twice, however, while I lived at the pond, I found myself ranging the woods, like a half-starved hound, with a strange abandonment, seeking some kind of venison which I might devour, and no morsel could have been too savage for me.
@@ -30,7 +29,7 @@ This was habit.
 As for fowling, during the last years that I carried a gun my excuse was that I was studying ornithology, and sought only new or rare birds.
 But I confess that I am now inclined to think that there is a finer way of studying ornithology than this.
 It requires so much closer attention to the habits of the birds, that, if for that reason only, I have been willing to omit the gun.
-Yet notwithstanding the objection on the score of humanity, I am compelled to doubt if equally valuable sports are ever substituted for these; and when some of my friends have asked me anxiously about their boys, whether they should let them hunt, I have answered, yes⁠—remembering that it was one of the best parts of my education⁠—<em>make</em> them hunters, though sportsmen only at first, if possible, mighty hunters at last, so that they shall not find game large enough for them in this or any vegetable wilderness⁠—hunters as well as fishers of men.
+Yet notwithstanding the objection on the score of humanity, I am compelled to doubt if equally valuable sports are ever substituted for these; and when some of my friends have asked me anxiously about their boys, whether they should let them hunt, I have answered, yes—remembering that it was one of the best parts of my education—<em>make</em> them hunters, though sportsmen only at first, if possible, mighty hunters at last, so that they shall not find game large enough for them in this or any vegetable wilderness—hunters as well as fishers of men.
 Thus far I am of the opinion of Chaucer’s nun, who</p>
 <blockquote epub:type="z3998:verse">
 	<p>
@@ -73,7 +72,7 @@ Like many of my contemporaries, I had rarely for many years used animal food, or
 The repugnance to animal food is not the effect of experience, but is an instinct.
 It appeared more beautiful to live low and fare hard in many respects; and though I never did so, I went far enough to please my imagination.
 I believe that every man who has ever been earnest to preserve his higher or poetic faculties in the best condition has been particularly inclined to abstain from animal food, and from much food of any kind.
-It is a significant fact, stated by entomologists⁠—I find it in Kirby and Spence⁠—that “some insects in their perfect state, though furnished with organs of feeding, make no use of them”; and they lay it down as “a general rule, that almost all insects in this state eat much less than in that of larvæ.
+It is a significant fact, stated by entomologists—I find it in Kirby and Spence—that “some insects in their perfect state, though furnished with organs of feeding, make no use of them”; and they lay it down as “a general rule, that almost all insects in this state eat much less than in that of larvæ.
 The voracious caterpillar when transformed into a butterfly … and the gluttonous maggot when become a fly” content themselves with a drop or two of honey or some other sweet liquid.
 The abdomen under the wings of the butterfly still represents the larva.
 This is the tidbit which tempts his insectivorous fate.
@@ -89,13 +88,13 @@ This certainly suggests what change is to be made.
 It may be vain to ask why the imagination will not be reconciled to flesh and fat.
 I am satisfied that it is not.
 Is it not a reproach that man is a carnivorous animal?
-True, he can and does live, in a great measure, by preying on other animals; but this is a miserable way⁠—as anyone who will go to snaring rabbits, or slaughtering lambs, may learn⁠—and he will be regarded as a benefactor of his race who shall teach man to confine himself to a more innocent and wholesome diet.
+True, he can and does live, in a great measure, by preying on other animals; but this is a miserable way—as anyone who will go to snaring rabbits, or slaughtering lambs, may learn—and he will be regarded as a benefactor of his race who shall teach man to confine himself to a more innocent and wholesome diet.
 Whatever my own practice may be, I have no doubt that it is a part of the destiny of the human race, in its gradual improvement, to leave off eating animals, as surely as the savage tribes have left off eating each other when they came in contact with the more civilized.</p>
 <p>If one listens to the faintest but constant suggestions of his genius, which are certainly true, he sees not to what extremes, or even insanity, it may lead him; and yet that way, as he grows more resolute and faithful, his road lies.
 The faintest assured objection which one healthy man feels will at length prevail over the arguments and customs of mankind.
 No man ever followed his genius till it misled him.
 Though the result were bodily weakness, yet perhaps no one can say that the consequences were to be regretted, for these were a life in conformity to higher principles.
-If the day and the night are such that you greet them with joy, and life emits a fragrance like flowers and sweet-scented herbs, is more elastic, more starry, more immortal⁠—that is your success.
+If the day and the night are such that you greet them with joy, and life emits a fragrance like flowers and sweet-scented herbs, is more elastic, more starry, more immortal—that is your success.
 All nature is your congratulation, and you have cause momentarily to bless yourself.
 The greatest gains and values are farthest from being appreciated.
 We easily come to doubt if they exist.
@@ -154,7 +153,7 @@ Man flows at once to God when the channel of purity is open.
 By turns our purity inspires and our impurity casts us down.
 He is blessed who is assured that the animal is dying out in him day by day, and the divine being established.
 Perhaps there is none but has cause for shame on account of the inferior and brutish nature to which he is allied.
-I fear that we are such gods or demigods only as fauns and satyrs, the divine allied to beasts, the creatures of appetite, and that, to some extent, our very life is our disgrace.⁠—</p>
+I fear that we are such gods or demigods only as fauns and satyrs, the divine allied to beasts, the creatures of appetite, and that, to some extent, our very life is our disgrace.—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>“How happy’s he who hath due place assigned</span>
@@ -191,7 +190,7 @@ If you would avoid uncleanness, and all the sins, work earnestly, though it be a
 Nature is hard to be overcome, but she must be overcome.
 What avails it that you are Christian, if you are not purer than the heathen, if you deny yourself no more, if you are not more religious?
 I know of many systems of religion esteemed heathenish whose precepts fill the reader with shame, and provoke him to new endeavors, though it be to the performance of rites merely.</p>
-<p>I hesitate to say these things, but it is not because of the subject⁠—I care not how obscene my <em>words</em> are⁠—but because I cannot speak of them without betraying my impurity.
+<p>I hesitate to say these things, but it is not because of the subject—I care not how obscene my <em>words</em> are—but because I cannot speak of them without betraying my impurity.
 We discourse freely without shame of one form of sensuality, and are silent about another.
 We are so degraded that we cannot speak simply of the necessary functions of human nature.
 In earlier ages, in some countries, every function was reverently spoken of and regulated by law.
@@ -208,6 +207,6 @@ Still he thought of his work; but the burden of his thought was, that though thi
 It was no more than the scurf of his skin, which was constantly shuffled off.
 But the notes of the flute came home to his ears out of a different sphere from that he worked in, and suggested work for certain faculties which slumbered in him.
 They gently did away with the street, and the village, and the state in which he lived.
-A voice said to him⁠—Why do you stay here and live this mean moiling life, when a glorious existence is possible for you?
-Those same stars twinkle over other fields than these.⁠—But how to come out of this condition and actually migrate thither?
+A voice said to him—Why do you stay here and live this mean moiling life, when a glorious existence is possible for you?
+Those same stars twinkle over other fields than these.—But how to come out of this condition and actually migrate thither?
 All that he could think of was to practise some new austerity, to let his mind descend into his body and redeem it, and treat himself with ever increasing respect.</p>

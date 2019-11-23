@@ -1,6 +1,5 @@
 ---
 title: Economy
-type: chapter
 ---
 <p>When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only.
 I lived there two years and two months.
@@ -19,7 +18,7 @@ As for the rest of my readers, they will accept such portions as apply to them.
 I trust that none will stretch the seams in putting on the coat, for it may do good service to him whom it fits.</p>
 <p>I would fain say something, not so much concerning the Chinese and Sandwich Islanders as you who read these pages, who are said to live in New England; something about your condition, especially your outward condition or circumstances in this world, in this town, what it is, whether it is necessary that it be as bad as it is, whether it cannot be improved as well as not.
 I have travelled a good deal in Concord; and everywhere, in shops, and offices, and fields, the inhabitants have appeared to me to be doing penance in a thousand remarkable ways.
-What I have heard of Bramins sitting exposed to four fires and looking in the face of the sun; or hanging suspended, with their heads downward, over flames; or looking at the heavens over their shoulders “until it becomes impossible for them to resume their natural position, while from the twist of the neck nothing but liquids can pass into the stomach”; or dwelling, chained for life, at the foot of a tree; or measuring with their bodies, like caterpillars, the breadth of vast empires; or standing on one leg on the tops of pillars⁠—even these forms of conscious penance are hardly more incredible and astonishing than the scenes which I daily witness.
+What I have heard of Bramins sitting exposed to four fires and looking in the face of the sun; or hanging suspended, with their heads downward, over flames; or looking at the heavens over their shoulders “until it becomes impossible for them to resume their natural position, while from the twist of the neck nothing but liquids can pass into the stomach”; or dwelling, chained for life, at the foot of a tree; or measuring with their bodies, like caterpillars, the breadth of vast empires; or standing on one leg on the tops of pillars—even these forms of conscious penance are hardly more incredible and astonishing than the scenes which I daily witness.
 The twelve labors of Hercules were trifling in comparison with those which my neighbors have undertaken; for they were only twelve, and had an end; but I could never see that these men slew or captured any monster or finished any labor.
 They have no friend Iolaus to burn with a hot iron the root of the hydra’s head, but as soon as one head is crushed, two spring up.</p>
 <p>I see young men, my townsmen, whose misfortune it is to have inherited farms, houses, barns, cattle, and farming tools; for these are more easily acquired than got rid of.
@@ -34,7 +33,7 @@ The portionless, who struggle with no such unnecessary inherited encumbrances, f
 The better part of the man is soon plowed into the soil for compost.
 By a seeming fate, commonly called necessity, they are employed, as it says in an old book, laying up treasures which moth and rust will corrupt and thieves break through and steal.
 It is a fool’s life, as they will find when they get to the end of it, if not before.
-It is said that Deucalion and Pyrrha created men by throwing stones over their heads behind them:⁠—</p>
+It is said that Deucalion and Pyrrha created men by throwing stones over their heads behind them:—</p>
 <blockquote epub:type="z3998:verse" xml:lang="la">
 	<p>
 		<i>
@@ -44,7 +43,7 @@ It is said that Deucalion and Pyrrha created men by throwing stones over their h
 		</i>
 	</p>
 </blockquote>
-<p>Or, as Raleigh rhymes it in his sonorous way⁠—</p>
+<p>Or, as Raleigh rhymes it in his sonorous way—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>“From thence our kind hardhearted is, enduring pain and care,</span>
@@ -57,7 +56,7 @@ It is said that Deucalion and Pyrrha created men by throwing stones over their h
 Their fingers, from excessive toil, are too clumsy and tremble too much for that.
 Actually, the laboring man has not leisure for a true integrity day by day; he cannot afford to sustain the manliest relations to men; his labor would be depreciated in the market.
 He has no time to be anything but a machine.
-How can he remember well his ignorance⁠—which his growth requires⁠—who has so often to use his knowledge?
+How can he remember well his ignorance—which his growth requires—who has so often to use his knowledge?
 We should feed and clothe him gratuitously sometimes, and recruit him with our cordials, before we judge of him.
 The finest qualities of our nature, like the bloom on fruits, can be preserved only by the most delicate handling.
 Yet we do not treat ourselves nor one another thus tenderly.</p>
@@ -75,7 +74,7 @@ How godlike, how immortal, is he?
 See how he cowers and sneaks, how vaguely all the day he fears, not being immortal nor divine, but the slave and prisoner of his own opinion of himself, a fame won by his own deeds.
 Public opinion is a weak tyrant compared with our own private opinion.
 What a man thinks of himself, that it is which determines, or rather indicates, his fate.
-Self-emancipation even in the West Indian provinces of the fancy and imagination⁠—what Wilberforce is there to bring that about?
+Self-emancipation even in the West Indian provinces of the fancy and imagination—what Wilberforce is there to bring that about?
 Think, also, of the ladies of the land weaving toilet cushions against the last day, not to betray too green an interest in their fates!
 As if you could kill time without injuring eternity.</p>
 <p>The mass of men lead lives of quiet desperation.
@@ -117,10 +116,10 @@ Nature and human life are as various as our several constitutions.
 Who shall say what prospect life offers to another?
 Could a greater miracle take place than for us to look through each other’s eyes for an instant?
 We should live in all the ages of the world in an hour; ay, in all the worlds of the ages.
-History, Poetry, Mythology!⁠—I know of no reading of another’s experience so startling and informing as this would be.</p>
+History, Poetry, Mythology!—I know of no reading of another’s experience so startling and informing as this would be.</p>
 <p>The greater part of what my neighbors call good I believe in my soul to be bad, and if I repent of anything, it is very likely to be my good behavior.
 What demon possessed me that I behaved so well?
-You may say the wisest thing you can, old man⁠—you who have lived seventy years, not without honor of a kind⁠—I hear an irresistible voice which invites me away from all that.
+You may say the wisest thing you can, old man—you who have lived seventy years, not without honor of a kind—I hear an irresistible voice which invites me away from all that.
 One generation abandons the enterprises of another like stranded vessels.</p>
 <p>I think that we may safely trust a good deal more than we do.
 We may waive just so much care of ourselves as we honestly bestow elsewhere.
@@ -151,14 +150,14 @@ According to Liebig, man’s body is a stove, and food the fuel which keeps up t
 In cold weather we eat more, in warm less.
 The animal heat is the result of a slow combustion, and disease and death take place when this is too rapid; or for want of fuel, or from some defect in the draught, the fire goes out.
 Of course the vital heat is not to be confounded with fire; but so much for analogy.
-It appears, therefore, from the above list, that the expression, <i>animal life</i>, is nearly synonymous with the expression, <i>animal heat</i>; for while Food may be regarded as the Fuel which keeps up the fire within us⁠—and Fuel serves only to prepare that Food or to increase the warmth of our bodies by addition from without⁠—Shelter and Clothing also serve only to retain the heat thus generated and absorbed.</p>
+It appears, therefore, from the above list, that the expression, <i>animal life</i>, is nearly synonymous with the expression, <i>animal heat</i>; for while Food may be regarded as the Fuel which keeps up the fire within us—and Fuel serves only to prepare that Food or to increase the warmth of our bodies by addition from without—Shelter and Clothing also serve only to retain the heat thus generated and absorbed.</p>
 <p>The grand necessity, then, for our bodies, is to keep warm, to keep the vital heat in us.
 What pains we accordingly take, not only with our Food, and Clothing, and Shelter, but with our beds, which are our nightclothes, robbing the nests and breasts of birds to prepare this shelter within a shelter, as the mole has its bed of grass and leaves at the end of its burrow!
 The poor man is wont to complain that this is a cold world; and to cold, no less physical than social, we refer directly a great part of our ails.
 The summer, in some climates, makes possible to man a sort of Elysian life.
 Fuel, except to cook his Food, is then unnecessary; the sun is his fire, and many of the fruits are sufficiently cooked by its rays; while Food generally is more various, and more easily obtained, and Clothing and Shelter are wholly or half unnecessary.
 At the present day, and in this country, as I find by my own experience, a few implements, a knife, an axe, a spade, a wheelbarrow, <abbr>etc.</abbr>, and for the studious, lamplight, stationery, and access to a few books, rank next to necessaries, and can all be obtained at a trifling cost.
-Yet some, not wise, go to the other side of the globe, to barbarous and unhealthy regions, and devote themselves to trade for ten or twenty years, in order that they may live⁠—that is, keep comfortably warm⁠—and die in New England at last.
+Yet some, not wise, go to the other side of the globe, to barbarous and unhealthy regions, and devote themselves to trade for ten or twenty years, in order that they may live—that is, keep comfortably warm—and die in New England at last.
 The luxuriously rich are not simply kept comfortably warm, but unnaturally hot; as I implied before, they are cooked, of course à la mode.</p>
 <p>Most of the luxuries, and many of the so-called comforts of life, are not only not indispensable, but positive hindrances to the elevation of mankind.
 With respect to luxuries and comforts, the wisest have ever lived a more simple and meagre life than the poor.
@@ -185,8 +184,8 @@ How can a man be a philosopher and not maintain his vital heat by better methods
 Surely not more warmth of the same kind, as more and richer food, larger and more splendid houses, finer and more abundant clothing, more numerous, incessant, and hotter fires, and the like.
 When he has obtained those things which are necessary to life, there is another alternative than to obtain the superfluities; and that is, to adventure on life now, his vacation from humbler toil having commenced.
 The soil, it appears, is suited to the seed, for it has sent its radicle downward, and it may now send its shoot upward also with confidence.
-Why has man rooted himself thus firmly in the earth, but that he may rise in the same proportion into the heavens above?⁠—for the nobler plants are valued for the fruit they bear at last in the air and light, far from the ground, and are not treated like the humbler esculents, which, though they may be biennials, are cultivated only till they have perfected their root, and often cut down at top for this purpose, so that most would not know them in their flowering season.</p>
-<p>I do not mean to prescribe rules to strong and valiant natures, who will mind their own affairs whether in heaven or hell, and perchance build more magnificently and spend more lavishly than the richest, without ever impoverishing themselves, not knowing how they live⁠—if, indeed, there are any such, as has been dreamed; nor to those who find their encouragement and inspiration in precisely the present condition of things, and cherish it with the fondness and enthusiasm of lovers⁠—and, to some extent, I reckon myself in this number; I do not speak to those who are well employed, in whatever circumstances, and they know whether they are well employed or not;⁠—but mainly to the mass of men who are discontented, and idly complaining of the hardness of their lot or of the times, when they might improve them.
+Why has man rooted himself thus firmly in the earth, but that he may rise in the same proportion into the heavens above?—for the nobler plants are valued for the fruit they bear at last in the air and light, far from the ground, and are not treated like the humbler esculents, which, though they may be biennials, are cultivated only till they have perfected their root, and often cut down at top for this purpose, so that most would not know them in their flowering season.</p>
+<p>I do not mean to prescribe rules to strong and valiant natures, who will mind their own affairs whether in heaven or hell, and perchance build more magnificently and spend more lavishly than the richest, without ever impoverishing themselves, not knowing how they live—if, indeed, there are any such, as has been dreamed; nor to those who find their encouragement and inspiration in precisely the present condition of things, and cherish it with the fondness and enthusiasm of lovers—and, to some extent, I reckon myself in this number; I do not speak to those who are well employed, in whatever circumstances, and they know whether they are well employed or not;—but mainly to the mass of men who are discontented, and idly complaining of the hardness of their lot or of the times, when they might improve them.
 There are some who complain most energetically and inconsolably of any, because they are, as they say, doing their duty.
 I also have in my mind that seemingly wealthy, but most terribly impoverished class of all, who have accumulated dross, but know not how to use it, or get rid of it, and thus have forged their own golden or silver fetters.</p>
 <hr/>
@@ -218,7 +217,7 @@ However, I have not set my heart on that.</p>
 “Do you wish to buy any baskets?” he asked.
 “No, we do not want any,” was the reply.
 “What!” exclaimed the Indian as he went out the gate, “do you mean to starve us?”
-Having seen his industrious white neighbors so well off⁠—that the lawyer had only to weave arguments, and, by some magic, wealth and standing followed⁠—he had said to himself: I will go into business; I will weave baskets; it is a thing which I can do.
+Having seen his industrious white neighbors so well off—that the lawyer had only to weave arguments, and, by some magic, wealth and standing followed—he had said to himself: I will go into business; I will weave baskets; it is a thing which I can do.
 Thinking that when he had made the baskets he would have done his part, and then it would be the white man’s to buy them.
 He had not discovered that it was necessary for him to make it worth the other’s while to buy them, or at least make him think that it was so, or to make something else which it would be worth his while to buy.
 I too had woven a kind of basket of a delicate texture, but I had not made it worth anyone’s while to buy them.
@@ -232,8 +231,8 @@ My purpose in going to Walden Pond was not to live cheaply nor to live dearly th
 If your trade is with the Celestial Empire, then some small counting house on the coast, in some Salem harbor, will be fixture enough.
 You will export such articles as the country affords, purely native products, much ice and pine timber and a little granite, always in native bottoms.
 These will be good ventures.
-To oversee all the details yourself in person; to be at once pilot and captain, and owner and underwriter; to buy and sell and keep the accounts; to read every letter received, and write or read every letter sent; to superintend the discharge of imports night and day; to be upon many parts of the coast almost at the same time⁠—often the richest freight will be discharged upon a Jersey shore;⁠—to be your own telegraph, unweariedly sweeping the horizon, speaking all passing vessels bound coastwise; to keep up a steady despatch of commodities, for the supply of such a distant and exorbitant market; to keep yourself informed of the state of the markets, prospects of war and peace everywhere, and anticipate the tendencies of trade and civilization⁠—taking advantage of the results of all exploring expeditions, using new passages and all improvements in navigation;⁠—charts to be studied, the position of reefs and new lights and buoys to be ascertained, and ever, and ever, the logarithmic tables to be corrected, for by the error of some calculator the vessel often splits upon a rock that should have reached a friendly pier⁠—there is the untold fate of La Prouse;⁠—universal science to be kept pace with, studying the lives of all great discoverers and navigators, great adventurers and merchants, from Hanno and the Phoenicians down to our day; in fine, account of stock to be taken from time to time, to know how you stand.
-It is a labor to task the faculties of a man⁠—such problems of profit and loss, of interest, of tare and tret, and gauging of all kinds in it, as demand a universal knowledge.</p>
+To oversee all the details yourself in person; to be at once pilot and captain, and owner and underwriter; to buy and sell and keep the accounts; to read every letter received, and write or read every letter sent; to superintend the discharge of imports night and day; to be upon many parts of the coast almost at the same time—often the richest freight will be discharged upon a Jersey shore;—to be your own telegraph, unweariedly sweeping the horizon, speaking all passing vessels bound coastwise; to keep up a steady despatch of commodities, for the supply of such a distant and exorbitant market; to keep yourself informed of the state of the markets, prospects of war and peace everywhere, and anticipate the tendencies of trade and civilization—taking advantage of the results of all exploring expeditions, using new passages and all improvements in navigation;—charts to be studied, the position of reefs and new lights and buoys to be ascertained, and ever, and ever, the logarithmic tables to be corrected, for by the error of some calculator the vessel often splits upon a rock that should have reached a friendly pier—there is the untold fate of La Prouse;—universal science to be kept pace with, studying the lives of all great discoverers and navigators, great adventurers and merchants, from Hanno and the Phoenicians down to our day; in fine, account of stock to be taken from time to time, to know how you stand.
+It is a labor to task the faculties of a man—such problems of profit and loss, of interest, of tare and tret, and gauging of all kinds in it, as demand a universal knowledge.</p>
 <p>I have thought that Walden Pond would be a good place for business, not solely on account of the railroad and the ice trade; it offers advantages which it may not be good policy to divulge; it is a good port and a good foundation.
 No Neva marshes to be filled; though you must everywhere build on piles of your own driving.
 It is said that a flood-tide, with a westerly wind, and ice in the Neva, would sweep <abbr>St.</abbr> Petersburg from the face of the earth.</p>
@@ -246,7 +245,7 @@ They are no better than wooden horses to hang the clean clothes on.
 Every day our garments become more assimilated to ourselves, receiving the impress of the wearer’s character, until we hesitate to lay them aside without such delay and medical appliances and some such solemnity even as our bodies.
 No man ever stood the lower in my estimation for having a patch in his clothes; yet I am sure that there is greater anxiety, commonly, to have fashionable, or at least clean and unpatched clothes, than to have a sound conscience.
 But even if the rent is not mended, perhaps the worst vice betrayed is improvidence.
-I sometimes try my acquaintances by such tests as this⁠—Who could wear a patch, or two extra seams only, over the knee?
+I sometimes try my acquaintances by such tests as this—Who could wear a patch, or two extra seams only, over the knee?
 Most behave as if they believed that their prospects for life would be ruined if they should do it.
 It would be easier for them to hobble to town with a broken leg than with a broken pantaloon.
 Often if an accident happens to a gentleman’s legs, they can be mended; but if a similar accident happens to the legs of his pantaloons, there is no help for it; for he considers, not what is truly respectable, but what is respected.
@@ -262,10 +261,10 @@ Even in our democratic New England towns the accidental possession of wealth, an
 But they yield such respect, numerous as they are, are so far heathen, and need to have a missionary sent to them.
 Beside, clothes introduced sewing, a kind of work which you may call endless; a woman’s dress, at least, is never done.</p>
 <p>A man who has at length found something to do will not need to get a new suit to do it in; for him the old will do, that has lain dusty in the garret for an indeterminate period.
-Old shoes will serve a hero longer than they have served his valet⁠—if a hero ever has a valet⁠—bare feet are older than shoes, and he can make them do.
+Old shoes will serve a hero longer than they have served his valet—if a hero ever has a valet—bare feet are older than shoes, and he can make them do.
 Only they who go to soirées and legislative balls must have new coats, coats to change as often as the man changes in them.
 But if my jacket and trousers, my hat and shoes, are fit to worship God in, they will do; will they not?
-Who ever saw his old clothes⁠—his old coat, actually worn out, resolved into its primitive elements, so that it was not a deed of charity to bestow it on some poor boy, by him perchance to be bestowed on some poorer still, or shall we say richer, who could do with less?
+Who ever saw his old clothes—his old coat, actually worn out, resolved into its primitive elements, so that it was not a deed of charity to bestow it on some poor boy, by him perchance to be bestowed on some poorer still, or shall we say richer, who could do with less?
 I say, beware of all enterprises that require new clothes, and not rather a new wearer of clothes.
 If there is not a new man, how can the new clothes be made to fit?
 If you have any enterprise before you, try it in your old clothes.
@@ -281,7 +280,7 @@ I believe that all races at some seasons wear something equivalent to the shirt.
 It is desirable that a man be clad so simply that he can lay his hands on himself in the dark, and that he live in all respects so compactly and preparedly that, if an enemy take the town, he can, like the old philosopher, walk out the gate empty-handed without anxiety.
 While one thick garment is, for most purposes, as good as three thin ones, and cheap clothing can be obtained at prices really to suit customers; while a thick coat can be bought for five dollars, which will last as many years, thick pantaloons for two dollars, cowhide boots for a dollar and a half a pair, a summer hat for a quarter of a dollar, and a winter cap for sixty-two and a half cents, or a better be made at home at a nominal cost, where is he so poor that, clad in such a suit, <em>of his own earning</em>, there will not be found wise men to do him reverence?</p>
 <p>When I ask for a garment of a particular form, my tailoress tells me gravely, “They do not make them so now,” not emphasizing the “They” at all, as if she quoted an authority as impersonal as the Fates, and I find it difficult to get made what I want, simply because she cannot believe that I mean what I say, that I am so rash.
-When I hear this oracular sentence, I am for a moment absorbed in thought, emphasizing to myself each word separately that I may come at the meaning of it, that I may find out by what degree of consanguinity <em>They</em> are related to <em>me</em>, and what authority they may have in an affair which affects me so nearly; and, finally, I am inclined to answer her with equal mystery, and without any more emphasis of the “they”⁠—“It is true, they did not make them so recently, but they do now.”
+When I hear this oracular sentence, I am for a moment absorbed in thought, emphasizing to myself each word separately that I may come at the meaning of it, that I may find out by what degree of consanguinity <em>They</em> are related to <em>me</em>, and what authority they may have in an affair which affects me so nearly; and, finally, I am inclined to answer her with equal mystery, and without any more emphasis of the “they”—“It is true, they did not make them so recently, but they do now.”
 Of what use this measuring of me if she does not measure my character, but only the breadth of my shoulders, as it were a peg to bang the coat on?
 We worship not the Graces, nor the Parcae, but Fashion.
 She spins and weaves and cuts with full authority.
@@ -350,8 +349,8 @@ I do not mean to insist here on the disadvantage of hiring compared with owning,
 But, answers one, by merely paying this tax, the poor civilized man secures an abode which is a palace compared with the savage’s.
 An annual rent of from twenty-five to a hundred dollars (these are the country rates) entitles him to the benefit of the improvements of centuries, spacious apartments, clean paint and paper, Rumford fireplace, back plastering, Venetian blinds, copper pump, spring lock, a commodious cellar, and many other things.
 But how happens it that he who is said to enjoy these things is so commonly a poor civilized man, while the savage, who has them not, is rich as a savage?
-If it is asserted that civilization is a real advance in the condition of man⁠—and I think that it is, though only the wise improve their advantages⁠—it must be shown that it has produced better dwellings without making them more costly; and the cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.
-An average house in this neighborhood costs perhaps eight hundred dollars, and to lay up this sum will take from ten to fifteen years of the laborer’s life, even if he is not encumbered with a family⁠—estimating the pecuniary value of every man’s labor at one dollar a day, for if some receive more, others receive less;⁠—so that he must have spent more than half his life commonly before his wigwam will be earned.
+If it is asserted that civilization is a real advance in the condition of man—and I think that it is, though only the wise improve their advantages—it must be shown that it has produced better dwellings without making them more costly; and the cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.
+An average house in this neighborhood costs perhaps eight hundred dollars, and to lay up this sum will take from ten to fifteen years of the laborer’s life, even if he is not encumbered with a family—estimating the pecuniary value of every man’s labor at one dollar a day, for if some receive more, others receive less;—so that he must have spent more than half his life commonly before his wigwam will be earned.
 If we suppose him to pay a rent instead, this is but a doubtful choice of evils.
 Would the savage have been wise to exchange his wigwam for a palace on these terms?</p>
 <p>It may be guessed that I reduce almost the whole advantage of holding this superfluous property as a fund in store against the future, so far as the individual is concerned, mainly to the defraying of funeral expenses.
@@ -361,7 +360,7 @@ But I wish to show at what a sacrifice this advantage is at present obtained, an
 What mean ye by saying that the poor ye have always with you, or that the fathers have eaten sour grapes, and the children’s teeth are set on edge?</p>
 <p>“As I live, saith the Lord God, ye shall not have occasion any more to use this proverb in Israel.</p>
 <p>“Behold all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die.”</p>
-<p>When I consider my neighbors, the farmers of Concord, who are at least as well off as the other classes, I find that for the most part they have been toiling twenty, thirty, or forty years, that they may become the real owners of their farms, which commonly they have inherited with encumbrances, or else bought with hired money⁠—and we may regard one third of that toil as the cost of their houses⁠—but commonly they have not paid for them yet.
+<p>When I consider my neighbors, the farmers of Concord, who are at least as well off as the other classes, I find that for the most part they have been toiling twenty, thirty, or forty years, that they may become the real owners of their farms, which commonly they have inherited with encumbrances, or else bought with hired money—and we may regard one third of that toil as the cost of their houses—but commonly they have not paid for them yet.
 It is true, the encumbrances sometimes outweigh the value of the farm, so that the farm itself becomes one great encumbrance, and still a man is found to inherit it, being well acquainted with it, as he says.
 On applying to the assessors, I am surprised to learn that they cannot at once name a dozen in the town who own their farms free and clear.
 If you would know the history of these homesteads, inquire at the bank where they are mortgaged.
@@ -379,7 +378,7 @@ This is the reason he is poor; and for a similar reason we are all poor in respe
 As Chapman sings,</p>
 <blockquote epub:type="z3998:verse">
 	<p>
-		<span>“The false society of men⁠—</span>
+		<span>“The false society of men—</span>
 		<br/>
 		<span>—for earthly greatness</span>
 		<br/>
@@ -417,7 +416,7 @@ Shall we always study to obtain more of these things, and not sometimes to be co
 Shall the respectable citizen thus gravely teach, by precept and example, the necessity of the young man’s providing a certain number of superfluous glow-shoes, and umbrellas, and empty guest chambers for empty guests, before he dies?
 Why should not our furniture be as simple as the Arab’s or the Indian’s?
 When I think of the benefactors of the race, whom we have apotheosized as messengers from heaven, bearers of divine gifts to man, I do not see in my mind any retinue at their heels, any carload of fashionable furniture.
-Or what if I were to allow⁠—would it not be a singular allowance?⁠—that our furniture should be more complex than the Arab’s, in proportion as we are morally and intellectually his superiors!
+Or what if I were to allow—would it not be a singular allowance?—that our furniture should be more complex than the Arab’s, in proportion as we are morally and intellectually his superiors!
 At present our houses are cluttered and defiled with it, and a good housewife would sweep out the greater part into the dust hole, and not leave her morning’s work undone.
 Morning work!
 By the blushes of Aurora and the music of Memnon, what should be man’s <em>morning work</em> in this world?
@@ -477,12 +476,12 @@ One day, when my axe had come off and I had cut a green hickory for a wedge, dri
 It appeared to me that for a like reason men remain in their present low and primitive condition; but if they should feel the influence of the spring of springs arousing them, they would of necessity rise to a higher and more ethereal life.
 I had previously seen the snakes in frosty mornings in my path with portions of their bodies still numb and inflexible, waiting for the sun to thaw them.
 On the 1st of April it rained and melted the ice, and in the early part of the day, which was very foggy, I heard a stray goose groping about over the pond and cackling as if lost, or like the spirit of the fog.</p>
-<p>So I went on for some days cutting and hewing timber, and also studs and rafters, all with my narrow axe, not having many communicable or scholar-like thoughts, singing to myself⁠—</p>
+<p>So I went on for some days cutting and hewing timber, and also studs and rafters, all with my narrow axe, not having many communicable or scholar-like thoughts, singing to myself—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>Men say they know many things;</span>
 		<br/>
-		<span>But lo! they have taken wings⁠—</span>
+		<span>But lo! they have taken wings—</span>
 		<br/>
 		<span>The arts and sciences,</span>
 		<br/>
@@ -509,14 +508,14 @@ Doorsill there was none, but a perennial passage for the hens under the door boa
 The hens were driven in by my approach.
 It was dark, and had a dirt floor for the most part, dank, clammy, and aguish, only here a board and there a board which would not bear removal.
 She lighted a lamp to show me the inside of the roof and the walls, and also that the board floor extended under the bed, warning me not to step into the cellar, a sort of dust hole two feet deep.
-In her own words, they were “good boards overhead, good boards all around, and a good window”⁠—of two whole squares originally, only the cat had passed out that way lately.
+In her own words, they were “good boards overhead, good boards all around, and a good window”—of two whole squares originally, only the cat had passed out that way lately.
 There was a stove, a bed, and a place to sit, an infant in the house where it was born, a silk parasol, gilt-framed looking-glass, and a patent new coffee-mill nailed to an oak sapling, all told.
 The bargain was soon concluded, for James had in the meanwhile returned.
 I to pay four dollars and twenty-five cents tonight, he to vacate at five tomorrow morning, selling to nobody else meanwhile: I to take possession at six.
 It were well, he said, to be there early, and anticipate certain indistinct but wholly unjust claims on the score of ground rent and fuel.
 This he assured me was the only encumbrance.
 At six I passed him and his family on the road.
-One large bundle held their all⁠—bed, coffee-mill, looking-glass, hens⁠—all but the cat; she took to the woods and became a wild cat, and, as I learned afterward, trod in a trap set for woodchucks, and so became a dead cat at last.</p>
+One large bundle held their all—bed, coffee-mill, looking-glass, hens—all but the cat; she took to the woods and became a wild cat, and, as I learned afterward, trod in a trap set for woodchucks, and so became a dead cat at last.</p>
 <p>I took down this dwelling the same morning, drawing the nails, and removed it to the pond-side by small cartloads, spreading the boards on the grass there to bleach and warp back again in the sun.
 One early thrush gave me a note or two as I drove along the woodland path.
 I was informed treacherously by a young Patrick that neighbor Seeley, an Irishman, in the intervals of the carting, transferred the still tolerable, straight, and drivable nails, staples, and spikes to his pocket, and then stood when I came back to pass the time of day, and look freshly up, unconcerned, with spring thoughts, at the devastation; there being a dearth of work, as he said.
@@ -549,20 +548,20 @@ No doubt another <em>may</em> also think for me; but it is not therefore desirab
 <p>True, there are architects so called in this country, and I have heard of one at least possessed with the idea of making architectural ornaments have a core of truth, a necessity, and hence a beauty, as if it were a revelation to him.
 All very well perhaps from his point of view, but only a little better than the common dilettantism.
 A sentimental reformer in architecture, he began at the cornice, not at the foundation.
-It was only how to put a core of truth within the ornaments, that every sugarplum, in fact, might have an almond or caraway seed in it⁠—though I hold that almonds are most wholesome without the sugar⁠—and not how the inhabitant, the indweller, might build truly within and without, and let the ornaments take care of themselves.
-What reasonable man ever supposed that ornaments were something outward and in the skin merely⁠—that the tortoise got his spotted shell, or the shellfish its mother-o’-pearl tints, by such a contract as the inhabitants of Broadway their Trinity Church?
+It was only how to put a core of truth within the ornaments, that every sugarplum, in fact, might have an almond or caraway seed in it—though I hold that almonds are most wholesome without the sugar—and not how the inhabitant, the indweller, might build truly within and without, and let the ornaments take care of themselves.
+What reasonable man ever supposed that ornaments were something outward and in the skin merely—that the tortoise got his spotted shell, or the shellfish its mother-o’-pearl tints, by such a contract as the inhabitants of Broadway their Trinity Church?
 But a man has no more to do with the style of architecture of his house than a tortoise with that of its shell: nor need the soldier be so idle as to try to paint the precise color of his virtue on his standard.
 The enemy will find it out.
 He may turn pale when the trial comes.
 This man seemed to me to lean over the cornice, and timidly whisper his half truth to the rude occupants who really knew it better than he.
-What of architectural beauty I now see, I know has gradually grown from within outward, out of the necessities and character of the indweller, who is the only builder⁠—out of some unconscious truthfulness, and nobleness, without ever a thought for the appearance and whatever additional beauty of this kind is destined to be produced will be preceded by a like unconscious beauty of life.
+What of architectural beauty I now see, I know has gradually grown from within outward, out of the necessities and character of the indweller, who is the only builder—out of some unconscious truthfulness, and nobleness, without ever a thought for the appearance and whatever additional beauty of this kind is destined to be produced will be preceded by a like unconscious beauty of life.
 The most interesting dwellings in this country, as the painter knows, are the most unpretending, humble log huts and cottages of the poor commonly; it is the life of the inhabitants whose shells they are, and not any peculiarity in their surfaces merely, which makes them picturesque; and equally interesting will be the citizen’s suburban box, when his life shall be as simple and as agreeable to the imagination, and there is as little straining after effect in the style of his dwelling.
 A great proportion of architectural ornaments are literally hollow, and a September gale would strip them off, like borrowed plumes, without injury to the substantials.
 They can do without architecture who have no olives nor wines in the cellar.
 What if an equal ado were made about the ornaments of style in literature, and the architects of our bibles spent as much time about their cornices as the architects of our churches do?
 So are made the <i xml:lang="fr">belles-lettres</i> and the <i xml:lang="fr">beaux-arts</i> and their professors.
 Much it concerns a man, forsooth, how a few sticks are slanted over him or under him, and what colors are daubed upon his box.
-It would signify somewhat, if, in any earnest sense, he slanted them and daubed it; but the spirit having departed out of the tenant, it is of a piece with constructing his own coffin⁠—the architecture of the grave⁠—and “carpenter” is but another name for “coffin-maker.”
+It would signify somewhat, if, in any earnest sense, he slanted them and daubed it; but the spirit having departed out of the tenant, it is of a piece with constructing his own coffin—the architecture of the grave—and “carpenter” is but another name for “coffin-maker.”
 One man says, in his despair or indifference to life, take up a handful of the earth at your feet, and paint your house that color.
 Is he thinking of his last and narrow house?
 Toss up a copper for it as well.
@@ -573,7 +572,7 @@ An enterprise to improve the style of cottage architecture!
 When you have got my ornaments ready, I will wear them.</p>
 <p>Before winter I built a chimney, and shingled the sides of my house, which were already impervious to rain, with imperfect and sappy shingles made of the first slice of the log, whose edges I was obliged to straighten with a plane.</p>
 <p>I have thus a tight shingled and plastered house, ten feet wide by fifteen long, and eight-feet posts, with a garret and a closet, a large window on each side, two trap doors, one door at the end, and a brick fireplace opposite.
-The exact cost of my house, paying the usual price for such materials as I used, but not counting the work, all of which was done by myself, was as follows; and I give the details because very few are able to tell exactly what their houses cost, and fewer still, if any, the separate cost of the various materials which compose them:⁠—</p>
+The exact cost of my house, paying the usual price for such materials as I used, but not counting the work, all of which was done by myself, was as follows; and I give the details because very few are able to tell exactly what their houses cost, and fewer still, if any, the separate cost of the various materials which compose them:—</p>
 <table>
 	<tbody>
 		<tr>
@@ -653,23 +652,23 @@ I have also a small woodshed adjoining, made chiefly of the stuff which was left
 <p>I intend to build me a house which will surpass any on the main street in Concord in grandeur and luxury, as soon as it pleases me as much and will cost me no more than my present one.</p>
 <p>I thus found that the student who wishes for a shelter can obtain one for a lifetime at an expense not greater than the rent which he now pays annually.
 If I seem to boast more than is becoming, my excuse is that I brag for humanity rather than for myself; and my shortcomings and inconsistencies do not affect the truth of my statement.
-Notwithstanding much cant and hypocrisy⁠—chaff which I find it difficult to separate from my wheat, but for which I am as sorry as any man⁠—I will breathe freely and stretch myself in this respect, it is such a relief to both the moral and physical system; and I am resolved that I will not through humility become the devil’s attorney.
+Notwithstanding much cant and hypocrisy—chaff which I find it difficult to separate from my wheat, but for which I am as sorry as any man—I will breathe freely and stretch myself in this respect, it is such a relief to both the moral and physical system; and I am resolved that I will not through humility become the devil’s attorney.
 I will endeavor to speak a good word for the truth.
 At Cambridge College the mere rent of a student’s room, which is only a little larger than my own, is thirty dollars each year, though the corporation had the advantage of building thirty-two side by side and under one roof, and the occupant suffers the inconvenience of many and noisy neighbors, and perhaps a residence in the fourth story.
 I cannot but think that if we had more true wisdom in these respects, not only less education would be needed, because, forsooth, more would already have been acquired, but the pecuniary expense of getting an education would in a great measure vanish.
 Those conveniences which the student requires at Cambridge or elsewhere cost him or somebody else ten times as great a sacrifice of life as they would with proper management on both sides.
 Those things for which the most money is demanded are never the things which the student most wants.
 Tuition, for instance, is an important item in the term bill, while for the far more valuable education which he gets by associating with the most cultivated of his contemporaries no charge is made.
-The mode of founding a college is, commonly, to get up a subscription of dollars and cents, and then, following blindly the principles of a division of labor to its extreme⁠—a principle which should never be followed but with circumspection⁠—to call in a contractor who makes this a subject of speculation, and he employs Irishmen or other operatives actually to lay the foundations, while the students that are to be are said to be fitting themselves for it; and for these oversights successive generations have to pay.
+The mode of founding a college is, commonly, to get up a subscription of dollars and cents, and then, following blindly the principles of a division of labor to its extreme—a principle which should never be followed but with circumspection—to call in a contractor who makes this a subject of speculation, and he employs Irishmen or other operatives actually to lay the foundations, while the students that are to be are said to be fitting themselves for it; and for these oversights successive generations have to pay.
 I think that it would be better <em>than this</em>, for the students, or those who desire to be benefited by it, even to lay the foundation themselves.
 The student who secures his coveted leisure and retirement by systematically shirking any labor necessary to man obtains but an ignoble and unprofitable leisure, defrauding himself of the experience which alone can make leisure fruitful.
 “But,” says one, “you do not mean that the students should go to work with their hands instead of their heads?”
 I do not mean that exactly, but I mean something which he might think a good deal like that; I mean that they should not <em>play</em> life, or <em>study</em> it merely, while the community supports them at this expensive game, but earnestly <em>live</em> it from beginning to end.
 How could youths better learn to live than by at once trying the experiment of living?
 Methinks this would exercise their minds as much as mathematics.
-If I wished a boy to know something about the arts and sciences, for instance, I would not pursue the common course, which is merely to send him into the neighborhood of some professor, where anything is professed and practised but the art of life;⁠—to survey the world through a telescope or a microscope, and never with his natural eye; to study chemistry, and not learn how his bread is made, or mechanics, and not learn how it is earned; to discover new satellites to Neptune, and not detect the motes in his eyes, or to what vagabond he is a satellite himself; or to be devoured by the monsters that swarm all around him, while contemplating the monsters in a drop of vinegar.
-Which would have advanced the most at the end of a month⁠—the boy who had made his own jackknife from the ore which he had dug and smelted, reading as much as would be necessary for this⁠—or the boy who had attended the lectures on metallurgy at the Institute in the meanwhile, and had received a Rodgers’ penknife from his father?
-Which would be most likely to cut his fingers? … To my astonishment I was informed on leaving college that I had studied navigation!⁠—why, if I had taken one turn down the harbor I should have known more about it.
+If I wished a boy to know something about the arts and sciences, for instance, I would not pursue the common course, which is merely to send him into the neighborhood of some professor, where anything is professed and practised but the art of life;—to survey the world through a telescope or a microscope, and never with his natural eye; to study chemistry, and not learn how his bread is made, or mechanics, and not learn how it is earned; to discover new satellites to Neptune, and not detect the motes in his eyes, or to what vagabond he is a satellite himself; or to be devoured by the monsters that swarm all around him, while contemplating the monsters in a drop of vinegar.
+Which would have advanced the most at the end of a month—the boy who had made his own jackknife from the ore which he had dug and smelted, reading as much as would be necessary for this—or the boy who had attended the lectures on metallurgy at the Institute in the meanwhile, and had received a Rodgers’ penknife from his father?
+Which would be most likely to cut his fingers? … To my astonishment I was informed on leaving college that I had studied navigation!—why, if I had taken one turn down the harbor I should have known more about it.
 Even the poor student studies and is taught only <em>political</em> economy, while that economy of living which is synonymous with philosophy is not even sincerely professed in our colleges.
 The consequence is, that while he is reading Adam Smith, Ricardo, and Say, he runs his father in debt irretrievably.</p>
 <p>As with our colleges, so with a hundred “modern improvements”; there is an illusion about them; there is not always a positive advance.
@@ -695,7 +694,7 @@ Instead of going to Fitchburg, you will be working here the greater part of the 
 And so, if the railroad reached round the world, I think that I should keep ahead of you; and as for seeing the country and getting experience of that kind, I should have to cut your acquaintance altogether.</p>
 <p>Such is the universal law, which no man can ever outwit, and with regard to the railroad even we may say it is as broad as it is long.
 To make a railroad round the world available to all mankind is equivalent to grading the whole surface of the planet.
-Men have an indistinct notion that if they keep up this activity of joint stocks and spades long enough all will at length ride somewhere, in next to no time, and for nothing; but though a crowd rushes to the depot, and the conductor shouts “All aboard!” when the smoke is blown away and the vapor condensed, it will be perceived that a few are riding, but the rest are run over⁠—and it will be called, and will be, “A melancholy accident.”
+Men have an indistinct notion that if they keep up this activity of joint stocks and spades long enough all will at length ride somewhere, in next to no time, and for nothing; but though a crowd rushes to the depot, and the conductor shouts “All aboard!” when the smoke is blown away and the vapor condensed, it will be perceived that a few are riding, but the rest are run over—and it will be called, and will be, “A melancholy accident.”
 No doubt they can ride at last who shall have earned their fare, that is, if they survive so long, but they will probably have lost their elasticity and desire to travel by that time.
 This spending of the best part of one’s life earning money in order to enjoy a questionable liberty during the least valuable part of it reminds me of the Englishman who went to India to make a fortune first, in order that he might return to England and live the life of a poet.
 He should have gone up garret at once.
@@ -731,7 +730,7 @@ My whole income from the farm was</p>
 		</tr>
 	</tbody>
 </table>
-<p>beside produce consumed and on hand at the time this estimate was made of the value of $4.50⁠—the amount on hand much more than balancing a little grass which I did not raise.
+<p>beside produce consumed and on hand at the time this estimate was made of the value of $4.50—the amount on hand much more than balancing a little grass which I did not raise.
 All things considered, that is, considering the importance of a man’s soul and of today, notwithstanding the short time occupied by my experiment, nay, partly even because of its transient character, I believe that that was doing better than any farmer in Concord did that year.</p>
 <p>The next year I did better still, for I spaded up all the land which I required, about a third of an acre, and I learned from the experience of both years, not being in the least awed by many celebrated works on husbandry, Arthur Young among the rest, that if one would live simply and eat only the crop which he raised, and raise no more than he ate, and not exchange it for an insufficient quantity of more luxurious and expensive things, he would need to cultivate only a few rods of ground, and that it would be cheaper to spade up that than to use oxen to plow it, and to select a fresh spot from time to time than to manure the old, and he could do all his necessary farm work as it were with his left hand at odd hours in the summer; and thus he would not be tied to an ox, or horse, or cow, or pig, as at present.
 I desire to speak impartially on this point, and as one not interested in the success or failure of the present economical and social arrangements.
@@ -771,11 +770,11 @@ It costs more than it comes to.
 The mainspring is vanity, assisted by the love of garlic and bread and butter. <abbr>Mr.</abbr> Balcom, a promising young architect, designs it on the back of his Vitruvius, with hard pencil and ruler, and the job is let out to Dobson &amp; Sons, stonecutters.
 When the thirty centuries begin to look down on it, mankind begin to look up at it.
 As for your high towers and monuments, there was a crazy fellow once in this town who undertook to dig through to China, and he got so far that, as he said, he heard the Chinese pots and kettles rattle; but I think that I shall not go out of my way to admire the hole which he made.
-Many are concerned about the monuments of the West and the East⁠—to know who built them.
-For my part, I should like to know who in those days did not build them⁠—who were above such trifling.
+Many are concerned about the monuments of the West and the East—to know who built them.
+For my part, I should like to know who in those days did not build them—who were above such trifling.
 But to proceed with my statistics.</p>
 <p>By surveying, carpentry, and day-labor of various other kinds in the village in the meanwhile, for I have as many trades as fingers, I had earned $13.34.
-The expense of food for eight months, namely, from July 4th to March 1st, the time when these estimates were made, though I lived there more than two years⁠—not counting potatoes, a little green corn, and some peas, which I had raised, nor considering the value of what was on hand at the last date⁠—was</p>
+The expense of food for eight months, namely, from July 4th to March 1st, the time when these estimates were made, though I lived there more than two years—not counting potatoes, a little green corn, and some peas, which I had raised, nor considering the value of what was on hand at the last date—was</p>
 <table>
 	<tbody>
 		<tr>
@@ -856,7 +855,7 @@ The expense of food for eight months, namely, from July 4th to March 1st, the ti
 	</tbody>
 </table>
 <p>Yes, I did eat $8.74, all told; but I should not thus unblushingly publish my guilt, if I did not know that most of my readers were equally guilty with myself, and that their deeds would look no better in print.
-The next year I sometimes caught a mess of fish for my dinner, and once I went so far as to slaughter a woodchuck which ravaged my bean-field⁠—effect his transmigration, as a Tartar would say⁠—and devour him, partly for experiment’s sake; but though it afforded me a momentary enjoyment, notwithstanding a musky flavor, I saw that the longest use would not make that a good practice, however it might seem to have your woodchucks ready dressed by the village butcher.</p>
+The next year I sometimes caught a mess of fish for my dinner, and once I went so far as to slaughter a woodchuck which ravaged my bean-field—effect his transmigration, as a Tartar would say—and devour him, partly for experiment’s sake; but though it afforded me a momentary enjoyment, notwithstanding a musky flavor, I saw that the longest use would not make that a good practice, however it might seem to have your woodchucks ready dressed by the village butcher.</p>
 <p>Clothing and some incidental expenses within the same dates, though little can be inferred from this item, amounted to</p>
 <table>
 	<tbody>
@@ -870,7 +869,7 @@ The next year I sometimes caught a mess of fish for my dinner, and once I went s
 		</tr>
 	</tbody>
 </table>
-<p>So that all the pecuniary outgoes, excepting for washing and mending, which for the most part were done out of the house, and their bills have not yet been received⁠—and these are all and more than all the ways by which money necessarily goes out in this part of the world⁠—were</p>
+<p>So that all the pecuniary outgoes, excepting for washing and mending, which for the most part were done out of the house, and their bills have not yet been received—and these are all and more than all the ways by which money necessarily goes out in this part of the world—were</p>
 <table>
 	<tbody>
 		<tr>
@@ -917,7 +916,7 @@ And to meet this I have for farm produce sold</p>
 		</tr>
 	</tbody>
 </table>
-<p>which subtracted from the sum of the outgoes leaves a balance of $25.21¾ on the one side⁠—this being very nearly the means with which I started, and the measure of expenses to be incurred⁠—and on the other, beside the leisure and independence and health thus secured, a comfortable house for me as long as I choose to occupy it.</p>
+<p>which subtracted from the sum of the outgoes leaves a balance of $25.21¾ on the one side—this being very nearly the means with which I started, and the measure of expenses to be incurred—and on the other, beside the leisure and independence and health thus secured, a comfortable house for me as long as I choose to occupy it.</p>
 <p>These statistics, however accidental and therefore uninstructive they may appear, as they have a certain completeness, have a certain value also.
 Nothing was given me of which I have not rendered some account.
 It appears from the above estimate, that my food alone cost me in money about twenty-seven cents a week.
@@ -937,7 +936,7 @@ I tried flour also; but have at last found a mixture of rye and Indian meal most
 In cold weather it was no little amusement to bake several small loaves of this in succession, tending and turning them as carefully as an Egyptian his hatching eggs.
 They were a real cereal fruit which I ripened, and they had to my senses a fragrance like that of other noble fruits, which I kept in as long as possible by wrapping them in cloths.
 I made a study of the ancient and indispensable art of bread-making, consulting such authorities as offered, going back to the primitive days and first invention of the unleavened kind, when from the wildness of nuts and meats men first reached the mildness and refinement of this diet, and travelling gradually down in my studies through that accidental souring of the dough which, it is supposed, taught the leavening process, and through the various fermentations thereafter, till I came to “good, sweet, wholesome bread,” the staff of life.
-Leaven, which some deem the soul of bread, the <i xml:lang="la">spiritus</i> which fills its cellular tissue, which is religiously preserved like the vestal fire⁠—some precious bottleful, I suppose, first brought over in the Mayflower, did the business for America, and its influence is still rising, swelling, spreading, in cerealian billows over the land⁠—this seed I regularly and faithfully procured from the village, till at length one morning I forgot the rules, and scalded my yeast; by which accident I discovered that even this was not indispensable⁠—for my discoveries were not by the synthetic but analytic process⁠—and I have gladly omitted it since, though most housewives earnestly assured me that safe and wholesome bread without yeast might not be, and elderly people prophesied a speedy decay of the vital forces.
+Leaven, which some deem the soul of bread, the <i xml:lang="la">spiritus</i> which fills its cellular tissue, which is religiously preserved like the vestal fire—some precious bottleful, I suppose, first brought over in the Mayflower, did the business for America, and its influence is still rising, swelling, spreading, in cerealian billows over the land—this seed I regularly and faithfully procured from the village, till at length one morning I forgot the rules, and scalded my yeast; by which accident I discovered that even this was not indispensable—for my discoveries were not by the synthetic but analytic process—and I have gladly omitted it since, though most housewives earnestly assured me that safe and wholesome bread without yeast might not be, and elderly people prophesied a speedy decay of the vital forces.
 Yet I find it not to be an essential ingredient, and after going without it for a year am still in the land of the living; and I am glad to escape the trivialness of carrying a bottleful in my pocket, which would sometimes pop and discharge its contents to my discomfiture.
 It is simpler and more respectable to omit it.
 Man is an animal who more than any other can adapt himself to all climates and circumstances.
@@ -947,7 +946,7 @@ It would seem that I made it according to the recipe which Marcus Porcius Cato g
 Manus mortariumque bene lavato.
 Farinam in mortarium indito, aquae paulatim addito, subigitoque pulchre.
 Ubi bene subegeris, defingito, coquitoque sub testu.</i>”
-Which I take to mean⁠—“Make kneaded bread thus.
+Which I take to mean—“Make kneaded bread thus.
 Wash your hands and trough well.
 Put the meal into the trough, add water gradually, and knead it thoroughly.
 When you have kneaded it well, mould it, and bake it under a cover,” that is, in a baking kettle.
@@ -958,7 +957,7 @@ At one time, owing to the emptiness of my purse, I saw none of it for more than 
 Yet so far are we from simplicity and independence that, in Concord, fresh and sweet meal is rarely sold in the shops, and hominy and corn in a still coarser form are hardly used by any.
 For the most part the farmer gives to his cattle and hogs the grain of his own producing, and buys flour, which is at least no more wholesome, at a greater cost, at the store.
 I saw that I could easily raise my bushel or two of rye and Indian corn, for the former will grow on the poorest land, and the latter does not require the best, and grind them in a hand-mill, and so do without rice and pork; and if I must have some concentrated sweet, I found by experiment that I could make a very good molasses either of pumpkins or beets, and I knew that I needed only to set out a few maples to obtain it more easily still, and while these were growing I could use various substitutes beside those which I have named.
-“For,” as the Forefathers sang⁠—</p>
+“For,” as the Forefathers sang—</p>
 <blockquote epub:type="z3998:verse">
 	<p>
 		<span>“we can make liquor to sweeten our lips</span>
@@ -969,16 +968,16 @@ I saw that I could easily raise my bushel or two of rye and Indian corn, for the
 <p>Finally, as for salt, that grossest of groceries, to obtain this might be a fit occasion for a visit to the seashore, or, if I did without it altogether, I should probably drink the less water.
 I do not learn that the Indians ever troubled themselves to go after it.</p>
 <p>Thus I could avoid all trade and barter, so far as my food was concerned, and having a shelter already, it would only remain to get clothing and fuel.
-The pantaloons which I now wear were woven in a farmer’s family⁠—thank Heaven there is so much virtue still in man; for I think the fall from the farmer to the operative as great and memorable as that from the man to the farmer;⁠—and in a new country, fuel is an encumbrance.
-As for a habitat, if I were not permitted still to squat, I might purchase one acre at the same price for which the land I cultivated was sold⁠—namely, eight dollars and eight cents.
+The pantaloons which I now wear were woven in a farmer’s family—thank Heaven there is so much virtue still in man; for I think the fall from the farmer to the operative as great and memorable as that from the man to the farmer;—and in a new country, fuel is an encumbrance.
+As for a habitat, if I were not permitted still to squat, I might purchase one acre at the same price for which the land I cultivated was sold—namely, eight dollars and eight cents.
 But as it was, I considered that I enhanced the value of the land by squatting on it.</p>
-<p>There is a certain class of unbelievers who sometimes ask me such questions as, if I think that I can live on vegetable food alone; and to strike at the root of the matter at once⁠—for the root is faith⁠—I am accustomed to answer such, that I can live on board nails.
+<p>There is a certain class of unbelievers who sometimes ask me such questions as, if I think that I can live on vegetable food alone; and to strike at the root of the matter at once—for the root is faith—I am accustomed to answer such, that I can live on board nails.
 If they cannot understand that, they cannot understand much that I have to say.
 For my part, I am glad to hear of experiments of this kind being tried; as that a young man tried for a fortnight to live on hard, raw corn on the ear, using his teeth for all mortar.
 The squirrel tribe tried the same and succeeded.
 The human race is interested in these experiments, though a few old women who are incapacitated for them, or who own their thirds in mills, may be alarmed.</p>
 <hr/>
-<p>My furniture, part of which I made myself⁠—and the rest cost me nothing of which I have not rendered an account⁠—consisted of a bed, a table, a desk, three chairs, a looking-glass three inches in diameter, a pair of tongs and andirons, a kettle, a skillet, and a frying-pan, a dipper, a washbowl, two knives and forks, three plates, one cup, one spoon, a jug for oil, a jug for molasses, and a japanned lamp.
+<p>My furniture, part of which I made myself—and the rest cost me nothing of which I have not rendered an account—consisted of a bed, a table, a desk, three chairs, a looking-glass three inches in diameter, a pair of tongs and andirons, a kettle, a skillet, and a frying-pan, a dipper, a washbowl, two knives and forks, three plates, one cup, one spoon, a jug for oil, a jug for molasses, and a japanned lamp.
 None is so poor that he need sit on a pumpkin.
 That is shiftlessness.
 There is a plenty of such chairs as I like best in the village garrets to be had for taking them away.
@@ -990,7 +989,7 @@ I could never tell from inspecting such a load whether it belonged to a so-calle
 Indeed, the more you have of such things the poorer you are.
 Each load looks as if it contained the contents of a dozen shanties; and if one shanty is poor, this is a dozen times as poor.
 Pray, for what do we <em>move</em> ever but to get rid of our furniture, our <i xml:lang="la">exuviœ</i>: at last to go from this world to another newly furnished, and leave this to be burned?
-It is the same as if all these traps were buckled to a man’s belt, and he could not move over the rough country where our lines are cast without dragging them⁠—dragging his trap.
+It is the same as if all these traps were buckled to a man’s belt, and he could not move over the rough country where our lines are cast without dragging them—dragging his trap.
 He was a lucky fox that left his tail in the trap.
 The muskrat will gnaw his third leg off to be free.
 No wonder man has lost his elasticity.
@@ -999,19 +998,19 @@ How often he is at a dead set!
 If you are a seer, whenever you meet a man you will see all that he owns, ay, and much that he pretends to disown, behind him, even to his kitchen furniture and all the trumpery which he saves and will not burn, and he will appear to be harnessed to it and making what headway he can.
 I think that the man is at a dead set who has got through a knothole or gateway where his sledge load of furniture cannot follow him.
 I cannot but feel compassion when I hear some trig, compact-looking man, seemingly free, all girded and ready, speak of his “furniture,” as whether it is insured or not.
-“But what shall I do with my furniture?”⁠—My gay butterfly is entangled in a spider’s web then.
+“But what shall I do with my furniture?”—My gay butterfly is entangled in a spider’s web then.
 Even those who seem for a long while not to have any, if you inquire more narrowly you will find have some stored in somebody’s barn.
 I look upon England today as an old gentleman who is travelling with a great deal of baggage, trumpery which has accumulated from long housekeeping, which he has not the courage to burn; great trunk, little trunk, bandbox, and bundle.
 Throw away the first three at least.
 It would surpass the powers of a well man nowadays to take up his bed and walk, and I should certainly advise a sick one to lay down his bed and run.
-When I have met an immigrant tottering under a bundle which contained his all⁠—looking like an enormous wen which had grown out of the nape of his neck⁠—I have pitied him, not because that was his all, but because he had all <em>that</em> to carry.
+When I have met an immigrant tottering under a bundle which contained his all—looking like an enormous wen which had grown out of the nape of his neck—I have pitied him, not because that was his all, but because he had all <em>that</em> to carry.
 If I have got to drag my trap, I will take care that it be a light one and do not nip me in a vital part.
 But perchance it would be wisest never to put one’s paw into it.</p>
 <p>I would observe, by the way, that it costs me nothing for curtains, for I have no gazers to shut out but the sun and moon, and I am willing that they should look in.
 The moon will not sour milk nor taint meat of mine, nor will the sun injure my furniture or fade my carpet; and if he is sometimes too warm a friend, I find it still better economy to retreat behind some curtain which nature has provided, than to add a single item to the details of housekeeping.
 A lady once offered me a mat, but as I had no room to spare within the house, nor time to spare within or without to shake it, I declined it, preferring to wipe my feet on the sod before my door.
 It is best to avoid the beginnings of evil.</p>
-<p>Not long since I was present at the auction of a deacon’s effects, for his life had not been ineffectual:⁠—</p>
+<p>Not long since I was present at the auction of a deacon’s effects, for his life had not been ineffectual:—</p>
 <blockquote>
 	<p>“The evil that men do lives after them.”</p>
 </blockquote>
@@ -1037,14 +1036,14 @@ I have thoroughly tried school-keeping, and found that my expenses were in propo
 As I did not teach for the good of my fellowmen, but simply for a livelihood, this was a failure.
 I have tried trade but I found that it would take ten years to get under way in that, and that then I should probably be on my way to the devil.
 I was actually afraid that I might by that time be doing what is called a good business.
-When formerly I was looking about to see what I could do for a living, some sad experience in conforming to the wishes of friends being fresh in my mind to tax my ingenuity, I thought often and seriously of picking huckleberries; that surely I could do, and its small profits might suffice⁠—for my greatest skill has been to want but little⁠—so little capital it required, so little distraction from my wonted moods, I foolishly thought.
+When formerly I was looking about to see what I could do for a living, some sad experience in conforming to the wishes of friends being fresh in my mind to tax my ingenuity, I thought often and seriously of picking huckleberries; that surely I could do, and its small profits might suffice—for my greatest skill has been to want but little—so little capital it required, so little distraction from my wonted moods, I foolishly thought.
 While my acquaintances went unhesitatingly into trade or the professions, I contemplated this occupation as most like theirs; ranging the hills all summer to pick the berries which came in my way, and thereafter carelessly dispose of them; so, to keep the flocks of Admetus.
 I also dreamed that I might gather the wild herbs, or carry evergreens to such villagers as loved to be reminded of the woods, even to the city, by hay-cart loads.
 But I have since learned that trade curses everything it handles; and though you trade in messages from heaven, the whole curse of trade attaches to the business.</p>
 <p>As I preferred some things to others, and especially valued my freedom, as I could fare hard and yet succeed well, I did not wish to spend my time in earning rich carpets or other fine furniture, or delicate cookery, or a house in the Grecian or the Gothic style just yet.
 If there are any to whom it is no interruption to acquire these things, and who know how to use them when acquired, I relinquish to them the pursuit.
 Some are “industrious,” and appear to love labor for its own sake, or perhaps because it keeps them out of worse mischief; to such I have at present nothing to say.
-Those who would not know what to do with more leisure than they now enjoy, I might advise to work twice as hard as they do⁠—work till they pay for themselves, and get their free papers.
+Those who would not know what to do with more leisure than they now enjoy, I might advise to work twice as hard as they do—work till they pay for themselves, and get their free papers.
 For myself I found that the occupation of a day-laborer was the most independent of any, especially as it required only thirty or forty days in a year to support one.
 The laborer’s day ends with the going down of the sun, and he is then free to devote himself to his chosen pursuit, independent of his labor; but his employer, who speculates from month to month, has no respite from one end of the year to the other.</p>
 <p>In short, I am convinced, both by faith and experience, that to maintain one’s self on this earth is not a hardship but a pastime, if we will live simply and wisely; as the pursuits of the simpler nations are still the sports of the more artificial.
@@ -1068,7 +1067,7 @@ Above all, as I have implied, the man who goes alone can start today; but he who
 <p>But all this is very selfish, I have heard some of my townsmen say.
 I confess that I have hitherto indulged very little in philanthropic enterprises.
 I have made some sacrifices to a sense of duty, and among others have sacrificed this pleasure also.
-There are those who have used all their arts to persuade me to undertake the support of some poor family in the town; and if I had nothing to do⁠—for the devil finds employment for the idle⁠—I might try my hand at some such pastime as that.
+There are those who have used all their arts to persuade me to undertake the support of some poor family in the town; and if I had nothing to do—for the devil finds employment for the idle—I might try my hand at some such pastime as that.
 However, when I have thought to indulge myself in this respect, and lay their Heaven under an obligation by maintaining certain poor persons in all respects as comfortably as I maintain myself, and have even ventured so far as to make them the offer, they have one and all unhesitatingly preferred to remain poor.
 While my townsmen and women are devoted in so many ways to the good of their fellows, I trust that one at least may be spared to other and less humane pursuits.
 You must have a genius for charity as well as for anything else.
@@ -1077,7 +1076,7 @@ Moreover, I have tried it fairly, and, strange as it may seem, am satisfied that
 Probably I should not consciously and deliberately forsake my particular calling to do the good which society demands of me, to save the universe from annihilation; and I believe that a like but infinitely greater steadfastness elsewhere is all that now preserves it.
 But I would not stand between any man and his genius; and to him who does this work, which I decline, with his whole heart and soul and life, I would say, Persevere, even if the world call it doing evil, as it is most likely they will.</p>
 <p>I am far from supposing that my case is a peculiar one; no doubt many of my readers would make a similar defence.
-At doing something⁠—I will not engage that my neighbors shall pronounce it good⁠—I do not hesitate to say that I should be a capital fellow to hire; but what that is, it is for my employer to find out.
+At doing something—I will not engage that my neighbors shall pronounce it good—I do not hesitate to say that I should be a capital fellow to hire; but what that is, it is for my employer to find out.
 What <em>good</em> I do, in the common sense of that word, must be aside from my main path, and for the most part wholly unintended.
 Men say, practically, Begin where you are and such as you are, without aiming mainly to become of more worth, and with kindness aforethought go about doing good.
 If I were to preach at all in this strain, I should say rather, Set about being good.
@@ -1085,8 +1084,8 @@ As if the sun should stop when he had kindled his fires up to the splendor of a 
 When Phaeton, wishing to prove his heavenly birth by his beneficence, had the sun’s chariot but one day, and drove out of the beaten track, he burned several blocks of houses in the lower streets of heaven, and scorched the surface of the earth, and dried up every spring, and made the great desert of Sahara, till at length Jupiter hurled him headlong to the earth with a thunderbolt, and the sun, through grief at his death, did not shine for a year.</p>
 <p>There is no odor so bad as that which arises from goodness tainted.
 It is human, it is divine, carrion.
-If I knew for a certainty that a man was coming to my house with the conscious design of doing me good, I should run for my life, as from that dry and parching wind of the African deserts called the simoom, which fills the mouth and nose and ears and eyes with dust till you are suffocated, for fear that I should get some of his good done to me⁠—some of its virus mingled with my blood.
-No⁠—in this case I would rather suffer evil the natural way.
+If I knew for a certainty that a man was coming to my house with the conscious design of doing me good, I should run for my life, as from that dry and parching wind of the African deserts called the simoom, which fills the mouth and nose and ears and eyes with dust till you are suffocated, for fear that I should get some of his good done to me—some of its virus mingled with my blood.
+No—in this case I would rather suffer evil the natural way.
 A man is not a good <em>man</em> to me because he will feed me if I should be starving, or warm me if I should be freezing, or pull me out of a ditch if I should ever fall into one.
 I can find you a Newfoundland dog that will do as much.
 Philanthropy is not love for one’s fellowman in the broadest sense.
@@ -1129,8 +1128,8 @@ We should impart our courage, and not our despair, our health and ease, and not 
 From what southern plains comes up the voice of wailing?
 Under what latitudes reside the heathen to whom we would send light?
 Who is that intemperate and brutal man whom we would redeem?
-If anything ail a man, so that he does not perform his functions, if he have a pain in his bowels even⁠—for that is the seat of sympathy⁠—he forthwith sets about reforming⁠—the world.
-Being a microcosm himself, he discovers⁠—and it is a true discovery, and he is the man to make it⁠—that the world has been eating green apples; to his eyes, in fact, the globe itself is a great green apple, which there is danger awful to think of that the children of men will nibble before it is ripe; and straightway his drastic philanthropy seeks out the Esquimau and the Patagonian, and embraces the populous Indian and Chinese villages; and thus, by a few years of philanthropic activity, the powers in the meanwhile using him for their own ends, no doubt, he cures himself of his dyspepsia, the globe acquires a faint blush on one or both of its cheeks, as if it were beginning to be ripe, and life loses its crudity and is once more sweet and wholesome to live.
+If anything ail a man, so that he does not perform his functions, if he have a pain in his bowels even—for that is the seat of sympathy—he forthwith sets about reforming—the world.
+Being a microcosm himself, he discovers—and it is a true discovery, and he is the man to make it—that the world has been eating green apples; to his eyes, in fact, the globe itself is a great green apple, which there is danger awful to think of that the children of men will nibble before it is ripe; and straightway his drastic philanthropy seeks out the Esquimau and the Patagonian, and embraces the populous Indian and Chinese villages; and thus, by a few years of philanthropic activity, the powers in the meanwhile using him for their own ends, no doubt, he cures himself of his dyspepsia, the globe acquires a faint blush on one or both of its cheeks, as if it were beginning to be ripe, and life loses its crudity and is once more sweet and wholesome to live.
 I never dreamed of any enormity greater than I have committed.
 I never knew, and never shall know, a worse man than myself.</p>
 <p>I believe that what so saddens the reformer is not his sympathy with his fellows in distress, but, though he be the holiest son of God, is his private ail.
@@ -1147,7 +1146,7 @@ All health and success does me good, however far off and withdrawn it may appear
 If, then, we would indeed restore mankind by truly Indian, botanic, magnetic, or natural means, let us first be as simple and well as Nature ourselves, dispel the clouds which hang over our own brows, and take up a little life into our pores.
 Do not stay to be an overseer of the poor, but endeavor to become one of the worthies of the world.</p>
 <p>I read in the Gulistan, or Flower Garden, of Sheik Sadi of Shiraz, that “they asked a wise man, saying: Of the many celebrated trees which the Most High God has created lofty and umbrageous, they call none azad, or free, excepting the cypress, which bears no fruit; what mystery is there in this?
-He replied, Each has its appropriate produce, and appointed season, during the continuance of which it is fresh and blooming, and during their absence dry and withered; to neither of which states is the cypress exposed, being always flourishing; and of this nature are the azads, or religious independents.⁠—Fix not thy heart on that which is transitory; for the Dijlah, or Tigris, will continue to flow through Bagdad after the race of caliphs is extinct: if thy hand has plenty, be liberal as the date tree; but if it affords nothing to give away, be an azad, or free man, like the cypress.”</p>
+He replied, Each has its appropriate produce, and appointed season, during the continuance of which it is fresh and blooming, and during their absence dry and withered; to neither of which states is the cypress exposed, being always flourishing; and of this nature are the azads, or religious independents.—Fix not thy heart on that which is transitory; for the Dijlah, or Tigris, will continue to flow through Bagdad after the race of caliphs is extinct: if thy hand has plenty, be liberal as the date tree; but if it affords nothing to give away, be an azad, or free man, like the cypress.”</p>
 <blockquote epub:type="z3998:poem">
 	<header>
 		<p>

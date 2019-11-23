@@ -1,6 +1,5 @@
 ---
 title: The Village
-type: chapter
 ---
 <p>After hoeing, or perhaps reading and writing, in the forenoon, I usually bathed again in the pond, swimming across one of its coves for a stint, and washed the dust of labor from my person, or smoothed out the last wrinkle which study had made, and for the afternoon was absolutely free.
 Every day or two I strolled to the village to hear some of the gossip which is incessantly going on there, circulating either from mouth to mouth, or from newspaper to newspaper, and which, taken in homoeopathic doses, was really as refreshing in its way as the rustle of leaves and the peeping of frogs.
@@ -8,7 +7,7 @@ As I walked in the woods to see the birds and squirrels, so I walked in the vill
 In one direction from my house there was a colony of muskrats in the river meadows; under the grove of elms and buttonwoods in the other horizon was a village of busy men, as curious to me as if they had been prairie-dogs, each sitting at the mouth of its burrow, or running over to a neighbor’s to gossip.
 I went there frequently to observe their habits.
 The village appeared to me a great news room; and on one side, to support it, as once at Redding &amp; Company’s on State Street, they kept nuts and raisins, or salt and meal and other groceries.
-Some have such a vast appetite for the former commodity, that is, the news, and such sound digestive organs, that they can sit forever in public avenues without stirring, and let it simmer and whisper through them like the Etesian winds, or as if inhaling ether, it only producing numbness and insensibility to pain⁠—otherwise it would often be painful to bear⁠—without affecting the consciousness.
+Some have such a vast appetite for the former commodity, that is, the news, and such sound digestive organs, that they can sit forever in public avenues without stirring, and let it simmer and whisper through them like the Etesian winds, or as if inhaling ether, it only producing numbness and insensibility to pain—otherwise it would often be painful to bear—without affecting the consciousness.
 I hardly ever failed, when I rambled through the village, to see a row of such worthies, either sitting on a ladder sunning themselves, with their bodies inclined forward and their eyes glancing along the line this way and that, from time to time, with a voluptuous expression, or else leaning against a barn with their hands in their pockets, like caryatides, as if to prop it up.
 They, being commonly out of doors, heard whatever was in the wind.
 These are the coarsest mills, in which all gossip is first rudely digested or cracked up before it is emptied into finer and more delicate hoppers within doors.
@@ -18,7 +17,7 @@ Signs were hung out on all sides to allure him; some to catch him by the appetit
 Besides, there was a still more terrible standing invitation to call at every one of these houses, and company expected about these times.
 For the most part I escaped wonderfully from these dangers, either by proceeding at once boldly and without deliberation to the goal, as is recommended to those who run the gauntlet, or by keeping my thoughts on high things, like Orpheus, who, “loudly singing the praises of the gods to his lyre, drowned the voices of the Sirens, and kept out of danger.”
 Sometimes I bolted suddenly, and nobody could tell my whereabouts, for I did not stand much about gracefulness, and never hesitated at a gap in a fence.
-I was even accustomed to make an irruption into some houses, where I was well entertained, and after learning the kernels and very last sieveful of news⁠—what had subsided, the prospects of war and peace, and whether the world was likely to hold together much longer⁠—I was let out through the rear avenues, and so escaped to the woods again.</p>
+I was even accustomed to make an irruption into some houses, where I was well entertained, and after learning the kernels and very last sieveful of news—what had subsided, the prospects of war and peace, and whether the world was likely to hold together much longer—I was let out through the rear avenues, and so escaped to the woods again.</p>
 <p>It was very pleasant, when I stayed late in town, to launch myself into the night, especially if it was dark and tempestuous, and set sail from some bright village parlor or lecture room, with a bag of rye or Indian meal upon my shoulder, for my snug harbor in the woods, having made all tight without and withdrawn under hatches with a merry crew of thoughts, leaving only my outer man at the helm, or even tying up the helm when it was plain sailing.
 I had many a genial thought by the cabin fire “as I sailed.”
 I was never cast away nor distressed in any weather, though I encountered some severe storms.
@@ -35,7 +34,7 @@ It is a surprising and memorable, as well as valuable experience, to be lost in 
 Often in a snowstorm, even by day, one will come out upon a well-known road and yet find it impossible to tell which way leads to the village.
 Though he knows that he has travelled it a thousand times, he cannot recognize a feature in it, but it is as strange to him as if it were a road in Siberia.
 By night, of course, the perplexity is infinitely greater.
-In our most trivial walks, we are constantly, though unconsciously, steering like pilots by certain well-known beacons and headlands, and if we go beyond our usual course we still carry in our minds the bearing of some neighboring cape; and not till we are completely lost, or turned round⁠—for a man needs only to be turned round once with his eyes shut in this world to be lost⁠—do we appreciate the vastness and strangeness of nature.
+In our most trivial walks, we are constantly, though unconsciously, steering like pilots by certain well-known beacons and headlands, and if we go beyond our usual course we still carry in our minds the bearing of some neighboring cape; and not till we are completely lost, or turned round—for a man needs only to be turned round once with his eyes shut in this world to be lost—do we appreciate the vastness and strangeness of nature.
 Every man has to learn the points of compass again as often as he awakes, whether from sleep or any abstraction.
 Not till we are lost, in other words not till we have lost the world, do we begin to find ourselves, and realize where we are and the infinite extent of our relations.</p>
 <p>One afternoon, near the end of the first summer, when I went to the village to get a shoe from the cobbler’s, I was seized and put into jail, because, as I have elsewhere related, I did not pay a tax to, or recognize the authority of, the State which buys and sells men, women, and children, like cattle, at the door of its senate-house.
@@ -66,4 +65,4 @@ The Pope’s Homers would soon get properly distributed.</p>
 </blockquote>
 <p>“You who govern public affairs, what need have you to employ punishments?
 Love virtue, and the people will be virtuous.
-The virtues of a superior man are like the wind; the virtues of a common man are like the grass⁠—the grass, when the wind passes over it, bends.”</p>
+The virtues of a superior man are like the wind; the virtues of a common man are like the grass—the grass, when the wind passes over it, bends.”</p>

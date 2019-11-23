@@ -1,6 +1,5 @@
 ---
 title: Solitude
-type: chapter
 ---
 <p>This is a delicious evening, when the whole body is one sense, and imbibes delight through every pore.
 I go and come with a strange liberty in Nature, a part of herself.
@@ -11,7 +10,7 @@ These small waves raised by the evening wind are as remote from storm as the smo
 Though it is now dark, the wind still blows and roars in the wood, the waves still dash, and some creatures lull the rest with their notes.
 The repose is never complete.
 The wildest animals do not repose, but seek their prey now; the fox, and skunk, and rabbit, now roam the fields and woods without fear.
-They are Nature’s watchmen⁠—links which connect the days of animated life.</p>
+They are Nature’s watchmen—links which connect the days of animated life.</p>
 <p>When I return to my house I find that visitors have been there and left their cards, either a bunch of flowers, or a wreath of evergreen, or a name in pencil on a yellow walnut leaf or a chip.
 They who come rarely to the woods take some little piece of the forest into their hands to play with by the way, which they leave, either intentionally or accidentally.
 One has peeled a willow wand, woven it into a ring, and dropped it on my table.
@@ -26,7 +25,7 @@ I have my horizon bounded by woods all to myself; a distant view of the railroad
 But for the most part it is as solitary where I live as on the prairies.
 It is as much Asia or Africa as New England.
 I have, as it were, my own sun and moon and stars, and a little world all to myself.
-At night there was never a traveller passed my house, or knocked at my door, more than if I were the first or last man; unless it were in the spring, when at long intervals some came from the village to fish for pouts⁠—they plainly fished much more in the Walden Pond of their own natures, and baited their hooks with darkness⁠—but they soon retreated, usually with light baskets, and left “the world to darkness and to me,” and the black kernel of the night was never profaned by any human neighborhood.
+At night there was never a traveller passed my house, or knocked at my door, more than if I were the first or last man; unless it were in the spring, when at long intervals some came from the village to fish for pouts—they plainly fished much more in the Walden Pond of their own natures, and baited their hooks with darkness—but they soon retreated, usually with light baskets, and left “the world to darkness and to me,” and the black kernel of the night was never profaned by any human neighborhood.
 I believe that men are generally still a little afraid of the dark, though the witches are all hung, and Christianity and candles have been introduced.</p>
 <p>Yet I experienced sometimes that the most sweet and tender, the most innocent and encouraging society may be found in any natural object, even for the poor misanthrope and most melancholy man.
 There can be no very black melancholy to him who lives in the midst of Nature and has his senses still.
@@ -58,7 +57,7 @@ In those driving northeast rains which tried the village houses so, when the mai
 In one heavy thundershower the lightning struck a large pitch pine across the pond, making a very conspicuous and perfectly regular spiral groove from top to bottom, an inch or more deep, and four or five inches wide, as you would groove a walking stick.
 I passed it again the other day, and was struck with awe on looking up and beholding that mark, now more distinct than ever, where a terrific and resistless bolt came down out of the harmless sky eight years ago.
 Men frequently say to me, “I should think you would feel lonesome down there, and want to be nearer to folks, rainy and snowy days and nights especially.”
-I am tempted to reply to such⁠—This whole earth which we inhabit is but a point in space.
+I am tempted to reply to such—This whole earth which we inhabit is but a point in space.
 How far apart, think you, dwell the two most distant inhabitants of yonder star, the breadth of whose disk cannot be appreciated by our instruments?
 Why should I feel lonely? is not our planet in the Milky Way?
 This which you put seems to me not to be the most important question.
@@ -66,9 +65,9 @@ What sort of space is that which separates a man from his fellows and makes him 
 I have found that no exertion of the legs can bring two minds much nearer to one another.
 What do we want most to dwell near to?
 Not to many men surely, the depot, the post-office, the barroom, the meetinghouse, the schoolhouse, the grocery, Beacon Hill, or the Five Points, where men most congregate, but to the perennial source of our life, whence in all our experience we have found that to issue, as the willow stands near the water and sends out its roots in that direction.
-This will vary with different natures, but this is the place where a wise man will dig his cellar. … I one evening overtook one of my townsmen, who has accumulated what is called “a handsome property”⁠—though I never got a <em>fair</em> view of it⁠—on the Walden road, driving a pair of cattle to market, who inquired of me how I could bring my mind to give up so many of the comforts of life.
+This will vary with different natures, but this is the place where a wise man will dig his cellar. … I one evening overtook one of my townsmen, who has accumulated what is called “a handsome property”—though I never got a <em>fair</em> view of it—on the Walden road, driving a pair of cattle to market, who inquired of me how I could bring my mind to give up so many of the comforts of life.
 I answered that I was very sure I liked it passably well; I was not joking.
-And so I went home to my bed, and left him to pick his way through the darkness and the mud to Brighton⁠—or Bright-town⁠—which place he would reach some time in the morning.</p>
+And so I went home to my bed, and left him to pick his way through the darkness and the mud to Brighton—or Bright-town—which place he would reach some time in the morning.</p>
 <p>Any prospect of awakening or coming to life to a dead man makes indifferent all times and places.
 The place where that may occur is always the same, and indescribably pleasant to all our senses.
 For the most part we allow only outlying and transient circumstances to make our occasions.
@@ -86,7 +85,7 @@ It is an ocean of subtle intelligences.
 They are everywhere, above us, on our left, on our right; they environ us on all sides.”</p>
 </blockquote>
 <p>We are the subjects of an experiment which is not a little interesting to me.
-Can we not do without the society of our gossips a little while under these circumstances⁠—have our own thoughts to cheer us?
+Can we not do without the society of our gossips a little while under these circumstances—have our own thoughts to cheer us?
 Confucius says truly, “Virtue does not remain as an abandoned orphan; it must of necessity have neighbors.”</p>
 <p>With thinking we may be beside ourselves in a sane sense.
 By a conscious effort of the mind we can stand aloof from actions and their consequences; and all things, good and bad, go by us like a torrent.
@@ -113,7 +112,7 @@ We meet at meals three times a day, and give each other a new taste of that old 
 We have had to agree on a certain set of rules, called etiquette and politeness, to make this frequent meeting tolerable and that we need not come to open war.
 We meet at the post-office, and at the sociable, and about the fireside every night; we live thick and are in each other’s way, and stumble over one another, and I think that we thus lose some respect for one another.
 Certainly less frequency would suffice for all important and hearty communications.
-Consider the girls in a factory⁠—never alone, hardly in their dreams.
+Consider the girls in a factory—never alone, hardly in their dreams.
 It would be better if there were but one inhabitant to a square mile, as where I live.
 The value of a man is not in his skin, that we should touch him.</p>
 <p>I have heard of a man lost in the woods and dying of famine and exhaustion at the foot of a tree, whose loneliness was relieved by the grotesque visions with which, owing to bodily weakness, his diseased imagination surrounded him, and which he believed to be real.
@@ -124,13 +123,13 @@ I am no more lonely than the loon in the pond that laughs so loud, or than Walde
 What company has that lonely lake, I pray?
 And yet it has not the blue devils, but the blue angels in it, in the azure tint of its waters.
 The sun is alone, except in thick weather, when there sometimes appear to be two, but one is a mock sun.
-God is alone⁠—but the devil, he is far from being alone; he sees a great deal of company; he is legion.
+God is alone—but the devil, he is far from being alone; he sees a great deal of company; he is legion.
 I am no more lonely than a single mullein or dandelion in a pasture, or a bean leaf, or sorrel, or a horsefly, or a bumblebee.
 I am no more lonely than the Mill Brook, or a weathercock, or the north star, or the south wind, or an April shower, or a January thaw, or the first spider in a new house.</p>
-<p>I have occasional visits in the long winter evenings, when the snow falls fast and the wind howls in the wood, from an old settler and original proprietor, who is reported to have dug Walden Pond, and stoned it, and fringed it with pine woods; who tells me stories of old time and of new eternity; and between us we manage to pass a cheerful evening with social mirth and pleasant views of things, even without apples or cider⁠—a most wise and humorous friend, whom I love much, who keeps himself more secret than ever did Goffe or Whalley; and though he is thought to be dead, none can show where he is buried.
+<p>I have occasional visits in the long winter evenings, when the snow falls fast and the wind howls in the wood, from an old settler and original proprietor, who is reported to have dug Walden Pond, and stoned it, and fringed it with pine woods; who tells me stories of old time and of new eternity; and between us we manage to pass a cheerful evening with social mirth and pleasant views of things, even without apples or cider—a most wise and humorous friend, whom I love much, who keeps himself more secret than ever did Goffe or Whalley; and though he is thought to be dead, none can show where he is buried.
 An elderly dame, too, dwells in my neighborhood, invisible to most persons, in whose odorous herb garden I love to stroll sometimes, gathering simples and listening to her fables; for she has a genius of unequalled fertility, and her memory runs back farther than mythology, and she can tell me the original of every fable, and on what fact every one is founded, for the incidents occurred when she was young.
 A ruddy and lusty old dame, who delights in all weathers and seasons, and is likely to outlive all her children yet.</p>
-<p>The indescribable innocence and beneficence of Nature⁠—of sun and wind and rain, of summer and winter⁠—such health, such cheer, they afford forever! and such sympathy have they ever with our race, that all Nature would be affected, and the sun’s brightness fade, and the winds would sigh humanely, and the clouds rain tears, and the woods shed their leaves and put on mourning in midsummer, if any man should ever for a just cause grieve.
+<p>The indescribable innocence and beneficence of Nature—of sun and wind and rain, of summer and winter—such health, such cheer, they afford forever! and such sympathy have they ever with our race, that all Nature would be affected, and the sun’s brightness fade, and the winds would sigh humanely, and the clouds rain tears, and the woods shed their leaves and put on mourning in midsummer, if any man should ever for a just cause grieve.
 Shall I not have intelligence with the earth?
 Am I not partly leaves and vegetable mould myself?</p>
 <p>What is the pill which will keep us well, serene, contented?

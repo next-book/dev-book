@@ -1,20 +1,19 @@
 ---
 title: Where I Lived, and What I Lived For
-type: chapter
 ---
 <p>At a certain season of our life we are accustomed to consider every spot as the possible site of a house.
 I have thus surveyed the country on every side within a dozen miles of where I live.
 In imagination I have bought all the farms in succession, for all were to be bought, and I knew their price.
-I walked over each farmer’s premises, tasted his wild apples, discoursed on husbandry with him, took his farm at his price, at any price, mortgaging it to him in my mind; even put a higher price on it⁠—took everything but a deed of it⁠—took his word for his deed, for I dearly love to talk⁠—cultivated it, and him too to some extent, I trust, and withdrew when I had enjoyed it long enough, leaving him to carry it on.
+I walked over each farmer’s premises, tasted his wild apples, discoursed on husbandry with him, took his farm at his price, at any price, mortgaging it to him in my mind; even put a higher price on it—took everything but a deed of it—took his word for his deed, for I dearly love to talk—cultivated it, and him too to some extent, I trust, and withdrew when I had enjoyed it long enough, leaving him to carry it on.
 This experience entitled me to be regarded as a sort of real-estate broker by my friends.
 Wherever I sat, there I might live, and the landscape radiated from me accordingly.
-What is a house but a <i xml:lang="la">sedes</i>, a seat?⁠—better if a country seat.
+What is a house but a <i xml:lang="la">sedes</i>, a seat?—better if a country seat.
 I discovered many a site for a house not likely to be soon improved, which some might have thought too far from the village, but to my eyes the village was too far from it.
 Well, there I might live, I said; and there I did live, for an hour, a summer and a winter life; saw how I could let the years run off, buffet the winter through, and see the spring come in.
 The future inhabitants of this region, wherever they may place their houses, may be sure that they have been anticipated.
 An afternoon sufficed to lay out the land into orchard, woodlot, and pasture, and to decide what fine oaks or pines should be left to stand before the door, and whence each blasted tree could be seen to the best advantage; and then I let it lie, fallow, perchance, for a man is rich in proportion to the number of things which he can afford to let alone.</p>
-<p>My imagination carried me so far that I even had the refusal of several farms⁠—the refusal was all I wanted⁠—but I never got my fingers burned by actual possession.
-The nearest that I came to actual possession was when I bought the Hollowell place, and had begun to sort my seeds, and collected materials with which to make a wheelbarrow to carry it on or off with; but before the owner gave me a deed of it, his wife⁠—every man has such a wife⁠—changed her mind and wished to keep it, and he offered me ten dollars to release him.
+<p>My imagination carried me so far that I even had the refusal of several farms—the refusal was all I wanted—but I never got my fingers burned by actual possession.
+The nearest that I came to actual possession was when I bought the Hollowell place, and had begun to sort my seeds, and collected materials with which to make a wheelbarrow to carry it on or off with; but before the owner gave me a deed of it, his wife—every man has such a wife—changed her mind and wished to keep it, and he offered me ten dollars to release him.
 Now, to speak the truth, I had but ten cents in the world, and it surpassed my arithmetic to tell, if I was that man who had ten cents, or who had a farm, or ten dollars, or all together.
 However, I let him keep the ten dollars and the farm too, for I had carried it far enough; or rather, to be generous, I sold him the farm for just what I gave for it, and, as he was not a rich man, made him a present of ten dollars, and still had my ten cents, and seeds, and materials for a wheelbarrow left.
 I found thus that I had been a rich man without any damage to my poverty.
@@ -31,14 +30,14 @@ With respect to landscapes,</p>
 Why, the owner does not know it for many years when a poet has put his farm in rhyme, the most admirable kind of invisible fence, has fairly impounded it, milked it, skimmed it, and got all the cream, and left the farmer only the skimmed milk.</p>
 <p>The real attractions of the Hollowell farm, to me, were: its complete retirement, being, about two miles from the village, half a mile from the nearest neighbor, and separated from the highway by a broad field; its bounding on the river, which the owner said protected it by its fogs from frosts in the spring, though that was nothing to me; the gray color and ruinous state of the house and barn, and the dilapidated fences, which put such an interval between me and the last occupant; the hollow and lichen-covered apple trees, gnawed by rabbits, showing what kind of neighbors I should have; but above all, the recollection I had of it from my earliest voyages up the river, when the house was concealed behind a dense grove of red maples, through which I heard the house-dog bark.
 I was in haste to buy it, before the proprietor finished getting out some rocks, cutting down the hollow apple trees, and grubbing up some young birches which had sprung up in the pasture, or, in short, had made any more of his improvements.
-To enjoy these advantages I was ready to carry it on; like Atlas, to take the world on my shoulders⁠—I never heard what compensation he received for that⁠—and do all those things which had no other motive or excuse but that I might pay for it and be unmolested in my possession of it; for I knew all the while that it would yield the most abundant crop of the kind I wanted, if I could only afford to let it alone.
+To enjoy these advantages I was ready to carry it on; like Atlas, to take the world on my shoulders—I never heard what compensation he received for that—and do all those things which had no other motive or excuse but that I might pay for it and be unmolested in my possession of it; for I knew all the while that it would yield the most abundant crop of the kind I wanted, if I could only afford to let it alone.
 But it turned out as I have said.</p>
-<p>All that I could say, then, with respect to farming on a large scale⁠—I have always cultivated a garden⁠—was, that I had had my seeds ready.
+<p>All that I could say, then, with respect to farming on a large scale—I have always cultivated a garden—was, that I had had my seeds ready.
 Many think that seeds improve with age.
 I have no doubt that time discriminates between the good and the bad; and when at last I shall plant, I shall be less likely to be disappointed.
 But I would say to my fellows, once for all, As long as possible live free and uncommitted.
 It makes but little difference whether you are committed to a farm or the county jail.</p>
-<p>Old Cato, whose <i epub:type="se:name.publication.poem">De Re Rustica</i> is my <i epub:type="se:name.publication.poem">Cultivator</i>, says⁠—and the only translation I have seen makes sheer nonsense of the passage⁠—“When you think of getting a farm turn it thus in your mind, not to buy greedily; nor spare your pains to look at it, and do not think it enough to go round it once.
+<p>Old Cato, whose <i epub:type="se:name.publication.poem">De Re Rustica</i> is my <i epub:type="se:name.publication.poem">Cultivator</i>, says—and the only translation I have seen makes sheer nonsense of the passage—“When you think of getting a farm turn it thus in your mind, not to buy greedily; nor spare your pains to look at it, and do not think it enough to go round it once.
 The oftener you go there the more it will please you, if it is good.”
 I think I shall not buy greedily, but go round and round it as long as I live, and be buried in it first, that it may please me the more at last.</p>
 <hr/>
@@ -59,7 +58,7 @@ I did not need to go outdoors to take the air, for the atmosphere within had los
 It was not so much within doors as behind a door where I sat, even in the rainiest weather.
 The Harivansa says, “An abode without birds is like a meat without seasoning.”
 Such was not my abode, for I found myself suddenly neighbor to the birds; not by having imprisoned one, but having caged myself near them.
-I was not only nearer to some of those which commonly frequent the garden and the orchard, but to those smaller and more thrilling songsters of the forest which never, or rarely, serenade a villager⁠—the wood thrush, the veery, the scarlet tanager, the field sparrow, the whip-poor-will, and many others.</p>
+I was not only nearer to some of those which commonly frequent the garden and the orchard, but to those smaller and more thrilling songsters of the forest which never, or rarely, serenade a villager—the wood thrush, the veery, the scarlet tanager, the field sparrow, the whip-poor-will, and many others.</p>
 <p>I was seated by the shore of a small pond, about a mile and a half south of the village of Concord and somewhat higher than it, in the midst of an extensive wood between that town and Lincoln, and about two miles south of that our only field known to fame, Concord Battle Ground; but I was so low in the woods that the opposite shore, half a mile off, like the rest, covered with wood, was my most distant horizon.
 For the first week, whenever I looked out on the pond it impressed me like a tarn high up on the side of a mountain, its bottom far above the surface of other lakes, and, as the sun arose, I saw it throwing off its nightly clothing of mist, and here and there, by degrees, its soft ripples or its smooth reflecting surface was revealed, while the mists, like ghosts, were stealthily withdrawing in every direction into the woods, as at the breaking up of some nocturnal conventicle.
 The very dew seemed to hang upon the trees later into the day than usual, as on the sides of mountains.</p>
@@ -76,7 +75,7 @@ When I looked across the pond from this peak toward the Sudbury meadows, which i
 <p>Though the view from my door was still more contracted, I did not feel crowded or confined in the least.
 There was pasture enough for my imagination.
 The low shrub oak plateau to which the opposite shore arose stretched away toward the prairies of the West and the steppes of Tartary, affording ample room for all the roving families of men.
-“There are none happy in the world but beings who enjoy freely a vast horizon”⁠—said Damodara, when his herds required new and larger pastures.</p>
+“There are none happy in the world but beings who enjoy freely a vast horizon”—said Damodara, when his herds required new and larger pastures.</p>
 <p>Both place and time were changed, and I dwelt nearer to those parts of the universe and to those eras in history which had most attracted me.
 Where I lived was as far off as many a region viewed nightly by astronomers.
 We are wont to imagine rare and delectable places in some remote and more celestial corner of the system, behind the constellation of Cassiopeia’s Chair, far from noise and disturbance.
@@ -107,7 +106,7 @@ It was Homer’s requiem; itself an Iliad and Odyssey in the air, singing its ow
 There was something cosmical about it; a standing advertisement, till forbidden, of the everlasting vigor and fertility of the world.
 The morning, which is the most memorable season of the day, is the awakening hour.
 Then there is least somnolence in us; and for an hour, at least, some part of us awakes which slumbers all the rest of the day and night.
-Little is to be expected of that day, if it can be called a day, to which we are not awakened by our Genius, but by the mechanical nudgings of some servitor, are not awakened by our own newly acquired force and aspirations from within, accompanied by the undulations of celestial music, instead of factory bells, and a fragrance filling the air⁠—to a higher life than we fell asleep from; and thus the darkness bear its fruit, and prove itself to be good, no less than the light.
+Little is to be expected of that day, if it can be called a day, to which we are not awakened by our Genius, but by the mechanical nudgings of some servitor, are not awakened by our own newly acquired force and aspirations from within, accompanied by the undulations of celestial music, instead of factory bells, and a fragrance filling the air—to a higher life than we fell asleep from; and thus the darkness bear its fruit, and prove itself to be good, no less than the light.
 That man who does not believe that each day contains an earlier, more sacred, and auroral hour than he has yet profaned, has despaired of life, and is pursuing a descending and darkening way.
 After a partial cessation of his sensuous life, the soul of man, or its organs rather, are reinvigorated each day, and his Genius tries again what noble life it can make.
 All memorable events, I should say, transpire in morning time and in a morning atmosphere.
@@ -163,23 +162,23 @@ We are determined to be starved before we are hungry.
 Men say that a stitch in time saves nine, and so they take a thousand stitches today to save nine tomorrow.
 As for <em>work</em>, we haven’t any of any consequence.
 We have the Saint Vitus’ dance, and cannot possibly keep our heads still.
-If I should only give a few pulls at the parish bell-rope, as for a fire, that is, without setting the bell, there is hardly a man on his farm in the outskirts of Concord, notwithstanding that press of engagements which was his excuse so many times this morning, nor a boy, nor a woman, I might almost say, but would forsake all and follow that sound, not mainly to save property from the flames, but, if we will confess the truth, much more to see it burn, since burn it must, and we, be it known, did not set it on fire⁠—or to see it put out, and have a hand in it, if that is done as handsomely; yes, even if it were the parish church itself.
+If I should only give a few pulls at the parish bell-rope, as for a fire, that is, without setting the bell, there is hardly a man on his farm in the outskirts of Concord, notwithstanding that press of engagements which was his excuse so many times this morning, nor a boy, nor a woman, I might almost say, but would forsake all and follow that sound, not mainly to save property from the flames, but, if we will confess the truth, much more to see it burn, since burn it must, and we, be it known, did not set it on fire—or to see it put out, and have a hand in it, if that is done as handsomely; yes, even if it were the parish church itself.
 Hardly a man takes a half-hour’s nap after dinner, but when he wakes he holds up his head and asks, “What’s the news?” as if the rest of mankind had stood his sentinels.
 Some give directions to be waked every half-hour, doubtless for no other purpose; and then, to pay for it, they tell what they have dreamed.
 After a night’s sleep the news is as indispensable as the breakfast.
-“Pray tell me anything new that has happened to a man anywhere on this globe”⁠—and he reads it over his coffee and rolls, that a man has had his eyes gouged out this morning on the Wachito River; never dreaming the while that he lives in the dark unfathomed mammoth cave of this world, and has but the rudiment of an eye himself.</p>
+“Pray tell me anything new that has happened to a man anywhere on this globe”—and he reads it over his coffee and rolls, that a man has had his eyes gouged out this morning on the Wachito River; never dreaming the while that he lives in the dark unfathomed mammoth cave of this world, and has but the rudiment of an eye himself.</p>
 <p>For my part, I could easily do without the post-office.
 I think that there are very few important communications made through it.
-To speak critically, I never received more than one or two letters in my life⁠—I wrote this some years ago⁠—that were worth the postage.
+To speak critically, I never received more than one or two letters in my life—I wrote this some years ago—that were worth the postage.
 The penny-post is, commonly, an institution through which you seriously offer a man that penny for his thoughts which is so often safely offered in jest.
 And I am sure that I never read any memorable news in a newspaper.
-If we read of one man robbed, or murdered, or killed by accident, or one house burned, or one vessel wrecked, or one steamboat blown up, or one cow run over on the Western Railroad, or one mad dog killed, or one lot of grasshoppers in the winter⁠—we never need read of another.
+If we read of one man robbed, or murdered, or killed by accident, or one house burned, or one vessel wrecked, or one steamboat blown up, or one cow run over on the Western Railroad, or one mad dog killed, or one lot of grasshoppers in the winter—we never need read of another.
 One is enough.
 If you are acquainted with the principle, what do you care for a myriad instances and applications?
 To a philosopher all <em>news</em>, as it is called, is gossip, and they who edit and read it are old women over their tea.
 Yet not a few are greedy after this gossip.
-There was such a rush, as I hear, the other day at one of the offices to learn the foreign news by the last arrival, that several large squares of plate glass belonging to the establishment were broken by the pressure⁠—news which I seriously think a ready wit might write a twelvemonth, or twelve years, beforehand with sufficient accuracy.
-As for Spain, for instance, if you know how to throw in Don Carlos and the Infanta, and Don Pedro and Seville and Granada, from time to time in the right proportions⁠—they may have changed the names a little since I saw the papers⁠—and serve up a bullfight when other entertainments fail, it will be true to the letter, and give us as good an idea of the exact state or ruin of things in Spain as the most succinct and lucid reports under this head in the newspapers: and as for England, almost the last significant scrap of news from that quarter was the revolution of 1649; and if you have learned the history of her crops for an average year, you never need attend to that thing again, unless your speculations are of a merely pecuniary character.
+There was such a rush, as I hear, the other day at one of the offices to learn the foreign news by the last arrival, that several large squares of plate glass belonging to the establishment were broken by the pressure—news which I seriously think a ready wit might write a twelvemonth, or twelve years, beforehand with sufficient accuracy.
+As for Spain, for instance, if you know how to throw in Don Carlos and the Infanta, and Don Pedro and Seville and Granada, from time to time in the right proportions—they may have changed the names a little since I saw the papers—and serve up a bullfight when other entertainments fail, it will be true to the letter, and give us as good an idea of the exact state or ruin of things in Spain as the most succinct and lucid reports under this head in the newspapers: and as for England, almost the last significant scrap of news from that quarter was the revolution of 1649; and if you have learned the history of her crops for an average year, you never need attend to that thing again, unless your speculations are of a merely pecuniary character.
 If one may judge who rarely looks into the newspapers, nothing new does ever happen in foreign parts, a French revolution not excepted.</p>
 <p>What news! how much more important to know what that is which was never old!
 “Kieou-he-yu (great dignitary of the state of Wei) sent a man to Khoung-tseu to know his news.
@@ -187,7 +186,7 @@ Khoung-tseu caused the messenger to be seated near him, and questioned him in th
 The messenger answered with respect: My master desires to diminish the number of his faults, but he cannot come to the end of them.
 The messenger being gone, the philosopher remarked: What a worthy messenger!
 What a worthy messenger!”
-The preacher, instead of vexing the ears of drowsy farmers on their day of rest at the end of the week⁠—for Sunday is the fit conclusion of an ill-spent week, and not the fresh and brave beginning of a new one⁠—with this one other draggle-tail of a sermon, should shout with thundering voice, “Pause!
+The preacher, instead of vexing the ears of drowsy farmers on their day of rest at the end of the week—for Sunday is the fit conclusion of an ill-spent week, and not the fresh and brave beginning of a new one—with this one other draggle-tail of a sermon, should shout with thundering voice, “Pause!
 Avast!
 Why so seeming fast, but deadly slow?”</p>
 <p>Shams and delusions are esteemed for soundest truths, while reality is fabulous.
@@ -214,7 +213,7 @@ The universe constantly and obediently answers to our conceptions; whether we tr
 Let us spend our lives in conceiving then.
 The poet or the artist never yet had so fair and noble a design but some of his posterity at least could accomplish it.</p>
 <p>Let us spend one day as deliberately as Nature, and not be thrown off the track by every nutshell and mosquito’s wing that falls on the rails.
-Let us rise early and fast, or break fast, gently and without perturbation; let company come and let company go, let the bells ring and the children cry⁠—determined to make a day of it.
+Let us rise early and fast, or break fast, gently and without perturbation; let company come and let company go, let the bells ring and the children cry—determined to make a day of it.
 Why should we knock under and go with the stream?
 Let us not be upset and overwhelmed in that terrible rapid and whirlpool called a dinner, situated in the meridian shallows.
 Weather this danger and you are safe, for the rest of the way is down hill.
