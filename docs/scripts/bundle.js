@@ -54095,7 +54095,8 @@ function isPageScrolledToTop() {
 
 function getScrollStep() {
   var bottomOffset = Math.max(document.getElementById('peeks') ? document.getElementById('peeks').offsetHeight + 10 : 0, document.getElementById('catchword-bar') ? document.getElementById('catchword-bar').offsetHeight : 0);
-  return window.innerHeight - bottomOffset;
+  var remSize = parseFloat(getComputedStyle(document.documentElement).fontSize);
+  return window.innerHeight - bottomOffset - remSize;
 }
 
 function getChapterPixels(chapter, totalWords) {
