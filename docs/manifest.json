@@ -14,10 +14,10 @@
     "Social life and customs"
   ],
   "slug": "thoreau-walden-1854-57d88a",
-  "revision": "f4e83b8",
+  "revision": "a1782bc",
   "generatedAt": {
-    "date": "Sat Nov 23 2019 13:04:42 GMT+0100 (Central European Standard Time)",
-    "unix": 1574510682315
+    "date": "Sun Nov 24 2019 17:13:02 GMT+0100 (Central European Standard Time)",
+    "unix": 1574611982982
   },
   "documents": [
     {
@@ -53,24 +53,6 @@
           "index": 0,
           "level": 1,
           "name": "Brute Neighbors",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Colophon",
-      "file": "colophon.html",
-      "words": 144,
-      "chars": 883,
-      "isChapter": false,
-      "order": null,
-      "next": "economy.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Colophon",
           "id": "chunk1",
           "children": []
         }
@@ -166,24 +148,6 @@
           "index": 0,
           "level": 1,
           "name": "House-Warming",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Imprint",
-      "file": "imprint.html",
-      "words": 142,
-      "chars": 887,
-      "isChapter": false,
-      "order": null,
-      "next": "economy.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Imprint",
           "id": "chunk1",
           "children": []
         }
@@ -390,24 +354,6 @@
       ]
     },
     {
-      "title": "Uncopyright",
-      "file": "uncopyright.html",
-      "words": 378,
-      "chars": 2333,
-      "isChapter": false,
-      "order": null,
-      "next": "economy.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Uncopyright",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Visitors",
       "file": "visitors.html",
       "words": 4738,
@@ -467,8 +413,8 @@
   ],
   "totals": {
     "all": {
-      "words": 107438,
-      "chars": 581609
+      "words": 106774,
+      "chars": 577506
     },
     "chapters": {
       "words": 106009,
