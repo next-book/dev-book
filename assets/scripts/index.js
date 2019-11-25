@@ -1,4 +1,4 @@
-import { initBook } from './../../node_modules/nb-base/src/js/index.js';
+import { initBook } from 'nb-base';
 
 document.addEventListener('DOMContentLoaded', () => {
   initBook();

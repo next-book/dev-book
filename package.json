@@ -4,36 +4,22 @@
   "description": "walden",
   "main": "",
   "scripts": {
-    "build": "npm run build:js && hugo -d html && node filters.js && nb-mapper --src html --out book",
-    "build:fromhtml": "nb-mapper --src html --out book",
+    "cleanup": "rm -r ./html",
     "build:js": "webpack --mode production",
+    "build:html": "npm run build:js && hugo -d html && node filters.js",
+    "build:fromhtml": "nb-mapper --src html --out book",
+    "build": "npm run build:html && npm run build:fromhtml && npm run cleanup",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jan Martinek",
-  "devDependencies": {
-    "babel-eslint": "^10.0.3",
-    "babel-loader": "^8.0.6",
-    "nb-mapper": "^0.2.9"
-  },
   "dependencies": {
     "@babel/core": "^7.6.3",
     "@babel/preset-env": "^7.6.2",
     "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "nb-base": "^0.1.13",
+    "nb-mapper": "^0.2.9",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
-  },
-  "browserify": {
-    "transform": [
-      [
-        "babelify",
-        {
-          "presets": [
-            "@babel/preset-env",
-            "@babel/preset-react"
-          ],
-          "sourceType": "module"
-        }
-      ]
-    ]
   }
 }
