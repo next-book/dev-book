@@ -1,3 +1,5 @@
 assets/scripts/bundle.js
+assets/scripts/nb-base.js
 node_modules/*
 book/*
+public/*

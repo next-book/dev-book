@@ -1,14 +1,15 @@
 {
-  "name": "walden",
+  "name": "dev-book",
   "version": "0.0.1",
-  "description": "walden",
+  "description": "dev-book",
   "main": "",
   "scripts": {
     "cleanup": "rm -r ./html",
-    "build:js": "webpack --mode production",
+    "build:js": "cp ./node_modules/nb-base/dist/nb-base.js ./assets/scripts/nb-base.js",
+    "sync-dev-js": "cpx -vLwC ./node_modules/nb-base/dist/nb-base.js ./book/scripts/",
     "build:html": "npm run build:js && hugo -d html && node filters.js",
     "build:fromhtml": "nb-mapper --src html --out book",
-    "build": "npm run build:html && npm run build:fromhtml && npm run cleanup",
+    "build": "npm run build:html && npm run build:fromhtml && npm run cleanup && npm run sync-dev-js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jan Martinek",
