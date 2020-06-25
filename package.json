@@ -7,8 +7,9 @@
     "cleanup": "rm -r ./html",
     "build:js": "cp ./node_modules/nb-base/dist/nb-base.js ./assets/scripts/nb-base.js",
     "sync-dev-js": "cpx -vLwC ./node_modules/nb-base/dist/nb-base.js ./book/scripts/",
+    "watch-css": "sass --watch './node_modules/nb-base/src/scss/style.scss' ./book/style/style.css",
     "build:html": "npm run build:js && hugo -d html && node filters.js",
-    "build:fromhtml": "nb-mapper --src html --out book",
+    "build:fromhtml": "nb-mapper --src html --out book --dev",
     "build": "npm run build:html && npm run build:fromhtml && npm run cleanup && npm run sync-dev-js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,7 @@
     "@babel/core": "^7.6.3",
     "@babel/preset-env": "^7.6.2",
     "@babel/preset-react": "^7.0.0",
+    "@deboxsoft/cpx": "^1.5.0",
     "babel-loader": "^8.0.6",
     "nb-base": "^0.1.13",
     "nb-mapper": "^0.2.9",

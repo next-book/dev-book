@@ -1,20 +1,26 @@
 {
-	"meta": {
-		"title": "TEST Walden",
-		"author": "TEST Henry David Thoreau",
-		"published": 1854,
-		"keywords": ["Authors, American", "19th century", "Biography", "Thoreau, Henry David, 1817-1862", "Homes and haunts", "Massachusetts", "Walden Woods", "Solitude", "Social life and customs"]
-	},
-	"chapters": [
-		"where-i-lived-and-what-i-lived-for.html",
-		"reading.html",
-		"visitors.html",
-		"the-bean-field.html"
-	],
-	"static": ["style", "scripts", "fonts", "images", "favicon.png"]
+  "languageCode": "en-US",
+  "meta": {
+    "title": "TEST Walden",
+    "author": "TEST Henry David Thoreau",
+    "published": 1854,
+    "keywords": [
+      "Authors, American",
+      "19th century",
+      "Biography",
+      "Thoreau, Henry David, 1817-1862",
+      "Homes and haunts",
+      "Massachusetts",
+      "Walden Woods",
+      "Solitude",
+      "Social life and customs"
+    ]
+  },
+  "chapters": [
+    "where-i-lived-and-what-i-lived-for.html",
+    "reading.html",
+    "visitors.html",
+    "the-bean-field.html"
+  ],
+  "static": ["style", "scripts", "fonts", "images", "favicon.png"]
 }
-
-
-
-
-
