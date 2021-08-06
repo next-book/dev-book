@@ -1,5 +1,5 @@
 {
-  "languageCode": "en-US",
+  "languageCode": "cs",
   "meta": {
     "title": "TEST Walden",
     "author": "TEST Henry David Thoreau",
@@ -19,6 +19,7 @@
   "chapters": [
     "where-i-lived-and-what-i-lived-for.html",
     "reading.html",
+    "section-cover.html",
     "visitors.html",
     "the-bean-field.html"
   ],
